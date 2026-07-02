@@ -32,14 +32,16 @@ class StreamExtractor:
         """
         enhanced_log(
             f"Extracting stream URL from: {webcam_url}",
-            processo="extract_stream_url")
+            processo="extract_stream_url"
+        )
         html_content = self._fetch_url(webcam_url)
 
         if not html_content:
             enhanced_log(
                 f"No HTML content found for: {webcam_url}",
                 "WARNING",
-                processo="extract_stream_url")
+                processo="extract_stream_url"
+            )
             return None
 
         # First look for the HLS stream (m3u8) pattern with dynamic token
@@ -51,7 +53,8 @@ class StreamExtractor:
             final_url = f"https://hd-auth.skylinewebcams.com/live.m3u8?a={token}"
             enhanced_log(
                 f"Found m3u8 URL with token: {final_url}",
-                processo="extract_stream_url")
+                processo="extract_stream_url"
+            )
             return final_url
 
         # Alternative pattern for full m3u8 URL
@@ -62,7 +65,8 @@ class StreamExtractor:
             final_url = m3u8_full_match.group(1)
             enhanced_log(
                 f"Found full m3u8 URL: {final_url}",
-                processo="extract_stream_url")
+                processo="extract_stream_url"
+            )
             return final_url
 
         # If dynamic token not found, try legacy patterns for compatibility
@@ -71,9 +75,9 @@ class StreamExtractor:
 
         if m3u8_match:
             enhanced_log(
-                f"Found legacy m3u8 URL: {
-                    m3u8_match.group(1)}",
-                processo="extract_stream_url")
+                f"Found legacy m3u8 URL: {m3u8_match.group(1)}",
+                processo="extract_stream_url"
+            )
             return m3u8_match.group(1)
 
         # If HLS stream not found, look for RTMP stream pattern
@@ -82,9 +86,9 @@ class StreamExtractor:
 
         if rtmp_match:
             enhanced_log(
-                f"Found RTMP URL: {
-                    rtmp_match.group(1)}",
-                processo="extract_stream_url")
+                f"Found RTMP URL: {rtmp_match.group(1)}",
+                processo="extract_stream_url"
+            )
             return rtmp_match.group(1)
 
         # If neither HLS nor RTMP found, look for iframe pattern
@@ -95,7 +99,8 @@ class StreamExtractor:
             iframe_url = iframe_match.group(1)
             enhanced_log(
                 f"Found iframe: {iframe_url}",
-                processo="extract_stream_url")
+                processo="extract_stream_url"
+            )
             if not iframe_url.startswith('http'):
                 if iframe_url.startswith('//'):
                     iframe_url = 'https:' + iframe_url
@@ -106,7 +111,8 @@ class StreamExtractor:
             # Extract stream from iframe
             enhanced_log(
                 f"Extracting stream from iframe: {iframe_url}",
-                processo="extract_stream_url")
+                processo="extract_stream_url"
+            )
             return self._extract_stream_from_iframe(iframe_url)
 
         # Also look for embedded JSON data pattern
@@ -118,18 +124,19 @@ class StreamExtractor:
                 webcam_data = json.loads(json_match.group(1))
                 if 'stream' in webcam_data and webcam_data['stream']:
                     enhanced_log(
-                        f"Found stream in JSON: {
-                            webcam_data['stream']}",
-                        processo="extract_stream_url")
+                        f"Found stream in JSON: {webcam_data['stream']}",
+                        processo="extract_stream_url"
+                    )
                     return webcam_data['stream']
-            except BaseException:
+            except Exception:
                 pass
 
         # If no stream found, return None
         enhanced_log(
             "No stream found",
             "WARNING",
-            processo="extract_stream_url")
+            processo="extract_stream_url"
+        )
         return None
 
     def _extract_stream_from_iframe(self, iframe_url):
@@ -144,14 +151,16 @@ class StreamExtractor:
         """
         enhanced_log(
             f"Analyzing iframe: {iframe_url}",
-            processo="_extract_stream_from_iframe")
+            processo="_extract_stream_from_iframe"
+        )
         html_content = self._fetch_url(iframe_url)
 
         if not html_content:
             enhanced_log(
                 f"No HTML content found in iframe: {iframe_url}",
                 "WARNING",
-                processo="_extract_stream_from_iframe")
+                processo="_extract_stream_from_iframe"
+            )
             return None
 
         # Look for HLS stream (m3u8) pattern with token in iframe
@@ -163,7 +172,8 @@ class StreamExtractor:
             final_url = f"https://hd-auth.skylinewebcams.com/live.m3u8?a={token}"
             enhanced_log(
                 f"Found m3u8 URL with token in iframe: {final_url}",
-                processo="_extract_stream_from_iframe")
+                processo="_extract_stream_from_iframe"
+            )
             return final_url
 
         # Look for HLS stream (m3u8) pattern in iframe
@@ -172,9 +182,9 @@ class StreamExtractor:
 
         if m3u8_match:
             enhanced_log(
-                f"Found m3u8 URL in iframe: {
-                    m3u8_match.group(1)}",
-                processo="_extract_stream_from_iframe")
+                f"Found m3u8 URL in iframe: {m3u8_match.group(1)}",
+                processo="_extract_stream_from_iframe"
+            )
             return m3u8_match.group(1)
 
         # Look for MP4 stream pattern in iframe
@@ -183,9 +193,9 @@ class StreamExtractor:
 
         if mp4_match:
             enhanced_log(
-                f"Found MP4 URL in iframe: {
-                    mp4_match.group(1)}",
-                processo="_extract_stream_from_iframe")
+                f"Found MP4 URL in iframe: {mp4_match.group(1)}",
+                processo="_extract_stream_from_iframe"
+            )
             return mp4_match.group(1)
 
         # Look for any generic stream URL pattern in iframe
@@ -194,14 +204,17 @@ class StreamExtractor:
 
         if stream_match:
             enhanced_log(
-                f"Found generic stream URL in iframe: {
-                    stream_match.group(1)}",
-                processo="_extract_stream_from_iframe")
+                f"Found generic stream URL in iframe: {stream_match.group(1)}",
+                processo="_extract_stream_from_iframe"
+            )
             return stream_match.group(1)
 
         # If no stream found, return None
-        enhanced_log("No stream found in iframe", "WARNING",
-                     processo="_extract_stream_from_iframe")
+        enhanced_log(
+            "No stream found in iframe",
+            "WARNING",
+            processo="_extract_stream_from_iframe"
+        )
         return None
 
     def _fetch_url(self, url):
@@ -219,12 +232,14 @@ class StreamExtractor:
             request = urllib.request.Request(url)
             request.add_header(
                 'User-Agent',
-                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36')
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            )
 
             with urllib.request.urlopen(request, context=self.context) as response:
                 enhanced_log(
                     f"Content fetched successfully from: {url}",
-                    processo="_fetch_url")
+                    processo="_fetch_url"
+                )
                 return response.read().decode('utf-8')
         except Exception as e:
             log_exception(e, f"Error fetching URL {url}")
