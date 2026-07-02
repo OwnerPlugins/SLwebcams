@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-07-02 19:38+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Yiddish\n"
+"Language: yi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "יקערדיק מעניו לאָודיד"
+
+msgid "Buffer size (KB)"
+msgstr "באַפער גרייס (KB)"
+
+msgid "Cancel"
+msgstr "באָטל מאַכן"
+
+msgid "Category-based Webcams"
+msgstr "קאַטעגאָריע-באזירט וועבקאַמס"
+
+msgid "Connection timeout (sec)"
+msgstr "פֿאַרבינדונג צייט (סעק)"
+
+msgid "Default view"
+msgstr "פעליקייַט מיינונג"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "טעות בעשאַס פול פאַרשטעלן פּלייבאַק: %s"
+
+msgid "Error during playback: %s"
+msgstr "טעות בעשאַס פּלייבאַק: %s"
+
+msgid "Error loading category: %s"
+msgstr "טעות לאָודינג קאַטעגאָריע: %s"
+
+msgid "Error loading countries: %s"
+msgstr "טעות לאָודינג לענדער: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "טעות לאָודינג וועבקאַמס: %s"
+
+msgid "Error opening player: %s"
+msgstr "טעות אין עפענונג שפּילער: %s"
+
+msgid "Found %d countries in %s"
+msgstr "געפונען %d לענדער אין %s"
+
+msgid "Found %d webcams"
+msgstr "געפונען %d וועבקאַם"
+
+msgid "Initializing..."
+msgstr "ינישאַליזינג ..."
+
+msgid "Live Webcams"
+msgstr "לעבן וועבקאַמס"
+
+msgid "Loading webcams..."
+msgstr "לאָדן וועבקאַם..."
+
+msgid "No webcams available in this category"
+msgstr "קיין וועבקאַמס בנימצא אין דעם קאַטעגאָריע"
+
+msgid "Save"
+msgstr "היט"
+
+msgid "Select a category ({} available)"
+msgstr "אויסקלייַבן אַ קאַטעגאָריע ({} בנימצא)"
+
+msgid "Show information"
+msgstr "ווייַזן אינפֿאָרמאַציע"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine וועבקאַמס - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine וועבקאַמס - סעטטינגס"
+
+msgid "Stream not available for this webcam"
+msgstr "סטרים ניט בנימצא פֿאַר דעם וועבקאַם"
+
+msgid "Unsupported category: %s"
+msgstr "ניט-געשטיצט קאַטעגאָריע: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "וואַך וועבקאַמס פֿון skylinewebcams.com"

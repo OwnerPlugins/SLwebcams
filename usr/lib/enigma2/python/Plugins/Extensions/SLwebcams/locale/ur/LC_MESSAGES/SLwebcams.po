@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-07-02 19:36+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Urdu\n"
+"Language: ur\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "بنیادی مینو بھرا ہوا ہے۔"
+
+msgid "Buffer size (KB)"
+msgstr "بفر سائز (KB)"
+
+msgid "Cancel"
+msgstr "منسوخ کریں۔"
+
+msgid "Category-based Webcams"
+msgstr "زمرہ پر مبنی ویب کیمز"
+
+msgid "Connection timeout (sec)"
+msgstr "کنکشن ٹائم آؤٹ (سیکنڈ)"
+
+msgid "Default view"
+msgstr "پہلے سے طے شدہ منظر"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "فل سکرین پلے بیک کے دوران خرابی: %s"
+
+msgid "Error during playback: %s"
+msgstr "پلے بیک کے دوران خرابی: %s"
+
+msgid "Error loading category: %s"
+msgstr "زمرہ لوڈ کرنے میں خرابی: %s"
+
+msgid "Error loading countries: %s"
+msgstr "ممالک لوڈ کرنے میں خرابی: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "ویب کیمز لوڈ کرنے میں خرابی: %s"
+
+msgid "Error opening player: %s"
+msgstr "پلیئر کھولنے میں خرابی: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s میں %d ممالک ملے"
+
+msgid "Found %d webcams"
+msgstr "%d ویب کیمز ملے"
+
+msgid "Initializing..."
+msgstr "شروع ہو رہا ہے..."
+
+msgid "Live Webcams"
+msgstr "لائیو ویب کیمز"
+
+msgid "Loading webcams..."
+msgstr "ویب کیمز لوڈ ہو رہا ہے..."
+
+msgid "No webcams available in this category"
+msgstr "اس زمرے میں کوئی ویب کیمز دستیاب نہیں ہیں۔"
+
+msgid "Save"
+msgstr "محفوظ کریں۔"
+
+msgid "Select a category ({} available)"
+msgstr "ایک زمرہ منتخب کریں ({} دستیاب)"
+
+msgid "Show information"
+msgstr "معلومات دکھائیں۔"
+
+msgid "SkyLine Webcams - %s"
+msgstr "اسکائی لائن ویب کیمز - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "اسکائی لائن ویب کیمز - ترتیبات"
+
+msgid "Stream not available for this webcam"
+msgstr "اس ویب کیم کے لیے سلسلہ دستیاب نہیں ہے۔"
+
+msgid "Unsupported category: %s"
+msgstr "غیر تعاون یافتہ زمرہ: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "skylinewebcams.com سے ویب کیمز دیکھیں"

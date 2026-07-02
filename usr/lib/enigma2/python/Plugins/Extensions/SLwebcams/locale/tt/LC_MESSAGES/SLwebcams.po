@@ -16,80 +16,136 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Annulla"
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "Төп меню йөкләнгән"
+
+msgid "Buffer size (KB)"
+msgstr "Буфер зурлыгы (КБ)"
+
+msgid "Cancel"
 msgstr "Баш тарту"
 
-msgid "Caricamento webcam..."
-msgstr "Веб-камераны йөкләү ..."
+msgid "Category-based Webcams"
+msgstr "Төркемгә нигезләнгән веб-камералар"
 
-msgid "Categoria non supportata: %s"
-msgstr "Ярдәм ителмәгән категория:% s"
+msgid "Connection timeout (sec)"
+msgstr "Бәйләнү вакыты (сек)"
 
-msgid "Dimensione buffer (KB)"
-msgstr "Диаметрлы буфер (КБ)"
+msgid "Default view"
+msgstr "Килешү күренеше"
 
-msgid "Errore durante il caricamento delle webcam: %s"
-msgstr "Веб-камераларны йөкләүдә хата:% s"
-
-msgid "Errore durante l'apertura del player: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: %s"
 msgstr "Плеерны ачуда хата:% s"
 
-msgid "Errore durante la riproduzione a schermo intero: %s"
-msgstr "Тулы экран уйнауда хата:% s"
+msgid "Error during playback: %s"
+msgstr "Уйнау вакытында хата:% s"
 
-msgid "Errore durante la riproduzione: %s"
-msgstr "Уйнауда хата:% s"
-
-msgid "Errore nel caricamento della categoria: %s"
+#, fuzzy
+msgid "Error loading category: %s"
 msgstr "Йөкләү категориясе:% s"
 
-msgid "Errore nel caricamento delle nazioni: %s"
+msgid "Error loading countries: %s"
 msgstr "Илләрне йөкләүдә хата:% s"
 
-msgid "Guarda le webcam da skylinewebcams.com"
-msgstr "Skylinewebcams.com сайтыннан веб-камераларны карау"
+msgid "Error loading webcams: %s"
+msgstr "Веб-камераларны йөкләүдә хата:% s"
 
-msgid "Inizializzazione..."
+msgid "Error opening player: %s"
+msgstr "Плеерны ачуда хата:% s"
+
+msgid "Found %d countries in %s"
+msgstr "% S илләрендә% d илләре табылды"
+
+#, fuzzy
+msgid "Found %d webcams"
+msgstr "% D веб-камераны табыгыз"
+
+#, fuzzy
+msgid "Initializing..."
 msgstr "Башлау ..."
 
 msgid "Live Webcams"
 msgstr "Тере веб-камералар"
 
-msgid "Menu di base caricato"
-msgstr "Төп меню йөкләнгән"
+#, fuzzy
+msgid "Loading webcams..."
+msgstr "Веб-камераны йөкләү ..."
 
-msgid "Mostra informazioni"
-msgstr "Мәгълүматны күрсәт"
-
-msgid "Nessuna webcam disponibile in questa categoria"
+#, fuzzy
+msgid "No webcams available in this category"
 msgstr "Бу категориядә веб-камералар юк"
 
-msgid "Salva"
-msgstr "Сальва"
+msgid "Save"
+msgstr "Саклагыз"
 
-msgid "Seleziona una categoria ({} disponibili)"
+#, fuzzy
+msgid "Select a category ({} available)"
 msgstr "Төркемне сайлагыз ({} бар)"
+
+#, fuzzy
+msgid "Show information"
+msgstr "Мәгълүматны күрсәт"
 
 msgid "SkyLine Webcams - %s"
 msgstr "SkyLine веб-камералары -% s"
 
-msgid "SkyLine Webcams - Impostazioni"
-msgstr "SkyLine веб-камералары - көйләүләр"
+#, fuzzy
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine веб-камералары -% s"
 
-msgid "Stream non disponibile per questa webcam"
+#, fuzzy
+msgid "Stream not available for this webcam"
 msgstr "Бу веб-камера өчен агым мөмкин түгел"
 
-msgid "Timeout connessione (sec)"
-msgstr "Бәйләнү вакыты (сек)"
+msgid "Unsupported category: %s"
+msgstr "Ярдәм ителмәгән категория:% s"
 
-msgid "Trovate %d nazioni in %s"
-msgstr "% D илләрен% s табыгыз"
+#, fuzzy
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Skylinewebcams.com сайтыннан веб-камераларны карау"
 
-msgid "Trovate %d webcam"
-msgstr "% D веб-камераны табыгыз"
+#~ msgid "Annulla"
+#~ msgstr "Баш тарту"
 
-msgid "Vista predefinita"
-msgstr "Килешү күренеше"
+#~ msgid "Categoria non supportata: %s"
+#~ msgstr "Ярдәм ителмәгән категория:% s"
 
-msgid "Web per categoria"
-msgstr "Веб категория буенча"
+#~ msgid "Dimensione buffer (KB)"
+#~ msgstr "Диаметрлы буфер (КБ)"
+
+#~ msgid "Errore durante il caricamento delle webcam: %s"
+#~ msgstr "Веб-камераларны йөкләүдә хата:% s"
+
+#~ msgid "Errore durante la riproduzione a schermo intero: %s"
+#~ msgstr "Тулы экран уйнауда хата:% s"
+
+#~ msgid "Errore durante la riproduzione: %s"
+#~ msgstr "Уйнауда хата:% s"
+
+#~ msgid "Errore nel caricamento delle nazioni: %s"
+#~ msgstr "Илләрне йөкләүдә хата:% s"
+
+#~ msgid "Menu di base caricato"
+#~ msgstr "Төп меню йөкләнгән"
+
+#~ msgid "Salva"
+#~ msgstr "Сальва"
+
+#~ msgid "SkyLine Webcams - Impostazioni"
+#~ msgstr "SkyLine веб-камералары - көйләүләр"
+
+#~ msgid "Timeout connessione (sec)"
+#~ msgstr "Бәйләнү вакыты (сек)"
+
+#~ msgid "Trovate %d nazioni in %s"
+#~ msgstr "% D илләрен% s табыгыз"
+
+#~ msgid "Vista predefinita"
+#~ msgstr "Килешү күренеше"
+
+#~ msgid "Web per categoria"
+#~ msgstr "Веб категория буенча"

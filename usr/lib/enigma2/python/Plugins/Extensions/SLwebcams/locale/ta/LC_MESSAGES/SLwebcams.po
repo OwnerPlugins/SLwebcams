@@ -16,80 +16,136 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Annulla"
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "அடிப்படை மெனு ஏற்றப்பட்டது"
+
+msgid "Buffer size (KB)"
+msgstr "இடையக அளவு (KB)"
+
+msgid "Cancel"
 msgstr "ரத்து செய்"
 
-msgid "Caricamento webcam..."
-msgstr "வெப்கேமரை ஏற்றுகிறது..."
+msgid "Category-based Webcams"
+msgstr "வகை அடிப்படையிலான வெப்கேம்கள்"
 
-msgid "Categoria non supportata: %s"
-msgstr "ஆதரிக்கப்படாத வகை: %s"
+msgid "Connection timeout (sec)"
+msgstr "இணைப்பு நேரம் முடிந்தது (வினாடி)"
 
-msgid "Dimensione buffer (KB)"
-msgstr "பரிமாண இடையக (KB)"
+msgid "Default view"
+msgstr "இயல்புநிலை பார்வை"
 
-msgid "Errore durante il caricamento delle webcam: %s"
-msgstr "வெப்கேம்களை ஏற்றுவதில் பிழை: %s"
-
-msgid "Errore durante l'apertura del player: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: %s"
 msgstr "பிளேயரைத் திறப்பதில் பிழை: %s"
 
-msgid "Errore durante la riproduzione a schermo intero: %s"
-msgstr "முழுத் திரையில் இயங்குவதில் பிழை: %s"
+msgid "Error during playback: %s"
+msgstr "பிளேபேக்கின் போது பிழை: %s"
 
-msgid "Errore durante la riproduzione: %s"
-msgstr "விளையாடுவதில் பிழை: %s"
-
-msgid "Errore nel caricamento della categoria: %s"
+#, fuzzy
+msgid "Error loading category: %s"
 msgstr "வகையை ஏற்றுவதில் பிழை: %s"
 
-msgid "Errore nel caricamento delle nazioni: %s"
+msgid "Error loading countries: %s"
 msgstr "நாடுகளை ஏற்றுவதில் பிழை: %s"
 
-msgid "Guarda le webcam da skylinewebcams.com"
-msgstr "skylinewebcams.com இலிருந்து வெப்கேம்களைப் பார்க்கவும்"
+msgid "Error loading webcams: %s"
+msgstr "வெப்கேம்களை ஏற்றுவதில் பிழை: %s"
 
-msgid "Inizializzazione..."
+msgid "Error opening player: %s"
+msgstr "பிளேயரைத் திறப்பதில் பிழை: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s இல் %d நாடுகள் கண்டறியப்பட்டன"
+
+#, fuzzy
+msgid "Found %d webcams"
+msgstr "%d வெப்கேமைக் கண்டறியவும்"
+
+#, fuzzy
+msgid "Initializing..."
 msgstr "துவக்கம்..."
 
 msgid "Live Webcams"
 msgstr "நேரடி வெப்கேம்கள்"
 
-msgid "Menu di base caricato"
-msgstr "அடிப்படை மெனு ஏற்றப்பட்டது"
+#, fuzzy
+msgid "Loading webcams..."
+msgstr "வெப்கேமரை ஏற்றுகிறது..."
 
-msgid "Mostra informazioni"
-msgstr "தகவலைக் காட்டு"
-
-msgid "Nessuna webcam disponibile in questa categoria"
+#, fuzzy
+msgid "No webcams available in this category"
 msgstr "இந்த வகையில் வெப் கேமராக்கள் எதுவும் இல்லை"
 
-msgid "Salva"
-msgstr "சால்வா"
+msgid "Save"
+msgstr "சேமிக்கவும்"
 
-msgid "Seleziona una categoria ({} disponibili)"
+#, fuzzy
+msgid "Select a category ({} available)"
 msgstr "வகையைத் தேர்ந்தெடுக்கவும் ({} உள்ளது)"
+
+#, fuzzy
+msgid "Show information"
+msgstr "தகவலைக் காட்டு"
 
 msgid "SkyLine Webcams - %s"
 msgstr "ஸ்கைலைன் வெப்கேம்கள் - %s"
 
-msgid "SkyLine Webcams - Impostazioni"
-msgstr "ஸ்கைலைன் வெப்கேம்கள் - அமைப்புகள்"
+#, fuzzy
+msgid "SkyLine Webcams - Settings"
+msgstr "ஸ்கைலைன் வெப்கேம்கள் - %s"
 
-msgid "Stream non disponibile per questa webcam"
+#, fuzzy
+msgid "Stream not available for this webcam"
 msgstr "இந்த வெப்கேமிற்கு ஸ்ட்ரீம் கிடைக்கவில்லை"
 
-msgid "Timeout connessione (sec)"
-msgstr "இணைப்பு நேரம் முடிந்தது (வினாடி)"
+msgid "Unsupported category: %s"
+msgstr "ஆதரிக்கப்படாத வகை: %s"
 
-msgid "Trovate %d nazioni in %s"
-msgstr "%s இல் %d நாடுகளைக் கண்டறியவும்"
+#, fuzzy
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "skylinewebcams.com இலிருந்து வெப்கேம்களைப் பார்க்கவும்"
 
-msgid "Trovate %d webcam"
-msgstr "%d வெப்கேமைக் கண்டறியவும்"
+#~ msgid "Annulla"
+#~ msgstr "ரத்து செய்"
 
-msgid "Vista predefinita"
-msgstr "இயல்புநிலை பார்வை"
+#~ msgid "Categoria non supportata: %s"
+#~ msgstr "ஆதரிக்கப்படாத வகை: %s"
 
-msgid "Web per categoria"
-msgstr "வகை வாரியாக வலை"
+#~ msgid "Dimensione buffer (KB)"
+#~ msgstr "பரிமாண இடையக (KB)"
+
+#~ msgid "Errore durante il caricamento delle webcam: %s"
+#~ msgstr "வெப்கேம்களை ஏற்றுவதில் பிழை: %s"
+
+#~ msgid "Errore durante la riproduzione a schermo intero: %s"
+#~ msgstr "முழுத் திரையில் இயங்குவதில் பிழை: %s"
+
+#~ msgid "Errore durante la riproduzione: %s"
+#~ msgstr "விளையாடுவதில் பிழை: %s"
+
+#~ msgid "Errore nel caricamento delle nazioni: %s"
+#~ msgstr "நாடுகளை ஏற்றுவதில் பிழை: %s"
+
+#~ msgid "Menu di base caricato"
+#~ msgstr "அடிப்படை மெனு ஏற்றப்பட்டது"
+
+#~ msgid "Salva"
+#~ msgstr "சால்வா"
+
+#~ msgid "SkyLine Webcams - Impostazioni"
+#~ msgstr "ஸ்கைலைன் வெப்கேம்கள் - அமைப்புகள்"
+
+#~ msgid "Timeout connessione (sec)"
+#~ msgstr "இணைப்பு நேரம் முடிந்தது (வினாடி)"
+
+#~ msgid "Trovate %d nazioni in %s"
+#~ msgstr "%s இல் %d நாடுகளைக் கண்டறியவும்"
+
+#~ msgid "Vista predefinita"
+#~ msgstr "இயல்புநிலை பார்வை"
+
+#~ msgid "Web per categoria"
+#~ msgstr "வகை வாரியாக வலை"

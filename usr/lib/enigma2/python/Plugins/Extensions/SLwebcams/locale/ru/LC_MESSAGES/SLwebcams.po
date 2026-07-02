@@ -17,80 +17,136 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-msgid "Annulla"
-msgstr "Отмена"
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "Основное меню загружено"
 
-msgid "Caricamento webcam..."
-msgstr "Загрузка веб-камеры..."
-
-msgid "Categoria non supportata: %s"
-msgstr "Неподдерживаемая категория: %s"
-
-msgid "Dimensione buffer (KB)"
+msgid "Buffer size (KB)"
 msgstr "Размер буфера (КБ)"
 
-msgid "Errore durante il caricamento delle webcam: %s"
-msgstr "Ошибка загрузки веб-камер: %s."
+msgid "Cancel"
+msgstr "Отмена"
 
-msgid "Errore durante l'apertura del player: %s"
+msgid "Category-based Webcams"
+msgstr "Веб-камеры по категориям"
+
+msgid "Connection timeout (sec)"
+msgstr "Таймаут соединения (сек)"
+
+msgid "Default view"
+msgstr "Вид по умолчанию"
+
+#, fuzzy
+msgid "Error during fullscreen playback: %s"
 msgstr "Ошибка открытия плеера: %s"
 
-msgid "Errore durante la riproduzione a schermo intero: %s"
-msgstr "Ошибка воспроизведения в полноэкранном режиме: %s."
+msgid "Error during playback: %s"
+msgstr "Ошибка во время воспроизведения: %s"
 
-msgid "Errore durante la riproduzione: %s"
-msgstr "Ошибка воспроизведения: %s"
-
-msgid "Errore nel caricamento della categoria: %s"
+#, fuzzy
+msgid "Error loading category: %s"
 msgstr "Ошибка загрузки категории: %s."
 
-msgid "Errore nel caricamento delle nazioni: %s"
+msgid "Error loading countries: %s"
 msgstr "Ошибка загрузки стран: %s."
 
-msgid "Guarda le webcam da skylinewebcams.com"
-msgstr "Просмотр веб-камер с сайта skylinewebcams.com"
+msgid "Error loading webcams: %s"
+msgstr "Ошибка загрузки веб-камер: %s."
 
-msgid "Inizializzazione..."
+msgid "Error opening player: %s"
+msgstr "Ошибка открытия плеера: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Найдено %d стран в %s"
+
+#, fuzzy
+msgid "Found %d webcams"
+msgstr "Найти %d веб-камеру"
+
+#, fuzzy
+msgid "Initializing..."
 msgstr "Инициализация..."
 
 msgid "Live Webcams"
 msgstr "Живые веб-камеры"
 
-msgid "Menu di base caricato"
-msgstr "Основное меню загружено"
+#, fuzzy
+msgid "Loading webcams..."
+msgstr "Загрузка веб-камеры..."
 
-msgid "Mostra informazioni"
-msgstr "Показать информацию"
-
-msgid "Nessuna webcam disponibile in questa categoria"
+#, fuzzy
+msgid "No webcams available in this category"
 msgstr "В этой категории нет веб-камер."
 
-msgid "Salva"
-msgstr "Сальва"
+msgid "Save"
+msgstr "Сохранять"
 
-msgid "Seleziona una categoria ({} disponibili)"
+#, fuzzy
+msgid "Select a category ({} available)"
 msgstr "Выберите категорию (доступно {})"
+
+#, fuzzy
+msgid "Show information"
+msgstr "Показать информацию"
 
 msgid "SkyLine Webcams - %s"
 msgstr "Веб-камеры SkyLine — %s"
 
-msgid "SkyLine Webcams - Impostazioni"
-msgstr "Веб-камеры SkyLine - Настройки"
+#, fuzzy
+msgid "SkyLine Webcams - Settings"
+msgstr "Веб-камеры SkyLine — %s"
 
-msgid "Stream non disponibile per questa webcam"
+#, fuzzy
+msgid "Stream not available for this webcam"
 msgstr "Трансляция недоступна для этой веб-камеры"
 
-msgid "Timeout connessione (sec)"
-msgstr "Таймаут соединения (сек)"
+msgid "Unsupported category: %s"
+msgstr "Неподдерживаемая категория: %s"
 
-msgid "Trovate %d nazioni in %s"
-msgstr "Найдите %d наций в %s"
+#, fuzzy
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Просмотр веб-камер с сайта skylinewebcams.com"
 
-msgid "Trovate %d webcam"
-msgstr "Найти %d веб-камеру"
+#~ msgid "Annulla"
+#~ msgstr "Отмена"
 
-msgid "Vista predefinita"
-msgstr "Вид по умолчанию"
+#~ msgid "Categoria non supportata: %s"
+#~ msgstr "Неподдерживаемая категория: %s"
 
-msgid "Web per categoria"
-msgstr "Интернет по категориям"
+#~ msgid "Dimensione buffer (KB)"
+#~ msgstr "Размер буфера (КБ)"
+
+#~ msgid "Errore durante il caricamento delle webcam: %s"
+#~ msgstr "Ошибка загрузки веб-камер: %s."
+
+#~ msgid "Errore durante la riproduzione a schermo intero: %s"
+#~ msgstr "Ошибка воспроизведения в полноэкранном режиме: %s."
+
+#~ msgid "Errore durante la riproduzione: %s"
+#~ msgstr "Ошибка воспроизведения: %s"
+
+#~ msgid "Errore nel caricamento delle nazioni: %s"
+#~ msgstr "Ошибка загрузки стран: %s."
+
+#~ msgid "Menu di base caricato"
+#~ msgstr "Основное меню загружено"
+
+#~ msgid "Salva"
+#~ msgstr "Сальва"
+
+#~ msgid "SkyLine Webcams - Impostazioni"
+#~ msgstr "Веб-камеры SkyLine - Настройки"
+
+#~ msgid "Timeout connessione (sec)"
+#~ msgstr "Таймаут соединения (сек)"
+
+#~ msgid "Trovate %d nazioni in %s"
+#~ msgstr "Найдите %d наций в %s"
+
+#~ msgid "Vista predefinita"
+#~ msgstr "Вид по умолчанию"
+
+#~ msgid "Web per categoria"
+#~ msgstr "Интернет по категориям"

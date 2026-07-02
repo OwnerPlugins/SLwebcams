@@ -16,80 +16,136 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Annulla"
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "ప్రాథమిక మెను లోడ్ చేయబడింది"
+
+msgid "Buffer size (KB)"
+msgstr "బఫర్ పరిమాణం (KB)"
+
+msgid "Cancel"
 msgstr "రద్దు చేయి"
 
-msgid "Caricamento webcam..."
-msgstr "వెబ్‌క్యామ్ లోడ్ అవుతోంది..."
+msgid "Category-based Webcams"
+msgstr "వర్గం-ఆధారిత వెబ్‌క్యామ్‌లు"
 
-msgid "Categoria non supportata: %s"
-msgstr "మద్దతు లేని వర్గం: %s"
+msgid "Connection timeout (sec)"
+msgstr "కనెక్షన్ గడువు ముగిసింది (సెకను)"
 
-msgid "Dimensione buffer (KB)"
-msgstr "డైమెన్షన్ బఫర్ (KB)"
+msgid "Default view"
+msgstr "డిఫాల్ట్ వీక్షణ"
 
-msgid "Errore durante il caricamento delle webcam: %s"
-msgstr "వెబ్‌క్యామ్‌లను లోడ్ చేయడంలో లోపం: %s"
-
-msgid "Errore durante l'apertura del player: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: %s"
 msgstr "ప్లేయర్‌ని తెరవడంలో లోపం: %s"
 
-msgid "Errore durante la riproduzione a schermo intero: %s"
-msgstr "పూర్తి స్క్రీన్ ప్లే చేయడంలో లోపం: %s"
+msgid "Error during playback: %s"
+msgstr "ప్లేబ్యాక్ సమయంలో లోపం: %s"
 
-msgid "Errore durante la riproduzione: %s"
-msgstr "ప్లే చేయడంలో లోపం: %s"
-
-msgid "Errore nel caricamento della categoria: %s"
+#, fuzzy
+msgid "Error loading category: %s"
 msgstr "వర్గం లోడ్ చేయడంలో లోపం: %s"
 
-msgid "Errore nel caricamento delle nazioni: %s"
+msgid "Error loading countries: %s"
 msgstr "దేశాలను లోడ్ చేయడంలో లోపం: %s"
 
-msgid "Guarda le webcam da skylinewebcams.com"
-msgstr "skylinewebcams.com నుండి వెబ్‌క్యామ్‌లను వీక్షించండి"
+msgid "Error loading webcams: %s"
+msgstr "వెబ్‌క్యామ్‌లను లోడ్ చేయడంలో లోపం: %s"
 
-msgid "Inizializzazione..."
+msgid "Error opening player: %s"
+msgstr "ప్లేయర్‌ని తెరవడంలో లోపం: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%sలో %d దేశాలు కనుగొనబడ్డాయి"
+
+#, fuzzy
+msgid "Found %d webcams"
+msgstr "%d వెబ్‌క్యామ్‌ను కనుగొనండి"
+
+#, fuzzy
+msgid "Initializing..."
 msgstr "ప్రారంభించడం..."
 
 msgid "Live Webcams"
 msgstr "లైవ్ వెబ్‌క్యామ్‌లు"
 
-msgid "Menu di base caricato"
-msgstr "ప్రాథమిక మెను లోడ్ చేయబడింది"
+#, fuzzy
+msgid "Loading webcams..."
+msgstr "వెబ్‌క్యామ్ లోడ్ అవుతోంది..."
 
-msgid "Mostra informazioni"
-msgstr "సమాచారాన్ని చూపించు"
-
-msgid "Nessuna webcam disponibile in questa categoria"
+#, fuzzy
+msgid "No webcams available in this category"
 msgstr "ఈ వర్గంలో వెబ్‌క్యామ్‌లు ఏవీ అందుబాటులో లేవు"
 
-msgid "Salva"
-msgstr "సాల్వా"
+msgid "Save"
+msgstr "సేవ్ చేయండి"
 
-msgid "Seleziona una categoria ({} disponibili)"
+#, fuzzy
+msgid "Select a category ({} available)"
 msgstr "వర్గాన్ని ఎంచుకోండి ({} అందుబాటులో ఉంది)"
+
+#, fuzzy
+msgid "Show information"
+msgstr "సమాచారాన్ని చూపించు"
 
 msgid "SkyLine Webcams - %s"
 msgstr "స్కైలైన్ వెబ్‌క్యామ్‌లు - %s"
 
-msgid "SkyLine Webcams - Impostazioni"
-msgstr "SkyLine వెబ్‌క్యామ్‌లు - సెట్టింగ్‌లు"
+#, fuzzy
+msgid "SkyLine Webcams - Settings"
+msgstr "స్కైలైన్ వెబ్‌క్యామ్‌లు - %s"
 
-msgid "Stream non disponibile per questa webcam"
+#, fuzzy
+msgid "Stream not available for this webcam"
 msgstr "ఈ వెబ్‌క్యామ్ కోసం స్ట్రీమ్ అందుబాటులో లేదు"
 
-msgid "Timeout connessione (sec)"
-msgstr "కనెక్షన్ గడువు ముగిసింది (సెకను)"
+msgid "Unsupported category: %s"
+msgstr "మద్దతు లేని వర్గం: %s"
 
-msgid "Trovate %d nazioni in %s"
-msgstr "%sలో %d దేశాలను కనుగొనండి"
+#, fuzzy
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "skylinewebcams.com నుండి వెబ్‌క్యామ్‌లను వీక్షించండి"
 
-msgid "Trovate %d webcam"
-msgstr "%d వెబ్‌క్యామ్‌ను కనుగొనండి"
+#~ msgid "Annulla"
+#~ msgstr "రద్దు చేయి"
 
-msgid "Vista predefinita"
-msgstr "డిఫాల్ట్ వీక్షణ"
+#~ msgid "Categoria non supportata: %s"
+#~ msgstr "మద్దతు లేని వర్గం: %s"
 
-msgid "Web per categoria"
-msgstr "వర్గం ద్వారా వెబ్"
+#~ msgid "Dimensione buffer (KB)"
+#~ msgstr "డైమెన్షన్ బఫర్ (KB)"
+
+#~ msgid "Errore durante il caricamento delle webcam: %s"
+#~ msgstr "వెబ్‌క్యామ్‌లను లోడ్ చేయడంలో లోపం: %s"
+
+#~ msgid "Errore durante la riproduzione a schermo intero: %s"
+#~ msgstr "పూర్తి స్క్రీన్ ప్లే చేయడంలో లోపం: %s"
+
+#~ msgid "Errore durante la riproduzione: %s"
+#~ msgstr "ప్లే చేయడంలో లోపం: %s"
+
+#~ msgid "Errore nel caricamento delle nazioni: %s"
+#~ msgstr "దేశాలను లోడ్ చేయడంలో లోపం: %s"
+
+#~ msgid "Menu di base caricato"
+#~ msgstr "ప్రాథమిక మెను లోడ్ చేయబడింది"
+
+#~ msgid "Salva"
+#~ msgstr "సాల్వా"
+
+#~ msgid "SkyLine Webcams - Impostazioni"
+#~ msgstr "SkyLine వెబ్‌క్యామ్‌లు - సెట్టింగ్‌లు"
+
+#~ msgid "Timeout connessione (sec)"
+#~ msgstr "కనెక్షన్ గడువు ముగిసింది (సెకను)"
+
+#~ msgid "Trovate %d nazioni in %s"
+#~ msgstr "%sలో %d దేశాలను కనుగొనండి"
+
+#~ msgid "Vista predefinita"
+#~ msgstr "డిఫాల్ట్ వీక్షణ"
+
+#~ msgid "Web per categoria"
+#~ msgstr "వర్గం ద్వారా వెబ్"

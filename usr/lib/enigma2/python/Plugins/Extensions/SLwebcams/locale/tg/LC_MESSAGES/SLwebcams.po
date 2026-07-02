@@ -16,80 +16,136 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Annulla"
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "Менюи асосӣ бор карда шудааст"
+
+msgid "Buffer size (KB)"
+msgstr "Андозаи буфер (KB)"
+
+msgid "Cancel"
 msgstr "Бекор кардан"
 
-msgid "Caricamento webcam..."
-msgstr "Веб-камера бор карда мешавад..."
+msgid "Category-based Webcams"
+msgstr "Веб-камераҳо дар асоси категория"
 
-msgid "Categoria non supportata: %s"
-msgstr "Категорияи дастгирӣнашаванда: %s"
+msgid "Connection timeout (sec)"
+msgstr "Вақти пайвастшавӣ (сония)"
 
-msgid "Dimensione buffer (KB)"
-msgstr "Буфери андоза (KB)"
+msgid "Default view"
+msgstr "Намоиши пешфарз"
 
-msgid "Errore durante il caricamento delle webcam: %s"
-msgstr "Хатогӣ ҳангоми боркунии веб-камераҳо: %s"
-
-msgid "Errore durante l'apertura del player: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: %s"
 msgstr "Хатогии кушодани плеер: %s"
 
-msgid "Errore durante la riproduzione a schermo intero: %s"
-msgstr "Хатогии бозӣ дар экрани пурра: %s"
+msgid "Error during playback: %s"
+msgstr "Хатогӣ ҳангоми навозиш: %s"
 
-msgid "Errore durante la riproduzione: %s"
-msgstr "Хатогӣ дар бозӣ: %s"
-
-msgid "Errore nel caricamento della categoria: %s"
+#, fuzzy
+msgid "Error loading category: %s"
 msgstr "Хатогии боркунии категория: %s"
 
-msgid "Errore nel caricamento delle nazioni: %s"
+msgid "Error loading countries: %s"
 msgstr "Хатогии боркунии кишварҳо: %s"
 
-msgid "Guarda le webcam da skylinewebcams.com"
-msgstr "Дидани веб-камераҳо аз skylinewebcams.com"
+msgid "Error loading webcams: %s"
+msgstr "Хатогӣ ҳангоми боркунии веб-камераҳо: %s"
 
-msgid "Inizializzazione..."
+msgid "Error opening player: %s"
+msgstr "Хатогии кушодани плеер: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Дар %s %d кишвар ёфт"
+
+#, fuzzy
+msgid "Found %d webcams"
+msgstr "%d веб-камера пайдо кунед"
+
+#, fuzzy
+msgid "Initializing..."
 msgstr "Оғозсозӣ..."
 
 msgid "Live Webcams"
 msgstr "Веб-камераҳои зинда"
 
-msgid "Menu di base caricato"
-msgstr "Менюи асосӣ бор карда шудааст"
+#, fuzzy
+msgid "Loading webcams..."
+msgstr "Веб-камера бор карда мешавад..."
 
-msgid "Mostra informazioni"
-msgstr "Нишон додани маълумот"
-
-msgid "Nessuna webcam disponibile in questa categoria"
+#, fuzzy
+msgid "No webcams available in this category"
 msgstr "Дар ин гурӯҳ ягон веб-камера мавҷуд нест"
 
-msgid "Salva"
-msgstr "Салва"
+msgid "Save"
+msgstr "Захира кунед"
 
-msgid "Seleziona una categoria ({} disponibili)"
+#, fuzzy
+msgid "Select a category ({} available)"
 msgstr "Категорияро интихоб кунед ({} дастрас)"
+
+#, fuzzy
+msgid "Show information"
+msgstr "Нишон додани маълумот"
 
 msgid "SkyLine Webcams - %s"
 msgstr "Вебкамераҳои SkyLine - %s"
 
-msgid "SkyLine Webcams - Impostazioni"
-msgstr "Веб-камераҳои SkyLine - Танзимотҳо"
+#, fuzzy
+msgid "SkyLine Webcams - Settings"
+msgstr "Вебкамераҳои SkyLine - %s"
 
-msgid "Stream non disponibile per questa webcam"
+#, fuzzy
+msgid "Stream not available for this webcam"
 msgstr "Ҷараён барои ин веб-камера дастрас нест"
 
-msgid "Timeout connessione (sec)"
-msgstr "Вақти пайвастшавӣ (сония)"
+msgid "Unsupported category: %s"
+msgstr "Категорияи дастгирнашаванда: %s"
 
-msgid "Trovate %d nazioni in %s"
-msgstr "Дар %s %d миллат пайдо кунед"
+#, fuzzy
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Дидани веб-камераҳо аз skylinewebcams.com"
 
-msgid "Trovate %d webcam"
-msgstr "%d веб-камера пайдо кунед"
+#~ msgid "Annulla"
+#~ msgstr "Бекор кардан"
 
-msgid "Vista predefinita"
-msgstr "Намоиши пешфарз"
+#~ msgid "Categoria non supportata: %s"
+#~ msgstr "Категорияи дастгирӣнашаванда: %s"
 
-msgid "Web per categoria"
-msgstr "Веб аз рӯи категория"
+#~ msgid "Dimensione buffer (KB)"
+#~ msgstr "Буфери андоза (KB)"
+
+#~ msgid "Errore durante il caricamento delle webcam: %s"
+#~ msgstr "Хатогӣ ҳангоми боркунии веб-камераҳо: %s"
+
+#~ msgid "Errore durante la riproduzione a schermo intero: %s"
+#~ msgstr "Хатогии бозӣ дар экрани пурра: %s"
+
+#~ msgid "Errore durante la riproduzione: %s"
+#~ msgstr "Хатогӣ дар бозӣ: %s"
+
+#~ msgid "Errore nel caricamento delle nazioni: %s"
+#~ msgstr "Хатогии боркунии кишварҳо: %s"
+
+#~ msgid "Menu di base caricato"
+#~ msgstr "Менюи асосӣ бор карда шудааст"
+
+#~ msgid "Salva"
+#~ msgstr "Салва"
+
+#~ msgid "SkyLine Webcams - Impostazioni"
+#~ msgstr "Веб-камераҳои SkyLine - Танзимотҳо"
+
+#~ msgid "Timeout connessione (sec)"
+#~ msgstr "Вақти пайвастшавӣ (сония)"
+
+#~ msgid "Trovate %d nazioni in %s"
+#~ msgstr "Дар %s %d миллат пайдо кунед"
+
+#~ msgid "Vista predefinita"
+#~ msgstr "Намоиши пешфарз"
+
+#~ msgid "Web per categoria"
+#~ msgstr "Веб аз рӯи категория"
