@@ -208,7 +208,9 @@ class SLwebcamsMain(Screen):
             # Hide blue button in webcam views
             self["key_blue"].hide()
             # Keep webcam window active if webcams are loaded
-            if not hasattr(self, 'current_category_webcams') or not self.current_category_webcams:
+            if not hasattr(
+                    self,
+                    'current_category_webcams') or not self.current_category_webcams:
                 self.current_window = 0  # Start from first column only if no webcams
 
             self.update_category_highlight()
@@ -266,27 +268,32 @@ class SLwebcamsMain(Screen):
         elif self.subcategory_code == "live":
             if self.current_window == 0:  # Continents
                 current_list = self["webcam_list"].list
-                if current_list and self["webcam_list"].getSelectionIndex() > 0:
+                if current_list and self["webcam_list"].getSelectionIndex(
+                ) > 0:
                     self["webcam_list"].up()
                     self.update_preview()
             elif self.current_window == 1:  # Countries
                 current_list = self["countries_list"].list
-                if current_list and self["countries_list"].getSelectionIndex() > 0:
+                if current_list and self["countries_list"].getSelectionIndex(
+                ) > 0:
                     self["countries_list"].up()
                     self.update_webcams_for_country()
             elif self.current_window == 2:  # Webcams
                 current_list = self["webcams_list"].list
-                if current_list and self["webcams_list"].getSelectionIndex() > 0:
+                if current_list and self["webcams_list"].getSelectionIndex(
+                ) > 0:
                     self["webcams_list"].up()
         elif self.subcategory_code == "categories":
             if self.current_window == 0:  # Category
                 current_list = self["webcam_list"].list
-                if current_list and self["webcam_list"].getSelectionIndex() > 0:
+                if current_list and self["webcam_list"].getSelectionIndex(
+                ) > 0:
                     self["webcam_list"].up()
                     self.update_webcams_for_selected_category()
             elif self.current_window == 1:  # Webcams
                 current_list = self["webcams_list"].list
-                if current_list and self["webcams_list"].getSelectionIndex() > 0:
+                if current_list and self["webcams_list"].getSelectionIndex(
+                ) > 0:
                     self["webcams_list"].up()
         else:
             current_list = self["webcam_list"].list
@@ -297,36 +304,43 @@ class SLwebcamsMain(Screen):
     def move_down(self):
         if not self.subcategory_code:  # Main menu
             current_list = self["main_list"].list
-            if current_list and self["main_list"].getSelectionIndex() < len(current_list) - 1:
+            if current_list and self["main_list"].getSelectionIndex() < len(
+                    current_list) - 1:
                 self["main_list"].down()
         elif self.subcategory_code == "live":
             if self.current_window == 0:  # Continents
                 current_list = self["webcam_list"].list
-                if current_list and self["webcam_list"].getSelectionIndex() < len(current_list) - 1:
+                if current_list and self["webcam_list"].getSelectionIndex() < len(
+                        current_list) - 1:
                     self["webcam_list"].down()
                     self.update_preview()
             elif self.current_window == 1:  # Countries
                 current_list = self["countries_list"].list
-                if current_list and self["countries_list"].getSelectionIndex() < len(current_list) - 1:
+                if current_list and self["countries_list"].getSelectionIndex() < len(
+                        current_list) - 1:
                     self["countries_list"].down()
                     self.update_webcams_for_country()
             elif self.current_window == 2:  # Webcams
                 current_list = self["webcams_list"].list
-                if current_list and self["webcams_list"].getSelectionIndex() < len(current_list) - 1:
+                if current_list and self["webcams_list"].getSelectionIndex() < len(
+                        current_list) - 1:
                     self["webcams_list"].down()
         elif self.subcategory_code == "categories":
             if self.current_window == 0:  # Category
                 current_list = self["webcam_list"].list
-                if current_list and self["webcam_list"].getSelectionIndex() < len(current_list) - 1:
+                if current_list and self["webcam_list"].getSelectionIndex() < len(
+                        current_list) - 1:
                     self["webcam_list"].down()
                     self.update_webcams_for_selected_category()
             elif self.current_window == 1:  # Webcams
                 current_list = self["webcams_list"].list
-                if current_list and self["webcams_list"].getSelectionIndex() < len(current_list) - 1:
+                if current_list and self["webcams_list"].getSelectionIndex() < len(
+                        current_list) - 1:
                     self["webcams_list"].down()
         else:
             current_list = self["webcam_list"].list
-            if current_list and self["webcam_list"].getSelectionIndex() < len(current_list) - 1:
+            if current_list and self["webcam_list"].getSelectionIndex() < len(
+                    current_list) - 1:
                 self["webcam_list"].down()
                 self.update_preview()
 
@@ -425,11 +439,13 @@ class SLwebcamsMain(Screen):
     def load_countries_for_continent(self, continent_item):
         """Load countries for the selected continent"""
         try:
-            countries = self.parser.get_countries_by_continent(continent_item['continent_code'])
+            countries = self.parser.get_countries_by_continent(
+                continent_item['continent_code'])
             country_names = [country['name'] for country in countries]
             self["countries_list"].setList(country_names)
             self.current_countries = countries
-            self["description"].setText(f"Continent: {continent_item['title']} - {len(countries)} countries")
+            self["description"].setText(
+                f"Continent: {continent_item['title']} - {len(countries)} countries")
             self["webcams_list"].setList([])
 
         except Exception as e:
@@ -443,14 +459,17 @@ class SLwebcamsMain(Screen):
             if 0 <= country_index < len(self.current_countries):
                 selected_country = self.current_countries[country_index]
                 try:
-                    webcams = self.parser.get_city_webcams(selected_country['url'])
+                    webcams = self.parser.get_city_webcams(
+                        selected_country['url'])
                     webcam_names = [webcam['title'] for webcam in webcams]
                     self["webcams_list"].setList(webcam_names)
                     self.current_webcams = webcams
-                    self["description"].setText(f"Country: {selected_country['name']} - {len(webcams)} webcams")
+                    self["description"].setText(
+                        f"Country: {selected_country['name']} - {len(webcams)} webcams")
                 except Exception as e:
                     self["webcams_list"].setList([])
-                    self["description"].setText(f"Error loading webcams: {str(e)}")
+                    self["description"].setText(
+                        f"Error loading webcams: {str(e)}")
 
     def update_webcams_for_selected_category(self):
         """Update webcams when a category is selected"""
@@ -459,30 +478,36 @@ class SLwebcamsMain(Screen):
             if 0 <= category_index < len(self.current_categories):
                 selected_category = self.current_categories[category_index]
                 try:
-                    enhanced_log(f"Loading webcams for category: {selected_category['name']}")
-                    webcams = self.parser.get_webcams_by_url(selected_category['url'])
+                    enhanced_log(
+                        f"Loading webcams for category: {
+                            selected_category['name']}")
+                    webcams = self.parser.get_webcams_by_url(
+                        selected_category['url'])
 
                     # Convert to standard format if needed
                     formatted_webcams = []
                     for webcam in webcams:
                         formatted_webcam = {
-                            'title': webcam.get('title', 'Webcam'),
-                            'subtitle': webcam.get('subtitle', ''),
-                            'url': webcam.get('url', ''),
-                            'image_url': webcam.get('image_url', ''),
-                            'alt_text': webcam.get('alt_text', webcam.get('title', '')),
-                            'category': selected_category['name']
-                        }
+                            'title': webcam.get(
+                                'title', 'Webcam'), 'subtitle': webcam.get(
+                                'subtitle', ''), 'url': webcam.get(
+                                'url', ''), 'image_url': webcam.get(
+                                'image_url', ''), 'alt_text': webcam.get(
+                                'alt_text', webcam.get(
+                                    'title', '')), 'category': selected_category['name']}
                         formatted_webcams.append(formatted_webcam)
 
-                    webcam_names = [webcam['title'] for webcam in formatted_webcams]
+                    webcam_names = [webcam['title']
+                                    for webcam in formatted_webcams]
                     self["webcams_list"].setList(webcam_names)
                     self.current_category_webcams = formatted_webcams
-                    self["description"].setText(f"Category: {selected_category['name']} - {len(formatted_webcams)} webcams")
+                    self["description"].setText(
+                        f"Category: {selected_category['name']} - {len(formatted_webcams)} webcams")
                 except Exception as e:
                     enhanced_log(f"Error loading category webcams: {e}")
                     self["webcams_list"].setList([])
-                    self["description"].setText(f"Error loading webcams: {str(e)}")
+                    self["description"].setText(
+                        f"Error loading webcams: {str(e)}")
 
     def load_webcams(self):
         try:
@@ -535,18 +560,21 @@ class SLwebcamsMain(Screen):
                 # Find a specific continent (e.g., Europe, America)
                 target_continent = None
                 for continent in continents:
-                    if continent['name'].lower() in ['europe', 'america', 'asia', 'africa', 'oceania']:
+                    if continent['name'].lower() in [
+                            'europe', 'america', 'asia', 'africa', 'oceania']:
                         target_continent = continent
                         break
 
                 if target_continent:
                     # Get countries of the continent
-                    countries = self.parser.get_countries_by_continent(target_continent['url'])
+                    countries = self.parser.get_countries_by_continent(
+                        target_continent['url'])
 
                     # For each country, get city webcams
                     for country in countries:
                         try:
-                            city_webcams = self.parser.get_city_webcams(country['url'])
+                            city_webcams = self.parser.get_city_webcams(
+                                country['url'])
                             for webcam in city_webcams:
                                 # Add country information
                                 webcam['country'] = country['name']
@@ -554,7 +582,9 @@ class SLwebcamsMain(Screen):
                                 webcam['parent_category'] = 'citta'
                                 self.webcams.append(webcam)
                         except Exception as e:
-                            enhanced_log(f"Error loading webcams for {country['name']}: {e}")
+                            enhanced_log(
+                                f"Error loading webcams for {
+                                    country['name']}: {e}")
                             continue
 
             elif self.subcategory_code == "categories":
@@ -605,10 +635,13 @@ class SLwebcamsMain(Screen):
                 self["webcams_list"].setList([])
 
             elif self.subcategory_code in ["top", "nuove", "spiagge", "paesaggi", "marine", "unesco", "sci", "animali", "vulcani", "laghi", "web"]:
-                enhanced_log(f"Loading webcams for category: {self.subcategory_code}")
+                enhanced_log(
+                    f"Loading webcams for category: {
+                        self.subcategory_code}")
 
                 if hasattr(self, 'category_url') and self.category_url:
-                    category_webcams = self.parser.get_webcams_by_url(self.category_url)
+                    category_webcams = self.parser.get_webcams_by_url(
+                        self.category_url)
 
                     # Convert to expected format
                     for webcam in category_webcams:
@@ -625,7 +658,9 @@ class SLwebcamsMain(Screen):
 
             else:
                 enhanced_log(f"Unsupported category: {self.subcategory_code}")
-                self["status"].setText(_("Unsupported category: %s") % self.subcategory_code)
+                self["status"].setText(
+                    _("Unsupported category: %s") %
+                    self.subcategory_code)
                 return
 
             # Populate the menu list
@@ -642,13 +677,15 @@ class SLwebcamsMain(Screen):
 
             self["webcam_list"].setList(menu_list)
 
-            enhanced_log(f"Loading completed: {len(self.webcams)} webcams found")
+            enhanced_log(
+                f"Loading completed: {len(self.webcams)} webcams found")
             self["status"].setText(_("Found %d webcams") % len(self.webcams))
 
             if len(self.webcams) > 0:
                 self.update_preview()
             else:
-                self["status"].setText(_("No webcams available in this category"))
+                self["status"].setText(
+                    _("No webcams available in this category"))
 
         except Exception as e:
             self["status"].setText(_("Error loading webcams: %s") % str(e))
@@ -712,17 +749,26 @@ class SLwebcamsMain(Screen):
             # If we didn't find categories from parser, use a fallback menu
             if len(main_menu) <= 1:  # Only "Live Webcams"
                 enhanced_log("Using fallback menu")
-                fallback_categories = ["Top Webcams", "New Webcams", "Cities", "Beaches", "Landscapes"]
+                fallback_categories = [
+                    "Top Webcams",
+                    "New Webcams",
+                    "Cities",
+                    "Beaches",
+                    "Landscapes"]
                 for cat in fallback_categories:
                     main_menu.append(cat)
                     code = cat.lower().replace(" webcams", "").replace(" ", "")
                     self.category_mapping[cat] = {"code": code, "name": cat}
 
-            enhanced_log(f"Main menu created with {len(main_menu)} items: {main_menu}")
+            enhanced_log(
+                f"Main menu created with {
+                    len(main_menu)} items: {main_menu}")
 
             # Update main list
             self["main_list"].setList(main_menu)
-            self["status"].setText(_("Select a category ({} available)").format(len(main_menu)))
+            self["status"].setText(
+                _("Select a category ({} available)").format(
+                    len(main_menu)))
 
         except Exception as e:
             enhanced_log(f"Error loading main categories: {e}")
@@ -772,45 +818,58 @@ class SLwebcamsMain(Screen):
         # If in Live Webcams mode
         if self.subcategory_code == "live":
             # Only if we are in the webcam window (window 2) start the player
-            if self.current_window == 2 and hasattr(self, 'current_webcams') and self.current_webcams:
+            if self.current_window == 2 and hasattr(
+                    self, 'current_webcams') and self.current_webcams:
                 try:
                     webcam_index = self["webcams_list"].getSelectionIndex()
                     if 0 <= webcam_index < len(self.current_webcams):
                         selected_webcam = self.current_webcams[webcam_index]
 
                         # Build stream URL
-                        stream_url = self.parser.get_stream_url(selected_webcam['url'])
+                        stream_url = self.parser.get_stream_url(
+                            selected_webcam['url'])
                         if stream_url:
                             selected_webcam['stream_url'] = stream_url
 
-                        enhanced_log(f"Starting player for webcam: {selected_webcam['title']}")
+                        enhanced_log(
+                            f"Starting player for webcam: {
+                                selected_webcam['title']}")
                         self.start_video_playback(selected_webcam)
 
                 except Exception as e:
                     enhanced_log(f"Error while opening player: {e}")
-                    self.session.open(MessageBox, _('Error opening player: %s') % str(e), MessageBox.TYPE_ERROR, timeout=5)
+                    self.session.open(
+                        MessageBox, _('Error opening player: %s') %
+                        str(e), MessageBox.TYPE_ERROR, timeout=5)
             return
 
         # If in Categories mode
         if self.subcategory_code == "categories":
             # Only if we are in the webcam window (window 1) start the player
-            if self.current_window == 1 and hasattr(self, 'current_category_webcams') and self.current_category_webcams:
+            if self.current_window == 1 and hasattr(
+                    self, 'current_category_webcams') and self.current_category_webcams:
                 try:
                     webcam_index = self["webcams_list"].getSelectionIndex()
                     if 0 <= webcam_index < len(self.current_category_webcams):
                         selected_webcam = self.current_category_webcams[webcam_index]
 
                         # Build stream URL
-                        stream_url = self.parser.get_stream_url(selected_webcam['url'])
+                        stream_url = self.parser.get_stream_url(
+                            selected_webcam['url'])
                         if stream_url:
                             selected_webcam['stream_url'] = stream_url
 
-                        enhanced_log(f"Starting player for category webcam: {selected_webcam.get('title', 'N/A')}")
+                        enhanced_log(
+                            f"Starting player for category webcam: {
+                                selected_webcam.get(
+                                    'title', 'N/A')}")
                         self.start_video_playback(selected_webcam)
 
                 except Exception as e:
                     enhanced_log(f"Error while opening category player: {e}")
-                    self.session.open(MessageBox, _('Error opening player: %s') % str(e), MessageBox.TYPE_ERROR, timeout=5)
+                    self.session.open(
+                        MessageBox, _('Error opening player: %s') %
+                        str(e), MessageBox.TYPE_ERROR, timeout=5)
             return
 
         # For other categories, normal behaviour
@@ -844,7 +903,9 @@ class SLwebcamsMain(Screen):
 
             except Exception as e:
                 enhanced_log(f"Error while opening player: {e}")
-                self.session.open(MessageBox, _('Error opening player: %s') % str(e), MessageBox.TYPE_ERROR, timeout=5)
+                self.session.open(
+                    MessageBox, _('Error opening player: %s') %
+                    str(e), MessageBox.TYPE_ERROR, timeout=5)
 
     def select_category(self):
         """Select a category from the main menu"""
@@ -857,7 +918,9 @@ class SLwebcamsMain(Screen):
                 enhanced_log(f"Selected category: {selected_item}")
 
                 # Use dynamic category mapping
-                if hasattr(self, 'category_mapping') and selected_item in self.category_mapping:
+                if hasattr(
+                        self,
+                        'category_mapping') and selected_item in self.category_mapping:
                     category_data = self.category_mapping[selected_item]
                     self.subcategory_code = category_data['code']
                     self.subcategory_name = category_data['name']
@@ -890,19 +953,30 @@ class SLwebcamsMain(Screen):
         if not self.subcategory_code:
             # In main menu, show short plugin info
             info_text = "Plugin to view webcams from skylinewebcams.com"
-            self.session.open(MessageBox, info_text, MessageBox.TYPE_INFO, timeout=5)
+            self.session.open(
+                MessageBox,
+                info_text,
+                MessageBox.TYPE_INFO,
+                timeout=5)
         else:
             # In webcam lists, show numeric key legend
             info_text = "Quick navigation: Keys 1-9 jump to 10%-90% of list, 0 to start"
-            self.session.open(MessageBox, info_text, MessageBox.TYPE_INFO, timeout=8)
+            self.session.open(
+                MessageBox,
+                info_text,
+                MessageBox.TYPE_INFO,
+                timeout=8)
 
     def show_countries_for_continent(self, continent_item):
         """Show countries for the selected continent"""
         try:
-            enhanced_log(f"Loading countries for continent: {continent_item['title']}")
+            enhanced_log(
+                f"Loading countries for continent: {
+                    continent_item['title']}")
 
             # Get countries of the continent
-            countries = self.parser.get_countries_by_continent(continent_item['continent_code'])
+            countries = self.parser.get_countries_by_continent(
+                continent_item['continent_code'])
             enhanced_log(f"Found {len(countries)} countries")
 
             # Replace current list with countries
@@ -925,11 +999,15 @@ class SLwebcamsMain(Screen):
             self["webcam_list"].setList(menu_list)
 
             # Update status
-            self["status"].setText(_("Found %d countries in %s") % (len(countries), continent_item['title']))
+            self["status"].setText(
+                _("Found %d countries in %s") %
+                (len(countries), continent_item['title']))
 
         except Exception as e:
             enhanced_log(f"Error loading countries: {e}")
-            self.session.open(MessageBox, _('Error loading countries: %s') % str(e), MessageBox.TYPE_ERROR, timeout=5)
+            self.session.open(
+                MessageBox, _('Error loading countries: %s') %
+                str(e), MessageBox.TYPE_ERROR, timeout=5)
 
     def start_video_playback(self, webcam):
         """Start video playback and make plugin transparent"""
@@ -947,19 +1025,42 @@ class SLwebcamsMain(Screen):
                 self.video_playing = True
                 self.make_transparent()
             else:
-                enhanced_log(f"Stream not available for: {webcam.get('title', 'N/A')}")
-                self.session.open(MessageBox, "Stream not available for this webcam", MessageBox.TYPE_INFO, timeout=3)
+                enhanced_log(
+                    f"Stream not available for: {
+                        webcam.get(
+                            'title', 'N/A')}")
+                self.session.open(
+                    MessageBox,
+                    "Stream not available for this webcam",
+                    MessageBox.TYPE_INFO,
+                    timeout=3)
         except Exception as e:
             enhanced_log(f"Webcam playback error: {e}")
-            self.session.open(MessageBox, f"Playback error: {str(e)}", MessageBox.TYPE_ERROR, timeout=5)
+            self.session.open(
+                MessageBox,
+                f"Playback error: {
+                    str(e)}",
+                MessageBox.TYPE_ERROR,
+                timeout=5)
 
     def make_transparent(self):
         """Make plugin transparent to show video"""
         try:
             # Hide all widgets
-            widgets_to_hide = ['title', 'continents_title', 'countries_title', 'webcams_title',
-                               'webcam_list', 'countries_list', 'webcams_list', 'description', 'status',
-                               'key_red', 'key_green', 'key_yellow', 'key_blue']
+            widgets_to_hide = [
+                'title',
+                'continents_title',
+                'countries_title',
+                'webcams_title',
+                'webcam_list',
+                'countries_list',
+                'webcams_list',
+                'description',
+                'status',
+                'key_red',
+                'key_green',
+                'key_yellow',
+                'key_blue']
             for widget_name in widgets_to_hide:
                 if widget_name in self:
                     self[widget_name].hide()
@@ -973,7 +1074,14 @@ class SLwebcamsMain(Screen):
         """Restore plugin visibility"""
         try:
             # Show base widgets
-            base_widgets = ['title', 'description', 'status', 'key_red', 'key_green', 'key_yellow', 'key_blue']
+            base_widgets = [
+                'title',
+                'description',
+                'status',
+                'key_red',
+                'key_green',
+                'key_yellow',
+                'key_blue']
             for widget_name in base_widgets:
                 if widget_name in self:
                     self[widget_name].show()
@@ -981,7 +1089,8 @@ class SLwebcamsMain(Screen):
             # Restore opacity
             self.instance.setTransparent(0)
             # For categories, keep webcam window active if webcams were loaded
-            if self.subcategory_code == "categories" and hasattr(self, 'current_category_webcams') and self.current_category_webcams:
+            if self.subcategory_code == "categories" and hasattr(
+                    self, 'current_category_webcams') and self.current_category_webcams:
                 self.current_window = 1  # Webcam window
 
             # Update specific visibility for current mode
@@ -1024,7 +1133,9 @@ class SLwebcamsMain(Screen):
     def show_webcams_for_category(self, category_item):
         """Show webcams for the selected category"""
         try:
-            enhanced_log(f"Loading webcams for category: {category_item['title']}")
+            enhanced_log(
+                f"Loading webcams for category: {
+                    category_item['title']}")
 
             # Determine category code from name
             name_lower = category_item['title'].lower()
@@ -1062,7 +1173,9 @@ class SLwebcamsMain(Screen):
 
         except Exception as e:
             enhanced_log(f"Error loading category: {e}")
-            self.session.open(MessageBox, _('Error loading category: %s') % str(e), MessageBox.TYPE_ERROR, timeout=5)
+            self.session.open(
+                MessageBox, _('Error loading category: %s') %
+                str(e), MessageBox.TYPE_ERROR, timeout=5)
 
     def open_fullscreen_player(self):
         enhanced_log("Settings requested")
@@ -1072,14 +1185,30 @@ class SLwebcamsMain(Screen):
                 self.session.open(SLwebcamsSettings)
             except Exception as e:
                 enhanced_log(f"Error opening settings: {e}")
-                self.session.open(MessageBox, "Settings not available", MessageBox.TYPE_INFO, timeout=5)
+                self.session.open(
+                    MessageBox,
+                    "Settings not available",
+                    MessageBox.TYPE_INFO,
+                    timeout=5)
 
 
 class SLwebcamsPlayer(Screen):
     CONTROLS_HIDE_TIMEOUT = 5000
 
-    def __init__(self, session, current_webcam, webcams_list, current_index, category_code, category_name, fullscreen=False):
-        enhanced_log(f"Initializing player - Webcam: {current_webcam.get('title', 'N/A')}, Fullscreen: {fullscreen}")
+    def __init__(
+            self,
+            session,
+            current_webcam,
+            webcams_list,
+            current_index,
+            category_code,
+            category_name,
+            fullscreen=False):
+        enhanced_log(
+            f"Initializing player - Webcam: {
+                current_webcam.get(
+                    'title',
+                    'N/A')}, Fullscreen: {fullscreen}")
         try:
             enhanced_log("Getting UI settings...")
             ui_settings = get_ui_settings()
@@ -1152,7 +1281,8 @@ class SLwebcamsPlayer(Screen):
             self["controls"] = Label("")
             enhanced_log("UI components initialized")
         except Exception as e:
-            enhanced_log(f"Error during Screen or component initialization: {e}")
+            enhanced_log(
+                f"Error during Screen or component initialization: {e}")
             raise
 
         try:
@@ -1215,7 +1345,9 @@ class SLwebcamsPlayer(Screen):
                 # Extract stream URL using parser
                 from webcam_parser import WebcamParser
                 parser = WebcamParser()
-                enhanced_log(f"Extracting stream URL from: {self.current_webcam['url']}")
+                enhanced_log(
+                    f"Extracting stream URL from: {
+                        self.current_webcam['url']}")
                 stream_url = parser.get_stream_url(self.current_webcam['url'])
                 enhanced_log(f"Extracted stream URL: {stream_url}")
 
@@ -1228,14 +1360,21 @@ class SLwebcamsPlayer(Screen):
                 self.session.nav.playService(service_ref)
             else:
                 enhanced_log("Stream URL not available")
-                self.session.open(MessageBox, _('Stream not available for this webcam'), MessageBox.TYPE_INFO, timeout=5)
+                self.session.open(
+                    MessageBox,
+                    _('Stream not available for this webcam'),
+                    MessageBox.TYPE_INFO,
+                    timeout=5)
 
         except Exception as e:
             enhanced_log(f"Error during playback: {e}")
-            self.session.open(MessageBox, _('Error during playback: %s') % str(e), MessageBox.TYPE_ERROR, timeout=5)
+            self.session.open(
+                MessageBox, _('Error during playback: %s') %
+                str(e), MessageBox.TYPE_ERROR, timeout=5)
 
     def update_controls_text(self):
-        controls_text = f"Webcam {self.current_index + 1} of {len(self.webcams_list)}"
+        controls_text = f"Webcam {self.current_index +
+                                  1} of {len(self.webcams_list)}"
         if 'category' in self.current_webcam:
             controls_text += f" | Category: {self.current_webcam['category']}"
         elif 'country' in self.current_webcam:
@@ -1254,7 +1393,8 @@ class SLwebcamsPlayer(Screen):
                 self.play_current_webcam()
 
     def next_webcam(self):
-        if self.webcams_list and self.current_index < len(self.webcams_list) - 1:
+        if self.webcams_list and self.current_index < len(
+                self.webcams_list) - 1:
             self.current_index += 1
             if 0 <= self.current_index < len(self.webcams_list):
                 self.current_webcam = self.webcams_list[self.current_index]
@@ -1324,7 +1464,9 @@ class SLwebcamsFullscreen(Screen):
         try:
             self.session.nav.playService(self.service_ref)
         except Exception as e:
-            self.session.open(MessageBox, _('Error during fullscreen playback: %s') % str(e), MessageBox.TYPE_ERROR, timeout=5)
+            self.session.open(
+                MessageBox, _('Error during fullscreen playback: %s') %
+                str(e), MessageBox.TYPE_ERROR, timeout=5)
             self.close()
 
     def stop_stream(self):
@@ -1345,8 +1487,8 @@ def Plugins(**kwargs):
         PluginDescriptor(
             name="SkyLine Webcams",
             description=_("Watch webcams from skylinewebcams.com"),
-            where=[PluginDescriptor.WHERE_PLUGINMENU, PluginDescriptor.WHERE_EXTENSIONSMENU],
+            where=[
+                PluginDescriptor.WHERE_PLUGINMENU,
+                PluginDescriptor.WHERE_EXTENSIONSMENU],
             icon="icon.svg",
-            fnc=main
-        )
-    ]
+            fnc=main)]
