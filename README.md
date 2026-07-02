@@ -1,7 +1,7 @@
 # SkyLine Webcams - Enigma2 Plugin
 
 ![SkyLine Webcams](https://img.shields.io/badge/Enigma2-Plugin-blue)
-![Version](https://img.shields.io/badge/version-1.0.2-green)
+![Version](https://img.shields.io/badge/version-1.0.3-green)
 ![Python](https://img.shields.io/badge/python-3.x-yellow)
 ![License](https://img.shields.io/badge/license-GPLv2-blue)
 

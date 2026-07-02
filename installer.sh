@@ -1,8 +1,8 @@
 #!/bin/bash
 ## setup command=wget -q --no-check-certificate https://raw.githubusercontent.com/OwnerPlugins/SLwebcams/main/installer.sh -O - | /bin/bash
 
-version='1.0.2'
-changelog="Fixed auto-start system at decoder boot\nStandalone configuration\nFix Past-Futures events"
+version='1.0.3'
+changelog="Translate all plugins en EN   + minor fix - screen fix"
 
 TMPPATH=/tmp/SLwebcams-install
 FILEPATH=/tmp/SLwebcams-main.tar.gz
