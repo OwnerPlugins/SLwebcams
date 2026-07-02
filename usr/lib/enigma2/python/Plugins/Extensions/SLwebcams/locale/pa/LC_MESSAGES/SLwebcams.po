@@ -1,0 +1,93 @@
+# pa translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: pa <ekekaz@gmail.com>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "ਮੂਲ ਮੀਨੂ ਲੋਡ ਕੀਤਾ ਗਿਆ"
+
+msgid "Buffer size (KB)"
+msgstr "ਬਫਰ ਆਕਾਰ (KB)"
+
+msgid "Cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+msgid "Category-based Webcams"
+msgstr "ਸ਼੍ਰੇਣੀ-ਆਧਾਰਿਤ ਵੈਬਕੈਮ"
+
+msgid "Connection timeout (sec)"
+msgstr "ਕਨੈਕਸ਼ਨ ਸਮਾਂ ਸਮਾਪਤ (ਸਕਿੰਟ)"
+
+msgid "Default view"
+msgstr "ਪੂਰਵ-ਨਿਰਧਾਰਤ ਦ੍ਰਿਸ਼"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "ਪੂਰੀ ਸਕਰੀਨ ਪਲੇਬੈਕ ਦੌਰਾਨ ਗਲਤੀ: %s"
+
+msgid "Error during playback: %s"
+msgstr "ਪਲੇਬੈਕ ਦੌਰਾਨ ਗਲਤੀ: %s"
+
+msgid "Error loading category: %s"
+msgstr "ਸ਼੍ਰੇਣੀ ਲੋਡ ਕਰਨ ਵਿੱਚ ਤਰੁੱਟੀ: %s"
+
+msgid "Error loading countries: %s"
+msgstr "ਦੇਸ਼ ਲੋਡ ਕਰਨ ਵਿੱਚ ਤਰੁੱਟੀ: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "ਵੈਬਕੈਮ ਲੋਡ ਕਰਨ ਵਿੱਚ ਤਰੁੱਟੀ: %s"
+
+msgid "Error opening player: %s"
+msgstr "ਪਲੇਅਰ ਖੋਲ੍ਹਣ ਵਿੱਚ ਤਰੁੱਟੀ: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s ਵਿੱਚ %d ਦੇਸ਼ ਮਿਲੇ"
+
+msgid "Found %d webcams"
+msgstr "%d ਵੈਬਕੈਮ ਮਿਲੇ"
+
+msgid "Initializing..."
+msgstr "ਸ਼ੁਰੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."
+
+msgid "Live Webcams"
+msgstr "ਲਾਈਵ ਵੈਬਕੈਮ"
+
+msgid "Loading webcams..."
+msgstr "ਵੈਬਕੈਮ ਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ..."
+
+msgid "No webcams available in this category"
+msgstr "ਇਸ ਸ਼੍ਰੇਣੀ ਵਿੱਚ ਕੋਈ ਵੈਬਕੈਮ ਉਪਲਬਧ ਨਹੀਂ ਹਨ"
+
+msgid "Save"
+msgstr "ਸੇਵ ਕਰੋ"
+
+msgid "Select a category ({} available)"
+msgstr "ਇੱਕ ਸ਼੍ਰੇਣੀ ਚੁਣੋ ({} ਉਪਲਬਧ)"
+
+msgid "Show information"
+msgstr "ਜਾਣਕਾਰੀ ਦਿਖਾਓ"
+
+msgid "SkyLine Webcams - %s"
+msgstr "ਸਕਾਈਲਾਈਨ ਵੈਬਕੈਮ - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "ਸਕਾਈਲਾਈਨ ਵੈਬਕੈਮ - ਸੈਟਿੰਗਾਂ"
+
+msgid "Stream not available for this webcam"
+msgstr "ਇਸ ਵੈਬਕੈਮ ਲਈ ਸਟ੍ਰੀਮ ਉਪਲਬਧ ਨਹੀਂ ਹੈ"
+
+msgid "Unsupported category: %s"
+msgstr "ਅਸਮਰਥਿਤ ਸ਼੍ਰੇਣੀ: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "skylinewebcams.com ਤੋਂ ਵੈਬਕੈਮ ਦੇਖੋ"
+

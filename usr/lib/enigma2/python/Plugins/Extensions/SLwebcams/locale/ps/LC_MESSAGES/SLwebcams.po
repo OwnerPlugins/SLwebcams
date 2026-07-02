@@ -1,0 +1,93 @@
+# ps translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ps <ekekaz@gmail.com>\n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "بنسټیز مینو بار شوی"
+
+msgid "Buffer size (KB)"
+msgstr "د بفر اندازه (KB)"
+
+msgid "Cancel"
+msgstr "لغوه کړئ"
+
+msgid "Category-based Webcams"
+msgstr "د کټګورۍ پر بنسټ ویب کیمونه"
+
+msgid "Connection timeout (sec)"
+msgstr "د پیوستون مهال ویش (ثانوي)"
+
+msgid "Default view"
+msgstr "ډیفالټ لید"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "د فل سکرین پلې بیک پر مهال تېروتنه: %s"
+
+msgid "Error during playback: %s"
+msgstr "د پلې بیک پر مهال تېروتنه: %s"
+
+msgid "Error loading category: %s"
+msgstr "د کټګورۍ بارولو کې تېروتنه: %s"
+
+msgid "Error loading countries: %s"
+msgstr "د هېوادونو په بارولو کې تېروتنه: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "د ویب کیمونو په پورته کولو کې تېروتنه: %s"
+
+msgid "Error opening player: %s"
+msgstr "د پلیر په پرانیستلو کې تېروتنه: %s"
+
+msgid "Found %d countries in %s"
+msgstr "په %s کې %d هیوادونه وموندل"
+
+msgid "Found %d webcams"
+msgstr "%d ویب کیمونه وموندل"
+
+msgid "Initializing..."
+msgstr "پیل کول..."
+
+msgid "Live Webcams"
+msgstr "ژوندی ویب کیمونه"
+
+msgid "Loading webcams..."
+msgstr "ویب کیمونه پورته کول..."
+
+msgid "No webcams available in this category"
+msgstr "په دې کټګورۍ کې هیڅ ویب کیمونه شتون نلري"
+
+msgid "Save"
+msgstr "خوندي کړئ"
+
+msgid "Select a category ({} available)"
+msgstr "یوه کټګورۍ غوره کړئ ({} موجود دی)"
+
+msgid "Show information"
+msgstr "معلومات ښکاره کړئ"
+
+msgid "SkyLine Webcams - %s"
+msgstr "د اسکای لاین ویب کیمونه - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine Webcams - ترتیبات"
+
+msgid "Stream not available for this webcam"
+msgstr "د دې ویب کیم لپاره جریان شتون نلري"
+
+msgid "Unsupported category: %s"
+msgstr "بې ملاتړه کټګورۍ: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "د skylinewebcams.com څخه ویب کیمونه وګورئ"
+

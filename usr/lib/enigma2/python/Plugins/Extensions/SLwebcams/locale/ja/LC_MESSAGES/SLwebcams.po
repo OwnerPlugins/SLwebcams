@@ -1,0 +1,93 @@
+# ja translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ja <ekekaz@gmail.com>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "基本メニュー搭載"
+
+msgid "Buffer size (KB)"
+msgstr "バッファサイズ(KB)"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Category-based Webcams"
+msgstr "カテゴリベースのウェブカメラ"
+
+msgid "Connection timeout (sec)"
+msgstr "接続タイムアウト (秒)"
+
+msgid "Default view"
+msgstr "デフォルトのビュー"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "全画面再生中のエラー: %s"
+
+msgid "Error during playback: %s"
+msgstr "再生中のエラー: %s"
+
+msgid "Error loading category: %s"
+msgstr "カテゴリの読み込みエラー: %s"
+
+msgid "Error loading countries: %s"
+msgstr "国の読み込みエラー: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Web カメラの読み込みエラー: %s"
+
+msgid "Error opening player: %s"
+msgstr "プレーヤーを開くときにエラーが発生しました: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s で %d か国が見つかりました"
+
+msgid "Found %d webcams"
+msgstr "%d 個の Web カメラが見つかりました"
+
+msgid "Initializing..."
+msgstr "初期化中..."
+
+msgid "Live Webcams"
+msgstr "ライブウェブカメラ"
+
+msgid "Loading webcams..."
+msgstr "ウェブカメラを読み込んでいます..."
+
+msgid "No webcams available in this category"
+msgstr "このカテゴリでは利用可能な Web カメラがありません"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Select a category ({} available)"
+msgstr "カテゴリを選択します ({} が利用可能)"
+
+msgid "Show information"
+msgstr "番組情報"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine Web カメラ - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine ウェブカメラ - 設定"
+
+msgid "Stream not available for this webcam"
+msgstr "このウェブカメラではストリームを利用できません"
+
+msgid "Unsupported category: %s"
+msgstr "サポートされていないカテゴリ: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "skylinewebcams.com のウェブカメラを視聴する"
+

@@ -1,0 +1,93 @@
+# pl translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: pl <ekekaz@gmail.com>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Załadowano menu podstawowe"
+
+msgid "Buffer size (KB)"
+msgstr "Rozmiar bufora (KB)"
+
+msgid "Cancel"
+msgstr "Anulować"
+
+msgid "Category-based Webcams"
+msgstr "Kamery internetowe oparte na kategoriach"
+
+msgid "Connection timeout (sec)"
+msgstr "Limit czasu połączenia (s)"
+
+msgid "Default view"
+msgstr "Widok domyślny"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Błąd podczas odtwarzania na pełnym ekranie: %s"
+
+msgid "Error during playback: %s"
+msgstr "Błąd podczas odtwarzania: %s"
+
+msgid "Error loading category: %s"
+msgstr "Błąd ładowania kategorii: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Błąd podczas ładowania krajów: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Błąd ładowania kamer internetowych: %s"
+
+msgid "Error opening player: %s"
+msgstr "Błąd podczas otwierania odtwarzacza: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Znaleziono %d krajów w %s"
+
+msgid "Found %d webcams"
+msgstr "Znaleziono %d kamer internetowych"
+
+msgid "Initializing..."
+msgstr "Inicjowanie..."
+
+msgid "Live Webcams"
+msgstr "Kamery internetowe na żywo"
+
+msgid "Loading webcams..."
+msgstr "Ładowanie kamer internetowych..."
+
+msgid "No webcams available in this category"
+msgstr "W tej kategorii nie ma dostępnych kamer internetowych"
+
+msgid "Save"
+msgstr "Ratować"
+
+msgid "Select a category ({} available)"
+msgstr "Wybierz kategorię ({} dostępne)"
+
+msgid "Show information"
+msgstr "Pokaż informacje"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Kamery internetowe SkyLine — %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "Kamery internetowe SkyLine - Ustawienia"
+
+msgid "Stream not available for this webcam"
+msgstr "Transmisja nie jest dostępna dla tej kamery internetowej"
+
+msgid "Unsupported category: %s"
+msgstr "Nieobsługiwana kategoria: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Oglądaj kamery internetowe z skylinewebcams.com"
+

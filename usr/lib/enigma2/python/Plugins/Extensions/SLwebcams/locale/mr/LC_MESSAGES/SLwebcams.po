@@ -1,0 +1,93 @@
+# mr translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: mr <ekekaz@gmail.com>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "मूलभूत मेनू लोड केला"
+
+msgid "Buffer size (KB)"
+msgstr "बफर आकार (KB)"
+
+msgid "Cancel"
+msgstr "रद्द करा"
+
+msgid "Category-based Webcams"
+msgstr "श्रेणी-आधारित वेबकॅम"
+
+msgid "Connection timeout (sec)"
+msgstr "कनेक्शन कालबाह्य (से)"
+
+msgid "Default view"
+msgstr "डीफॉल्ट दृश्य"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "पूर्णस्क्रीन प्लेबॅक दरम्यान त्रुटी: %s"
+
+msgid "Error during playback: %s"
+msgstr "प्लेबॅक दरम्यान त्रुटी: %s"
+
+msgid "Error loading category: %s"
+msgstr "श्रेणी लोड करताना त्रुटी: %s"
+
+msgid "Error loading countries: %s"
+msgstr "देश लोड करताना त्रुटी: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "वेबकॅम लोड करताना त्रुटी: %s"
+
+msgid "Error opening player: %s"
+msgstr "प्लेअर उघडताना त्रुटी: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s मध्ये %d देश सापडले"
+
+msgid "Found %d webcams"
+msgstr "%d वेबकॅम सापडले"
+
+msgid "Initializing..."
+msgstr "आरंभ करत आहे..."
+
+msgid "Live Webcams"
+msgstr "थेट वेबकॅम"
+
+msgid "Loading webcams..."
+msgstr "वेबकॅम लोड करत आहे..."
+
+msgid "No webcams available in this category"
+msgstr "या वर्गात कोणतेही वेबकॅम उपलब्ध नाहीत"
+
+msgid "Save"
+msgstr "जतन करा"
+
+msgid "Select a category ({} available)"
+msgstr "श्रेणी निवडा ({} उपलब्ध)"
+
+msgid "Show information"
+msgstr "माहिती दाखवा"
+
+msgid "SkyLine Webcams - %s"
+msgstr "स्कायलाइन वेबकॅम - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "स्कायलाइन वेबकॅम - सेटिंग्ज"
+
+msgid "Stream not available for this webcam"
+msgstr "या वेबकॅमसाठी प्रवाह उपलब्ध नाही"
+
+msgid "Unsupported category: %s"
+msgstr "असमर्थित श्रेणी: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "skylinewebcams.com वरून वेबकॅम पहा"
+

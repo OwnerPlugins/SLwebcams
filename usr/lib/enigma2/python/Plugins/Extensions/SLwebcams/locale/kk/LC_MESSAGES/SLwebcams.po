@@ -1,0 +1,93 @@
+# kk translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: kk <ekekaz@gmail.com>\n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Негізгі мәзір жүктелді"
+
+msgid "Buffer size (KB)"
+msgstr "Буфер өлшемі (КБ)"
+
+msgid "Cancel"
+msgstr "Болдырмау"
+
+msgid "Category-based Webcams"
+msgstr "Санатқа негізделген веб-камералар"
+
+msgid "Connection timeout (sec)"
+msgstr "Қосылу күту уақыты (сек)"
+
+msgid "Default view"
+msgstr "Әдепкі көрініс"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Толық экранда ойнату кезінде қате: %s"
+
+msgid "Error during playback: %s"
+msgstr "Ойнату кезінде қате: %s"
+
+msgid "Error loading category: %s"
+msgstr "Санатты жүктеу қатесі: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Елдерді жүктеу қатесі: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Веб-камераларды жүктеу қатесі: %s"
+
+msgid "Error opening player: %s"
+msgstr "Ойнатқышты ашу қатесі: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s ішінде %d ел табылды"
+
+msgid "Found %d webcams"
+msgstr "%d веб-камера табылды"
+
+msgid "Initializing..."
+msgstr "Бастауда..."
+
+msgid "Live Webcams"
+msgstr "Тікелей веб-камералар"
+
+msgid "Loading webcams..."
+msgstr "Веб-камералар жүктелуде..."
+
+msgid "No webcams available in this category"
+msgstr "Бұл санатта веб-камералар жоқ"
+
+msgid "Save"
+msgstr "Сақтау"
+
+msgid "Select a category ({} available)"
+msgstr "Санат таңдаңыз ({} қолжетімді)"
+
+msgid "Show information"
+msgstr "Ақпаратты көрсету"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine веб-камералары - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine веб-камералары - Параметрлер"
+
+msgid "Stream not available for this webcam"
+msgstr "Бұл веб-камера үшін трансляция қолжетімді емес"
+
+msgid "Unsupported category: %s"
+msgstr "Қолдау көрсетілмейтін санат: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Веб-камераларды skylinewebcams.com сайтынан қараңыз"
+

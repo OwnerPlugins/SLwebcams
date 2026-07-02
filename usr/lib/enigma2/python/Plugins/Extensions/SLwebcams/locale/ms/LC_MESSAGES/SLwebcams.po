@@ -1,0 +1,93 @@
+# ms translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ms <ekekaz@gmail.com>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Menu asas dimuatkan"
+
+msgid "Buffer size (KB)"
+msgstr "Saiz penimbal (KB)"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Category-based Webcams"
+msgstr "Webcam berasaskan kategori"
+
+msgid "Connection timeout (sec)"
+msgstr "Tamat masa sambungan (saat)"
+
+msgid "Default view"
+msgstr "Paparan lalai"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Ralat semasa main balik skrin penuh: %s"
+
+msgid "Error during playback: %s"
+msgstr "Ralat semasa main balik: %s"
+
+msgid "Error loading category: %s"
+msgstr "Ralat memuatkan kategori: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Ralat memuatkan negara: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Ralat memuatkan kamera web: %s"
+
+msgid "Error opening player: %s"
+msgstr "Ralat membuka pemain: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Menemui %d negara di %s"
+
+msgid "Found %d webcams"
+msgstr "Menemui %d kamera web"
+
+msgid "Initializing..."
+msgstr "Memulakan..."
+
+msgid "Live Webcams"
+msgstr "Webcam Langsung"
+
+msgid "Loading webcams..."
+msgstr "Memuatkan kamera web..."
+
+msgid "No webcams available in this category"
+msgstr "Tiada kamera web tersedia dalam kategori ini"
+
+msgid "Save"
+msgstr "Jimat"
+
+msgid "Select a category ({} available)"
+msgstr "Pilih kategori ({} tersedia)"
+
+msgid "Show information"
+msgstr "Tunjukkan maklumat"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Webcam SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "Webcam SkyLine - Tetapan"
+
+msgid "Stream not available for this webcam"
+msgstr "Strim tidak tersedia untuk kamera web ini"
+
+msgid "Unsupported category: %s"
+msgstr "Kategori tidak disokong: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Tonton kamera web dari skylinewebcams.com"
+

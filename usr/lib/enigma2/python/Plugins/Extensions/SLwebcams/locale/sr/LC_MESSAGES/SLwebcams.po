@@ -1,0 +1,93 @@
+# sr translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: sr <ekekaz@gmail.com>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Основни мени је учитан"
+
+msgid "Buffer size (KB)"
+msgstr "Величина бафера (КБ)"
+
+msgid "Cancel"
+msgstr "Откажи"
+
+msgid "Category-based Webcams"
+msgstr "Веб камере засноване на категоријама"
+
+msgid "Connection timeout (sec)"
+msgstr "Временско ограничење везе (сек)"
+
+msgid "Default view"
+msgstr "Подразумевани приказ"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Грешка током репродукције преко целог екрана: %с"
+
+msgid "Error during playback: %s"
+msgstr "Грешка током репродукције: %с"
+
+msgid "Error loading category: %s"
+msgstr "Грешка при учитавању категорије: %с"
+
+msgid "Error loading countries: %s"
+msgstr "Грешка при учитавању земаља: %с"
+
+msgid "Error loading webcams: %s"
+msgstr "Грешка при учитавању веб камера: %с"
+
+msgid "Error opening player: %s"
+msgstr "Грешка при отварању плејера: %с"
+
+msgid "Found %d countries in %s"
+msgstr "Пронађено је %д земаља у %с"
+
+msgid "Found %d webcams"
+msgstr "Пронађено %д веб камера"
+
+msgid "Initializing..."
+msgstr "Иницијализација..."
+
+msgid "Live Webcams"
+msgstr "Веб камере уживо"
+
+msgid "Loading webcams..."
+msgstr "Учитавање веб камера..."
+
+msgid "No webcams available in this category"
+msgstr "Нема доступних веб камера у овој категорији"
+
+msgid "Save"
+msgstr "Сачувај"
+
+msgid "Select a category ({} available)"
+msgstr "Изаберите категорију (доступно: {})"
+
+msgid "Show information"
+msgstr "Прикажи информације"
+
+msgid "SkyLine Webcams - %s"
+msgstr "СкиЛине веб камере - %с"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "СкиЛине веб камере - Подешавања"
+
+msgid "Stream not available for this webcam"
+msgstr "Стрим није доступан за ову веб камеру"
+
+msgid "Unsupported category: %s"
+msgstr "Неподржана категорија: %с"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Гледајте веб камере са скилиневебцамс.цом"
+

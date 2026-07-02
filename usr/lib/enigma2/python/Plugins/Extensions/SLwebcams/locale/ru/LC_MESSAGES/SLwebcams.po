@@ -1,0 +1,96 @@
+# SLwebcams translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SLwebcams\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-06-06 18:07+0200\n"
+"Last-Translator: root <EMAIL@ADDRESS>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Annulla"
+msgstr "Отмена"
+
+msgid "Caricamento webcam..."
+msgstr "Загрузка веб-камеры..."
+
+msgid "Categoria non supportata: %s"
+msgstr "Неподдерживаемая категория: %s"
+
+msgid "Dimensione buffer (KB)"
+msgstr "Размер буфера (КБ)"
+
+msgid "Errore durante il caricamento delle webcam: %s"
+msgstr "Ошибка загрузки веб-камер: %s."
+
+msgid "Errore durante l'apertura del player: %s"
+msgstr "Ошибка открытия плеера: %s"
+
+msgid "Errore durante la riproduzione a schermo intero: %s"
+msgstr "Ошибка воспроизведения в полноэкранном режиме: %s."
+
+msgid "Errore durante la riproduzione: %s"
+msgstr "Ошибка воспроизведения: %s"
+
+msgid "Errore nel caricamento della categoria: %s"
+msgstr "Ошибка загрузки категории: %s."
+
+msgid "Errore nel caricamento delle nazioni: %s"
+msgstr "Ошибка загрузки стран: %s."
+
+msgid "Guarda le webcam da skylinewebcams.com"
+msgstr "Просмотр веб-камер с сайта skylinewebcams.com"
+
+msgid "Inizializzazione..."
+msgstr "Инициализация..."
+
+msgid "Live Webcams"
+msgstr "Живые веб-камеры"
+
+msgid "Menu di base caricato"
+msgstr "Основное меню загружено"
+
+msgid "Mostra informazioni"
+msgstr "Показать информацию"
+
+msgid "Nessuna webcam disponibile in questa categoria"
+msgstr "В этой категории нет веб-камер."
+
+msgid "Salva"
+msgstr "Сальва"
+
+msgid "Seleziona una categoria ({} disponibili)"
+msgstr "Выберите категорию (доступно {})"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Веб-камеры SkyLine — %s"
+
+msgid "SkyLine Webcams - Impostazioni"
+msgstr "Веб-камеры SkyLine - Настройки"
+
+msgid "Stream non disponibile per questa webcam"
+msgstr "Трансляция недоступна для этой веб-камеры"
+
+msgid "Timeout connessione (sec)"
+msgstr "Таймаут соединения (сек)"
+
+msgid "Trovate %d nazioni in %s"
+msgstr "Найдите %d наций в %s"
+
+msgid "Trovate %d webcam"
+msgstr "Найти %d веб-камеру"
+
+msgid "Vista predefinita"
+msgstr "Вид по умолчанию"
+
+msgid "Web per categoria"
+msgstr "Интернет по категориям"

@@ -1,0 +1,93 @@
+# or translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: or <ekekaz@gmail.com>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "ମ Basic ଳିକ ମେନୁ ଲୋଡ୍ ହୋଇଛି |"
+
+msgid "Buffer size (KB)"
+msgstr "ବଫର୍ ଆକାର (KB)"
+
+msgid "Cancel"
+msgstr "ବାତିଲ୍ କରନ୍ତୁ |"
+
+msgid "Category-based Webcams"
+msgstr "ବର୍ଗ-ଆଧାରିତ ୱେବକ୍ୟାମଗୁଡିକ |"
+
+msgid "Connection timeout (sec)"
+msgstr "ସଂଯୋଗ ସମୟ ସମାପ୍ତ (ସେକେଣ୍ଡ)"
+
+msgid "Default view"
+msgstr "ଡିଫଲ୍ଟ ଦୃଶ୍ୟ"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "ଫୁଲ୍ ସ୍କ୍ରିନ୍ ପ୍ଲେକ୍ ସମୟରେ ତ୍ରୁଟି:% s |"
+
+msgid "Error during playback: %s"
+msgstr "ଖେଳିବା ସମୟରେ ତ୍ରୁଟି:% s"
+
+msgid "Error loading category: %s"
+msgstr "ତ୍ରୁଟି ଧାରଣ ବର୍ଗ:% s"
+
+msgid "Error loading countries: %s"
+msgstr "ଦେଶଗୁଡ଼ିକୁ ଧାରଣ କରିବାରେ ତ୍ରୁଟି:% s"
+
+msgid "Error loading webcams: %s"
+msgstr "ୱେବକ୍ୟାମଗୁଡ଼ିକୁ ଧାରଣ କରିବାରେ ତ୍ରୁଟି:% s"
+
+msgid "Error opening player: %s"
+msgstr "ପ୍ଲେୟାର ଖୋଲିବାରେ ତ୍ରୁଟି:% s"
+
+msgid "Found %d countries in %s"
+msgstr "% S ରେ% d ଦେଶ ମିଳିଲା |"
+
+msgid "Found %d webcams"
+msgstr "% D ୱେବକ୍ୟାମ୍ ମିଳିଲା |"
+
+msgid "Initializing..."
+msgstr "ଆରମ୍ଭ ..."
+
+msgid "Live Webcams"
+msgstr "ଲାଇଭ ୱେବକ୍ୟାମ |"
+
+msgid "Loading webcams..."
+msgstr "ୱେବକ୍ୟାମ ଲୋଡିଂ ..."
+
+msgid "No webcams available in this category"
+msgstr "ଏହି ବର୍ଗରେ କ web ଣସି ୱେବକ୍ୟାମ ଉପଲବ୍ଧ ନାହିଁ |"
+
+msgid "Save"
+msgstr "ସଞ୍ଚୟ କରନ୍ତୁ |"
+
+msgid "Select a category ({} available)"
+msgstr "ଏକ ବର୍ଗ ଚୟନ କରନ୍ତୁ ({} ଉପଲବ୍ଧ)"
+
+msgid "Show information"
+msgstr "ସୂଚନା ଦେଖାନ୍ତୁ |"
+
+msgid "SkyLine Webcams - %s"
+msgstr "ସ୍କାଏଲାଇନ୍ ୱେବକ୍ୟାମ୍ -% s |"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "ସ୍କାଏ ଲାଇନ୍ ୱେବକ୍ୟାମ୍ - ସେଟିଂସମୂହ |"
+
+msgid "Stream not available for this webcam"
+msgstr "ଏହି ୱେବକ୍ୟାମ ପାଇଁ ଷ୍ଟ୍ରିମ୍ ଉପଲବ୍ଧ ନାହିଁ |"
+
+msgid "Unsupported category: %s"
+msgstr "ଅସମର୍ଥିତ ବର୍ଗ:% s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Skylinewebcams.com ରୁ ୱେବକ୍ୟାମ ଦେଖନ୍ତୁ |"
+

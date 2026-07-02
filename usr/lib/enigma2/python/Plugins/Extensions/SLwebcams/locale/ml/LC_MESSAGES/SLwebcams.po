@@ -1,0 +1,93 @@
+# ml translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ml <ekekaz@gmail.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "അടിസ്ഥാന മെനു ലോഡുചെയ്‌തു"
+
+msgid "Buffer size (KB)"
+msgstr "ബഫർ വലുപ്പം (KB)"
+
+msgid "Cancel"
+msgstr "റദ്ദാക്കുക"
+
+msgid "Category-based Webcams"
+msgstr "വിഭാഗം അടിസ്ഥാനമാക്കിയുള്ള വെബ്‌ക്യാമുകൾ"
+
+msgid "Connection timeout (sec)"
+msgstr "കണക്ഷൻ കാലഹരണപ്പെടൽ (സെക്കൻഡ്)"
+
+msgid "Default view"
+msgstr "സ്ഥിര കാഴ്ച"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "പൂർണ്ണസ്‌ക്രീൻ പ്ലേബാക്ക് സമയത്ത് പിശക്: %s"
+
+msgid "Error during playback: %s"
+msgstr "പ്ലേബാക്ക് സമയത്ത് പിശക്: %s"
+
+msgid "Error loading category: %s"
+msgstr "വിഭാഗം ലോഡ് ചെയ്യുന്നതിൽ പിശക്: %s"
+
+msgid "Error loading countries: %s"
+msgstr "രാജ്യങ്ങൾ ലോഡുചെയ്യുന്നതിൽ പിശക്: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "വെബ്‌ക്യാമുകൾ ലോഡുചെയ്യുന്നതിൽ പിശക്: %s"
+
+msgid "Error opening player: %s"
+msgstr "പ്ലേയർ തുറക്കുന്നതിൽ പിശക്: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s-ൽ %d രാജ്യങ്ങൾ കണ്ടെത്തി"
+
+msgid "Found %d webcams"
+msgstr "%d വെബ്‌ക്യാമുകൾ കണ്ടെത്തി"
+
+msgid "Initializing..."
+msgstr "ആരംഭിക്കുന്നു..."
+
+msgid "Live Webcams"
+msgstr "തത്സമയ വെബ്‌ക്യാമുകൾ"
+
+msgid "Loading webcams..."
+msgstr "വെബ്‌ക്യാമുകൾ ലോഡുചെയ്യുന്നു..."
+
+msgid "No webcams available in this category"
+msgstr "ഈ വിഭാഗത്തിൽ വെബ്‌ക്യാമുകളൊന്നും ലഭ്യമല്ല"
+
+msgid "Save"
+msgstr "സംരക്ഷിക്കുക"
+
+msgid "Select a category ({} available)"
+msgstr "ഒരു വിഭാഗം തിരഞ്ഞെടുക്കുക ({} ലഭ്യമാണ്)"
+
+msgid "Show information"
+msgstr "വിവരങ്ങൾ കാണിക്കുക"
+
+msgid "SkyLine Webcams - %s"
+msgstr "സ്കൈലൈൻ വെബ്‌ക്യാമുകൾ - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "സ്കൈലൈൻ വെബ്‌ക്യാമുകൾ - ക്രമീകരണങ്ങൾ"
+
+msgid "Stream not available for this webcam"
+msgstr "ഈ വെബ്‌ക്യാമിന് സ്ട്രീം ലഭ്യമല്ല"
+
+msgid "Unsupported category: %s"
+msgstr "പിന്തുണയ്‌ക്കാത്ത വിഭാഗം: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "skylinewebcams.com-ൽ നിന്ന് വെബ്‌ക്യാമുകൾ കാണുക"
+

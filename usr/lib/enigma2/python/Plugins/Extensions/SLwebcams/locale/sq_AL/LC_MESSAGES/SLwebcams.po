@@ -1,0 +1,93 @@
+# sq_AL translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: sq_AL <ekekaz@gmail.com>\n"
+"Language: sq_AL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Menyja bazë u ngarkua"
+
+msgid "Buffer size (KB)"
+msgstr "Madhësia e tamponit (KB)"
+
+msgid "Cancel"
+msgstr "Anulo"
+
+msgid "Category-based Webcams"
+msgstr "Webkamera të bazuara në kategori"
+
+msgid "Connection timeout (sec)"
+msgstr "Kohëzgjatja e lidhjes (sek.)"
+
+msgid "Default view"
+msgstr "Pamja e parazgjedhur"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Gabim gjatë riprodhimit në ekran të plotë: %s"
+
+msgid "Error during playback: %s"
+msgstr "Gabim gjatë riprodhimit: %s"
+
+msgid "Error loading category: %s"
+msgstr "Gabim gjatë ngarkimit të kategorisë: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Gabim gjatë ngarkimit të vendeve: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Gabim gjatë ngarkimit të kamerave në internet: %s"
+
+msgid "Error opening player: %s"
+msgstr "Gabim në hapjen e luajtësit: %s"
+
+msgid "Found %d countries in %s"
+msgstr "U gjetën %d shtete në %s"
+
+msgid "Found %d webcams"
+msgstr "U gjetën %d kamera"
+
+msgid "Initializing..."
+msgstr "Po inicializohet..."
+
+msgid "Live Webcams"
+msgstr "Webkamera të drejtpërdrejta"
+
+msgid "Loading webcams..."
+msgstr "Uebkamerat po ngarkohen..."
+
+msgid "No webcams available in this category"
+msgstr "Nuk ka kamera në internet në këtë kategori"
+
+msgid "Save"
+msgstr "Ruaj"
+
+msgid "Select a category ({} available)"
+msgstr "Zgjidh një kategori ({} në dispozicion)"
+
+msgid "Show information"
+msgstr "Shfaq informacion"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Webkamerat SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine Webcams - Cilësimet"
+
+msgid "Stream not available for this webcam"
+msgstr "Transmetimi nuk ofrohet për këtë kamerë uebi"
+
+msgid "Unsupported category: %s"
+msgstr "Kategoria e pambështetur: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Shikoni kamerat e internetit nga skylinewebcams.com"
+

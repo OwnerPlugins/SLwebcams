@@ -1,0 +1,93 @@
+# km translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: km <ekekaz@gmail.com>\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "ម៉ឺនុយមូលដ្ឋានត្រូវបានផ្ទុក"
+
+msgid "Buffer size (KB)"
+msgstr "ទំហំទ្រនាប់ (KB)"
+
+msgid "Cancel"
+msgstr "បោះបង់"
+
+msgid "Category-based Webcams"
+msgstr "Webcams ផ្អែកលើប្រភេទ"
+
+msgid "Connection timeout (sec)"
+msgstr "អស់ពេលនៃការតភ្ជាប់ (វិនាទី)"
+
+msgid "Default view"
+msgstr "ទិដ្ឋភាពលំនាំដើម"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "កំហុសអំឡុងពេលចាក់សារឡើងវិញពេញអេក្រង់៖ %s"
+
+msgid "Error during playback: %s"
+msgstr "កំហុសអំឡុងពេលចាក់សារថ្មី៖ %s"
+
+msgid "Error loading category: %s"
+msgstr "កំហុសក្នុងការផ្ទុកប្រភេទ៖ %s"
+
+msgid "Error loading countries: %s"
+msgstr "កំហុសក្នុងការផ្ទុកប្រទេស៖ %s"
+
+msgid "Error loading webcams: %s"
+msgstr "មាន​បញ្ហា​ក្នុង​ការ​ផ្ទុក​កាមេរ៉ា​បណ្ដាញ៖ %s"
+
+msgid "Error opening player: %s"
+msgstr "កំហុសក្នុងការបើកអ្នកលេង៖ %s"
+
+msgid "Found %d countries in %s"
+msgstr "បានរកឃើញប្រទេស %d ក្នុង %s"
+
+msgid "Found %d webcams"
+msgstr "បានរកឃើញ %d webcams"
+
+msgid "Initializing..."
+msgstr "កំពុងចាប់ផ្តើម..."
+
+msgid "Live Webcams"
+msgstr "គេហទំព័រកាមេរ៉ាផ្ទាល់"
+
+msgid "Loading webcams..."
+msgstr "កំពុង​ផ្ទុក​កាមេរ៉ា​បណ្ដាញ..."
+
+msgid "No webcams available in this category"
+msgstr "មិនមាន webcam មាននៅក្នុងប្រភេទនេះទេ។"
+
+msgid "Save"
+msgstr "រក្សាទុក"
+
+msgid "Select a category ({} available)"
+msgstr "ជ្រើសរើសប្រភេទមួយ ({} មាន)"
+
+msgid "Show information"
+msgstr "បង្ហាញព័ត៌មាន"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine Webcams - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine Webcams - ការកំណត់"
+
+msgid "Stream not available for this webcam"
+msgstr "មិន​មាន​ការ​ផ្សាយ​សម្រាប់​កាមេរ៉ា​បណ្ដាញ​នេះ​ទេ។"
+
+msgid "Unsupported category: %s"
+msgstr "ប្រភេទមិនគាំទ្រ៖ %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "មើលកាមេរ៉ាបណ្ដាញពី skylinewebcams.com"
+

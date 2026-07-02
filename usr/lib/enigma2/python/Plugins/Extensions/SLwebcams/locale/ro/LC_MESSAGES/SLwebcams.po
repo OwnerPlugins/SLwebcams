@@ -1,0 +1,93 @@
+# ro translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ro <ekekaz@gmail.com>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Meniul de bază a fost încărcat"
+
+msgid "Buffer size (KB)"
+msgstr "Dimensiunea memoriei tampon (KB)"
+
+msgid "Cancel"
+msgstr "Anula"
+
+msgid "Category-based Webcams"
+msgstr "Camere web bazate pe categorii"
+
+msgid "Connection timeout (sec)"
+msgstr "Timeout conexiune (sec)"
+
+msgid "Default view"
+msgstr "Vizualizare implicită"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Eroare în timpul redării pe tot ecranul: %s"
+
+msgid "Error during playback: %s"
+msgstr "Eroare în timpul redării: %s"
+
+msgid "Error loading category: %s"
+msgstr "Eroare la încărcarea categoriei: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Eroare la încărcarea țărilor: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Eroare la încărcarea camerelor web: %s"
+
+msgid "Error opening player: %s"
+msgstr "Eroare la deschiderea playerului: %s"
+
+msgid "Found %d countries in %s"
+msgstr "S-au găsit %d țări în %s"
+
+msgid "Found %d webcams"
+msgstr "S-au găsit %d camere web"
+
+msgid "Initializing..."
+msgstr "Se inițializează..."
+
+msgid "Live Webcams"
+msgstr "Camere web live"
+
+msgid "Loading webcams..."
+msgstr "Se încarcă camerele web..."
+
+msgid "No webcams available in this category"
+msgstr "Nu există camere web disponibile în această categorie"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Select a category ({} available)"
+msgstr "Selectați o categorie ({} disponibile)"
+
+msgid "Show information"
+msgstr "Afișați informații"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Camere web SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "Camere web SkyLine - Setări"
+
+msgid "Stream not available for this webcam"
+msgstr "Fluxul nu este disponibil pentru această cameră web"
+
+msgid "Unsupported category: %s"
+msgstr "Categorie neacceptată: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Vizionați camere web de pe skylinewebcams.com"
+

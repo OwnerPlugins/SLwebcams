@@ -1,0 +1,93 @@
+# ky translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ky <ekekaz@gmail.com>\n"
+"Language: ky\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Негизги меню жүктөлдү"
+
+msgid "Buffer size (KB)"
+msgstr "Буфер өлчөмү (КБ)"
+
+msgid "Cancel"
+msgstr "Жокко чыгаруу"
+
+msgid "Category-based Webcams"
+msgstr "Категорияга негизделген веб-камералар"
+
+msgid "Connection timeout (sec)"
+msgstr "Туташуу күтүү убакыты (сек.)"
+
+msgid "Default view"
+msgstr "Демейки көрүнүш"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Толук экранда ойнотуу учурунда ката кетти: %s"
+
+msgid "Error during playback: %s"
+msgstr "Ойнотуу учурундагы ката: %s"
+
+msgid "Error loading category: %s"
+msgstr "Категорияны жүктөө катасы: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Өлкөлөрдү жүктөө катасы: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Веб камераларды жүктөө катасы: %s"
+
+msgid "Error opening player: %s"
+msgstr "Ойноткучту ачуу катасы: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s ичинде %d өлкө табылды"
+
+msgid "Found %d webcams"
+msgstr "%d веб-камера табылды"
+
+msgid "Initializing..."
+msgstr "Башталууда..."
+
+msgid "Live Webcams"
+msgstr "Live Webcams"
+
+msgid "Loading webcams..."
+msgstr "Веб камералар жүктөлүүдө..."
+
+msgid "No webcams available in this category"
+msgstr "Бул категорияда веб-камералар жок"
+
+msgid "Save"
+msgstr "Сактоо"
+
+msgid "Select a category ({} available)"
+msgstr "Категория тандаңыз ({} жеткиликтүү)"
+
+msgid "Show information"
+msgstr "Маалыматты көрсөтүү"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine веб-камералары - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine веб-камералары - Орнотуулар"
+
+msgid "Stream not available for this webcam"
+msgstr "Бул веб-камера үчүн агым жеткиликсиз"
+
+msgid "Unsupported category: %s"
+msgstr "Колдоого алынбаган категория: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Веб камераларды skylinewebcams.com сайтынан көрүңүз"
+

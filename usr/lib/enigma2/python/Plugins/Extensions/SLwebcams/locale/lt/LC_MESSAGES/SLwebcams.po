@@ -1,0 +1,93 @@
+# lt translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: lt <ekekaz@gmail.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Įkeltas pagrindinis meniu"
+
+msgid "Buffer size (KB)"
+msgstr "Buferio dydis (KB)"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Category-based Webcams"
+msgstr "Kategorijų internetinės kameros"
+
+msgid "Connection timeout (sec)"
+msgstr "Ryšio skirtasis laikas (sek.)"
+
+msgid "Default view"
+msgstr "Numatytasis vaizdas"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Klaida atkuriant per visą ekraną: %s"
+
+msgid "Error during playback: %s"
+msgstr "Klaida atkūrimo metu: %s"
+
+msgid "Error loading category: %s"
+msgstr "Klaida įkeliant kategoriją: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Klaida įkeliant šalis: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Klaida įkeliant žiniatinklio kameras: %s"
+
+msgid "Error opening player: %s"
+msgstr "Klaida atidarant grotuvą: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Rasta %d šalių %s"
+
+msgid "Found %d webcams"
+msgstr "Rasta %d internetinių kamerų"
+
+msgid "Initializing..."
+msgstr "Inicijuojama..."
+
+msgid "Live Webcams"
+msgstr "Tiesioginės internetinės kameros"
+
+msgid "Loading webcams..."
+msgstr "Įkeliamos internetinės kameros..."
+
+msgid "No webcams available in this category"
+msgstr "Šioje kategorijoje nėra internetinių kamerų"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "Select a category ({} available)"
+msgstr "Pasirinkite kategoriją (galima {})"
+
+msgid "Show information"
+msgstr "Rodyti informaciją"
+
+msgid "SkyLine Webcams - %s"
+msgstr "„SkyLine“ internetinės kameros – %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "„SkyLine“ internetinės kameros – nustatymai"
+
+msgid "Stream not available for this webcam"
+msgstr "Srautas nepasiekiamas šiai žiniatinklio kamerai"
+
+msgid "Unsupported category: %s"
+msgstr "Nepalaikoma kategorija: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Žiūrėkite internetines kameras iš skylinewebcams.com"
+

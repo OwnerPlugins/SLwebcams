@@ -1,0 +1,95 @@
+# SLwebcams translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SLwebcams\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-06-06 18:11+0200\n"
+"Last-Translator: root <EMAIL@ADDRESS>\n"
+"Language-Team: Tajik <rkovacs@khujand.org>\n"
+"Language: tg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Annulla"
+msgstr "Бекор кардан"
+
+msgid "Caricamento webcam..."
+msgstr "Веб-камера бор карда мешавад..."
+
+msgid "Categoria non supportata: %s"
+msgstr "Категорияи дастгирӣнашаванда: %s"
+
+msgid "Dimensione buffer (KB)"
+msgstr "Буфери андоза (KB)"
+
+msgid "Errore durante il caricamento delle webcam: %s"
+msgstr "Хатогӣ ҳангоми боркунии веб-камераҳо: %s"
+
+msgid "Errore durante l'apertura del player: %s"
+msgstr "Хатогии кушодани плеер: %s"
+
+msgid "Errore durante la riproduzione a schermo intero: %s"
+msgstr "Хатогии бозӣ дар экрани пурра: %s"
+
+msgid "Errore durante la riproduzione: %s"
+msgstr "Хатогӣ дар бозӣ: %s"
+
+msgid "Errore nel caricamento della categoria: %s"
+msgstr "Хатогии боркунии категория: %s"
+
+msgid "Errore nel caricamento delle nazioni: %s"
+msgstr "Хатогии боркунии кишварҳо: %s"
+
+msgid "Guarda le webcam da skylinewebcams.com"
+msgstr "Дидани веб-камераҳо аз skylinewebcams.com"
+
+msgid "Inizializzazione..."
+msgstr "Оғозсозӣ..."
+
+msgid "Live Webcams"
+msgstr "Веб-камераҳои зинда"
+
+msgid "Menu di base caricato"
+msgstr "Менюи асосӣ бор карда шудааст"
+
+msgid "Mostra informazioni"
+msgstr "Нишон додани маълумот"
+
+msgid "Nessuna webcam disponibile in questa categoria"
+msgstr "Дар ин гурӯҳ ягон веб-камера мавҷуд нест"
+
+msgid "Salva"
+msgstr "Салва"
+
+msgid "Seleziona una categoria ({} disponibili)"
+msgstr "Категорияро интихоб кунед ({} дастрас)"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Вебкамераҳои SkyLine - %s"
+
+msgid "SkyLine Webcams - Impostazioni"
+msgstr "Веб-камераҳои SkyLine - Танзимотҳо"
+
+msgid "Stream non disponibile per questa webcam"
+msgstr "Ҷараён барои ин веб-камера дастрас нест"
+
+msgid "Timeout connessione (sec)"
+msgstr "Вақти пайвастшавӣ (сония)"
+
+msgid "Trovate %d nazioni in %s"
+msgstr "Дар %s %d миллат пайдо кунед"
+
+msgid "Trovate %d webcam"
+msgstr "%d веб-камера пайдо кунед"
+
+msgid "Vista predefinita"
+msgstr "Намоиши пешфарз"
+
+msgid "Web per categoria"
+msgstr "Веб аз рӯи категория"

@@ -1,0 +1,96 @@
+# SLwebcams translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SLwebcams\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-06-06 18:10+0200\n"
+"Last-Translator: root <EMAIL@ADDRESS>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Annulla"
+msgstr "Avboka"
+
+msgid "Caricamento webcam..."
+msgstr "Laddar webbkamera..."
+
+msgid "Categoria non supportata: %s"
+msgstr "Kategori som inte stöds: %s"
+
+msgid "Dimensione buffer (KB)"
+msgstr "Dimensionell buffert (KB)"
+
+msgid "Errore durante il caricamento delle webcam: %s"
+msgstr "Fel vid laddning av webbkameror: %s"
+
+msgid "Errore durante l'apertura del player: %s"
+msgstr "Det gick inte att öppna spelaren: %s"
+
+msgid "Errore durante la riproduzione a schermo intero: %s"
+msgstr "Fel vid uppspelning av helskärm: %s"
+
+msgid "Errore durante la riproduzione: %s"
+msgstr "Fel vid uppspelning: %s"
+
+msgid "Errore nel caricamento della categoria: %s"
+msgstr "Fel vid laddning av kategori: %s"
+
+msgid "Errore nel caricamento delle nazioni: %s"
+msgstr "Fel vid laddning av länder: %s"
+
+msgid "Guarda le webcam da skylinewebcams.com"
+msgstr "Visa webbkameror från skylinewebcams.com"
+
+msgid "Inizializzazione..."
+msgstr "Initiering..."
+
+msgid "Live Webcams"
+msgstr "Live webbkameror"
+
+msgid "Menu di base caricato"
+msgstr "Grundmenyn laddad"
+
+msgid "Mostra informazioni"
+msgstr "Visa information"
+
+msgid "Nessuna webcam disponibile in questa categoria"
+msgstr "Inga webbkameror tillgängliga i denna kategori"
+
+msgid "Salva"
+msgstr ""
+
+msgid "Seleziona una categoria ({} disponibili)"
+msgstr "Välj en kategori ({} tillgänglig)"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine webbkameror - %s"
+
+msgid "SkyLine Webcams - Impostazioni"
+msgstr "SkyLine webbkameror - Inställningar"
+
+msgid "Stream non disponibile per questa webcam"
+msgstr "Streaming är inte tillgänglig för den här webbkameran"
+
+msgid "Timeout connessione (sec)"
+msgstr "Timeout för anslutning (sek)"
+
+msgid "Trovate %d nazioni in %s"
+msgstr "Hitta %d nationer i %s"
+
+msgid "Trovate %d webcam"
+msgstr "Hitta %d webbkamera"
+
+msgid "Vista predefinita"
+msgstr "Standardvy"
+
+msgid "Web per categoria"
+msgstr "Webb efter kategori"

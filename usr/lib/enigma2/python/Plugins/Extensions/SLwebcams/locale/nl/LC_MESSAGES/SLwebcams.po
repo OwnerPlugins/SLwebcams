@@ -1,0 +1,93 @@
+# nl translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: nl <ekekaz@gmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Basismenu geladen"
+
+msgid "Buffer size (KB)"
+msgstr "Buffergrootte (KB)"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Category-based Webcams"
+msgstr "Categoriegebaseerde webcams"
+
+msgid "Connection timeout (sec)"
+msgstr "Time-out van verbinding (sec)"
+
+msgid "Default view"
+msgstr "Standaardweergave"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Fout tijdens afspelen op volledig scherm: %s"
+
+msgid "Error during playback: %s"
+msgstr "Fout tijdens afspelen: %s"
+
+msgid "Error loading category: %s"
+msgstr "Fout bij laden van categorie: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Fout bij laden van landen: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Fout bij het laden van webcams: %s"
+
+msgid "Error opening player: %s"
+msgstr "Fout bij het openen van speler: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%d landen gevonden in %s"
+
+msgid "Found %d webcams"
+msgstr "%d webcams gevonden"
+
+msgid "Initializing..."
+msgstr "Initialiseren..."
+
+msgid "Live Webcams"
+msgstr "Live-webcams"
+
+msgid "Loading webcams..."
+msgstr "Webcams laden..."
+
+msgid "No webcams available in this category"
+msgstr "Er zijn geen webcams beschikbaar in deze categorie"
+
+msgid "Save"
+msgstr "Redden"
+
+msgid "Select a category ({} available)"
+msgstr "Selecteer een categorie ({} beschikbaar)"
+
+msgid "Show information"
+msgstr "Toon informatie"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine-webcams - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine-webcams - Instellingen"
+
+msgid "Stream not available for this webcam"
+msgstr "Stream niet beschikbaar voor deze webcam"
+
+msgid "Unsupported category: %s"
+msgstr "Niet-ondersteunde categorie: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Bekijk webcams van skylinewebcams.com"
+

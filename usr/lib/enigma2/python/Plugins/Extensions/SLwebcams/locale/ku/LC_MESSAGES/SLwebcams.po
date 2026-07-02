@@ -1,0 +1,93 @@
+# ku translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ku <ekekaz@gmail.com>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Menuya bingehîn barkirin"
+
+msgid "Buffer size (KB)"
+msgstr "Mezinahiya tampon (KB)"
+
+msgid "Cancel"
+msgstr "Bişûndekirin"
+
+msgid "Category-based Webcams"
+msgstr "Webkamerên-based Kategorî"
+
+msgid "Connection timeout (sec)"
+msgstr "Dema girêdanê (saniye)"
+
+msgid "Default view"
+msgstr "Dîtina standard"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Çewtiya di dema leyiztina tevahî ekranê de: %s"
+
+msgid "Error during playback: %s"
+msgstr "Di dema lêdanê de çewtî: %s"
+
+msgid "Error loading category: %s"
+msgstr "Di barkirina kategoriyê de çewtî: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Di barkirina welatan de çewtî: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Di barkirina webkameran de çewtî: %s"
+
+msgid "Error opening player: %s"
+msgstr "Çewtiya vekirina lîstikvanê: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Di %s de %d welat hatin dîtin"
+
+msgid "Found %d webcams"
+msgstr "%d webkamera hatin dîtin"
+
+msgid "Initializing..."
+msgstr "Destpêkirin..."
+
+msgid "Live Webcams"
+msgstr "Webkamerên Zindî"
+
+msgid "Loading webcams..."
+msgstr "Barkirina webkameran..."
+
+msgid "No webcams available in this category"
+msgstr "Di vê kategoriyê de webkamera tune"
+
+msgid "Save"
+msgstr "Rizgarkirin"
+
+msgid "Select a category ({} available)"
+msgstr "Kategoriyek hilbijêre ({} berdest e)"
+
+msgid "Show information"
+msgstr "Agahdariyê nîşan bide"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Webkamerên SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "Webkamera SkyLine - Mîhengan"
+
+msgid "Stream not available for this webcam"
+msgstr "Stream ji bo vê webkamera peyda nabe"
+
+msgid "Unsupported category: %s"
+msgstr "Kategoriya ne piştgirî: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Li webkameran ji skylinewebcams.com temaşe bikin"
+

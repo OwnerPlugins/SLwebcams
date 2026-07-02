@@ -1,0 +1,93 @@
+# ka translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ka <ekekaz@gmail.com>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "ძირითადი მენიუ ჩატვირთულია"
+
+msgid "Buffer size (KB)"
+msgstr "ბუფერის ზომა (კბ)"
+
+msgid "Cancel"
+msgstr "გაუქმება"
+
+msgid "Category-based Webcams"
+msgstr "კატეგორიებზე დაფუძნებული ვებკამერები"
+
+msgid "Connection timeout (sec)"
+msgstr "კავშირის დრო ამოიწურა (წმ)"
+
+msgid "Default view"
+msgstr "ნაგულისხმევი ხედი"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "შეცდომა სრულეკრანიანი დაკვრის დროს: %s"
+
+msgid "Error during playback: %s"
+msgstr "შეცდომა დაკვრის დროს: %s"
+
+msgid "Error loading category: %s"
+msgstr "შეცდომა კატეგორიის ჩატვირთვისას: %s"
+
+msgid "Error loading countries: %s"
+msgstr "შეცდომა ქვეყნების ჩატვირთვისას: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "შეცდომა ვებკამერების ჩატვირთვისას: %s"
+
+msgid "Error opening player: %s"
+msgstr "შეცდომა მოთამაშის გახსნისას: %s"
+
+msgid "Found %d countries in %s"
+msgstr "ნაპოვნია %d ქვეყანა %s-ში"
+
+msgid "Found %d webcams"
+msgstr "ნაპოვნია %d ვებკამერა"
+
+msgid "Initializing..."
+msgstr "მიმდინარეობს ინიცირება..."
+
+msgid "Live Webcams"
+msgstr "ცოცხალი ვებკამერები"
+
+msgid "Loading webcams..."
+msgstr "ვებკამერების ჩატვირთვა..."
+
+msgid "No webcams available in this category"
+msgstr "ამ კატეგორიაში ვებკამერები არ არის ხელმისაწვდომი"
+
+msgid "Save"
+msgstr "შენახვა"
+
+msgid "Select a category ({} available)"
+msgstr "აირჩიეთ კატეგორია ({} ხელმისაწვდომია)"
+
+msgid "Show information"
+msgstr "ინფორმაციის ჩვენება"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine ვებკამერები - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine ვებკამერები - პარამეტრები"
+
+msgid "Stream not available for this webcam"
+msgstr "სტრიმი მიუწვდომელია ამ ვებკამერისთვის"
+
+msgid "Unsupported category: %s"
+msgstr "მხარდაუჭერელი კატეგორია: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "უყურეთ ვებკამერებს skylinewebcams.com-დან"
+

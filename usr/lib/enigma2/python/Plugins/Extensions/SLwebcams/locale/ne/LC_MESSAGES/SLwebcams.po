@@ -1,0 +1,93 @@
+# ne translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ne <ekekaz@gmail.com>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "आधारभूत मेनु लोड भयो"
+
+msgid "Buffer size (KB)"
+msgstr "बफर साइज (KB)"
+
+msgid "Cancel"
+msgstr "रद्द गर्नुहोस्"
+
+msgid "Category-based Webcams"
+msgstr "श्रेणी-आधारित वेबक्यामहरू"
+
+msgid "Connection timeout (sec)"
+msgstr "जडान टाइमआउट (सेकेन्ड)"
+
+msgid "Default view"
+msgstr "पूर्वनिर्धारित दृश्य"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "फुलस्क्रिन प्लेब्याकको समयमा त्रुटि: %s"
+
+msgid "Error during playback: %s"
+msgstr "प्लेब्याकको क्रममा त्रुटि: %s"
+
+msgid "Error loading category: %s"
+msgstr "श्रेणी लोड गर्दा त्रुटि: %s"
+
+msgid "Error loading countries: %s"
+msgstr "देशहरू लोड गर्दा त्रुटि: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "वेबक्यामहरू लोड गर्दा त्रुटि: %s"
+
+msgid "Error opening player: %s"
+msgstr "प्लेयर खोल्दा त्रुटि: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s मा %d देश भेटियो"
+
+msgid "Found %d webcams"
+msgstr "%d वेबक्यामहरू भेटिए"
+
+msgid "Initializing..."
+msgstr "प्रारम्भ गर्दै..."
+
+msgid "Live Webcams"
+msgstr "लाइभ वेबक्यामहरू"
+
+msgid "Loading webcams..."
+msgstr "वेबक्यामहरू लोड गर्दै..."
+
+msgid "No webcams available in this category"
+msgstr "यस श्रेणीमा कुनै वेबक्यामहरू उपलब्ध छैनन्"
+
+msgid "Save"
+msgstr "बचत गर्नुहोस्"
+
+msgid "Select a category ({} available)"
+msgstr "श्रेणी चयन गर्नुहोस् ({} उपलब्ध)"
+
+msgid "Show information"
+msgstr "जानकारी देखाउनुहोस्"
+
+msgid "SkyLine Webcams - %s"
+msgstr "स्काईलाइन वेबक्यामहरू - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "स्काईलाइन वेबक्यामहरू - सेटिङहरू"
+
+msgid "Stream not available for this webcam"
+msgstr "यो वेबक्यामको लागि स्ट्रिम उपलब्ध छैन"
+
+msgid "Unsupported category: %s"
+msgstr "असमर्थित कोटी: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "skylinewebcams.com बाट वेबक्यामहरू हेर्नुहोस्"
+

@@ -1,0 +1,93 @@
+# lv translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: lv <ekekaz@gmail.com>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Ielādēta pamata izvēlne"
+
+msgid "Buffer size (KB)"
+msgstr "Bufera lielums (KB)"
+
+msgid "Cancel"
+msgstr "Atcelt"
+
+msgid "Category-based Webcams"
+msgstr "Kategoriju tīmekļa kameras"
+
+msgid "Connection timeout (sec)"
+msgstr "Savienojuma taimauts (s)"
+
+msgid "Default view"
+msgstr "Noklusējuma skats"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Kļūda pilnekrāna atskaņošanas laikā: %s"
+
+msgid "Error during playback: %s"
+msgstr "Kļūda atskaņošanas laikā: %s"
+
+msgid "Error loading category: %s"
+msgstr "Kļūda, ielādējot kategoriju: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Ielādējot valstis, radās kļūda: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Ielādējot tīmekļa kameras, radās kļūda: %s"
+
+msgid "Error opening player: %s"
+msgstr "Atverot atskaņotāju, radās kļūda: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Atrastas %d valstis šeit: %s"
+
+msgid "Found %d webcams"
+msgstr "Atrastas %d tīmekļa kameras"
+
+msgid "Initializing..."
+msgstr "Notiek inicializācija..."
+
+msgid "Live Webcams"
+msgstr "Tiešraides tīmekļa kameras"
+
+msgid "Loading webcams..."
+msgstr "Notiek tīmekļa kameru ielāde..."
+
+msgid "No webcams available in this category"
+msgstr "Šajā kategorijā nav pieejama neviena tīmekļa kamera"
+
+msgid "Save"
+msgstr "Saglabāt"
+
+msgid "Select a category ({} available)"
+msgstr "Atlasiet kategoriju (pieejami {})"
+
+msgid "Show information"
+msgstr "Rādīt informāciju"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine tīmekļa kameras — %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine tīmekļa kameras — iestatījumi"
+
+msgid "Stream not available for this webcam"
+msgstr "Straume šai tīmekļa kamerai nav pieejama"
+
+msgid "Unsupported category: %s"
+msgstr "Neatbalstīta kategorija: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Skatieties tīmekļa kameras no skylinewebcams.com"
+

@@ -1,0 +1,93 @@
+# sw translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: sw <ekekaz@gmail.com>\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Basic menu loaded"
+
+msgid "Buffer size (KB)"
+msgstr "Buffer size (KB)"
+
+msgid "Cancel"
+msgstr "Ghairi"
+
+msgid "Category-based Webcams"
+msgstr "Category-based Webcams"
+
+msgid "Connection timeout (sec)"
+msgstr "Muda wa muunganisho umekwisha (sekunde)"
+
+msgid "Default view"
+msgstr "Default view"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Hitilafu wakati wa uchezaji wa skrini nzima: %s"
+
+msgid "Error during playback: %s"
+msgstr "Hitilafu wakati wa uchezaji: %s"
+
+msgid "Error loading category: %s"
+msgstr "Hitilafu katika upakiaji kategoria: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Hitilafu katika kupakia nchi: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Hitilafu katika kupakia kamera za wavuti: %s"
+
+msgid "Error opening player: %s"
+msgstr "Hitilafu katika kufungua kichezaji: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Imepata nchi %d katika %s"
+
+msgid "Found %d webcams"
+msgstr "Imepata kamera za wavuti %d"
+
+msgid "Initializing..."
+msgstr "Inaanzisha..."
+
+msgid "Live Webcams"
+msgstr "Kamera za Wavuti za moja kwa moja"
+
+msgid "Loading webcams..."
+msgstr "Inapakia kamera za wavuti..."
+
+msgid "No webcams available in this category"
+msgstr "Hakuna kamera za wavuti zinazopatikana katika kategoria hii"
+
+msgid "Save"
+msgstr "Hifadhi"
+
+msgid "Select a category ({} available)"
+msgstr "Chagua kategoria ({} inapatikana)"
+
+msgid "Show information"
+msgstr "Onyesha habari"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Kamera za wavuti za SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "Kamera za wavuti za SkyLine - Mipangilio"
+
+msgid "Stream not available for this webcam"
+msgstr "Mtiririko haupatikani kwa kamera hii ya wavuti"
+
+msgid "Unsupported category: %s"
+msgstr "Aina isiyotumika: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Tazama kamera za wavuti kutoka skylinewebcams.com"
+

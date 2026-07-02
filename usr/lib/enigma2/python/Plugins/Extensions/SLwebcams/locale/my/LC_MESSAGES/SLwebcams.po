@@ -1,0 +1,93 @@
+# my translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: my <ekekaz@gmail.com>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "အခြေခံမီနူးကို တင်ထားသည်။"
+
+msgid "Buffer size (KB)"
+msgstr "ကြားခံအရွယ်အစား (KB)"
+
+msgid "Cancel"
+msgstr "လုပ်တော့"
+
+msgid "Category-based Webcams"
+msgstr "အမျိုးအစားအခြေပြု ဝက်ဘ်ကင်မရာများ"
+
+msgid "Connection timeout (sec)"
+msgstr "ချိတ်ဆက်မှု ကုန်ဆုံးချိန် (စက္ကန့်)"
+
+msgid "Default view"
+msgstr "မူရင်းအမြင်"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "မျက်နှာပြင်အပြည့်ဖွင့်နေစဉ် အမှားအယွင်း- %s"
+
+msgid "Error during playback: %s"
+msgstr "ပြန်ဖွင့်နေစဉ် အမှား- %s"
+
+msgid "Error loading category: %s"
+msgstr "အမျိုးအစားကို တင်ရာတွင် အမှားအယွင်းရှိသည်- %s"
+
+msgid "Error loading countries: %s"
+msgstr "နိုင်ငံများကို ဖွင့်ရာတွင် အမှားအယွင်းရှိသည်- %s"
+
+msgid "Error loading webcams: %s"
+msgstr "ဝဘ်ကင်မရာများကို တင်ရာတွင် အမှားအယွင်းရှိသည်- %s"
+
+msgid "Error opening player: %s"
+msgstr "ပလေယာကိုဖွင့်ရာတွင် အမှားအယွင်းရှိသည်- %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s တွင် နိုင်ငံ %d ကို တွေ့ရှိခဲ့သည်။"
+
+msgid "Found %d webcams"
+msgstr "ဝဘ်ကင်မရာ %d ခုကို တွေ့ရှိခဲ့သည်။"
+
+msgid "Initializing..."
+msgstr "စတင်နေသည်..."
+
+msgid "Live Webcams"
+msgstr "တိုက်ရိုက် Webcams"
+
+msgid "Loading webcams..."
+msgstr "ဝဘ်ကင်မရာများကို ဖွင့်နေသည်..."
+
+msgid "No webcams available in this category"
+msgstr "ဤအမျိုးအစားတွင် ဝဘ်ကင်မရာများ မရရှိနိုင်ပါ။"
+
+msgid "Save"
+msgstr "သိမ်းဆည်းပါ။"
+
+msgid "Select a category ({} available)"
+msgstr "အမျိုးအစားတစ်ခုကို ရွေးပါ ({} ရနိုင်သည်)"
+
+msgid "Show information"
+msgstr "အချက်အလက်ပြပါ။"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine Webcams - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine Webcams - ဆက်တင်များ"
+
+msgid "Stream not available for this webcam"
+msgstr "ဤဝဘ်ကင်မရာအတွက် တိုက်ရိုက်ထုတ်လွှင့်မှုကို မရရှိနိုင်ပါ။"
+
+msgid "Unsupported category: %s"
+msgstr "ပံ့ပိုးမထားသော အမျိုးအစား- %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "skylinewebcams.com မှ ဝဘ်ကင်မရာများကို ကြည့်ရှုပါ။"
+

@@ -1,0 +1,93 @@
+# mt translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: mt <ekekaz@gmail.com>\n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Menu bażiku mgħobbi"
+
+msgid "Buffer size (KB)"
+msgstr "Daqs tal-buffer (KB)"
+
+msgid "Cancel"
+msgstr "Ikkanċella"
+
+msgid "Category-based Webcams"
+msgstr "Webcams ibbażati fuq kategoriji"
+
+msgid "Connection timeout (sec)"
+msgstr "Timeout tal-konnessjoni (sek)"
+
+msgid "Default view"
+msgstr "Veduta default"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Żball waqt daqq fuq skrin sħiħ: %s"
+
+msgid "Error during playback: %s"
+msgstr "Żball waqt id-daqq: %s"
+
+msgid "Error loading category: %s"
+msgstr "Żball fit-tagħbija tal-kategorija: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Żball fit-tagħbija tal-pajjiżi: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Żball fit-tagħbija tal-webcams: %s"
+
+msgid "Error opening player: %s"
+msgstr "Żball fil-ftuħ tal-plejer: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Sabu %d pajjiżi f'%s"
+
+msgid "Found %d webcams"
+msgstr "Sabu %d webcams"
+
+msgid "Initializing..."
+msgstr "Inizjalizzazzjoni..."
+
+msgid "Live Webcams"
+msgstr "Webcams ħajjin"
+
+msgid "Loading webcams..."
+msgstr "Tagħbija webcams..."
+
+msgid "No webcams available in this category"
+msgstr "Ebda webcams disponibbli f'din il-kategorija"
+
+msgid "Save"
+msgstr "Ħlief"
+
+msgid "Select a category ({} available)"
+msgstr "Agħżel kategorija ({} disponibbli)"
+
+msgid "Show information"
+msgstr "Uri l-informazzjoni"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Webcams SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "Webcams SkyLine - Settings"
+
+msgid "Stream not available for this webcam"
+msgstr "Stream not available for this webcam"
+
+msgid "Unsupported category: %s"
+msgstr "Unsupported category: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Ara webcams minn skylinewebcams.com"
+

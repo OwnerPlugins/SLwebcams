@@ -1,0 +1,93 @@
+# sl translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: sl <ekekaz@gmail.com>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Osnovni meni je naložen"
+
+msgid "Buffer size (KB)"
+msgstr "Velikost medpomnilnika (KB)"
+
+msgid "Cancel"
+msgstr "Prekliči"
+
+msgid "Category-based Webcams"
+msgstr "Spletne kamere na podlagi kategorij"
+
+msgid "Connection timeout (sec)"
+msgstr "Časovna omejitev povezave (s)"
+
+msgid "Default view"
+msgstr "Privzeti pogled"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Napaka med celozaslonskim predvajanjem: %s"
+
+msgid "Error during playback: %s"
+msgstr "Napaka med predvajanjem: %s"
+
+msgid "Error loading category: %s"
+msgstr "Napaka pri nalaganju kategorije: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Napaka pri nalaganju držav: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Napaka pri nalaganju spletnih kamer: %s"
+
+msgid "Error opening player: %s"
+msgstr "Napaka pri odpiranju predvajalnika: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Najdenih %d držav v %s"
+
+msgid "Found %d webcams"
+msgstr "Najdenih %d spletnih kamer"
+
+msgid "Initializing..."
+msgstr "Inicializacija ..."
+
+msgid "Live Webcams"
+msgstr "Spletne kamere v živo"
+
+msgid "Loading webcams..."
+msgstr "Nalaganje spletnih kamer ..."
+
+msgid "No webcams available in this category"
+msgstr "V tej kategoriji ni na voljo nobene spletne kamere"
+
+msgid "Save"
+msgstr "Shrani"
+
+msgid "Select a category ({} available)"
+msgstr "Izberite kategorijo ({} na voljo)"
+
+msgid "Show information"
+msgstr "Pokaži informacije"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Spletne kamere SkyLine – %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "Spletne kamere SkyLine – nastavitve"
+
+msgid "Stream not available for this webcam"
+msgstr "Tok ni na voljo za to spletno kamero"
+
+msgid "Unsupported category: %s"
+msgstr "Nepodprta kategorija: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Oglejte si spletne kamere s spletnega mesta skylinewebcams.com"
+

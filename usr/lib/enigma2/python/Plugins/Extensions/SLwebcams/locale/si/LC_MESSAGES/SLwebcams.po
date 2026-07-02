@@ -1,0 +1,93 @@
+# si translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: si <ekekaz@gmail.com>\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "මූලික මෙනුව පටවා ඇත"
+
+msgid "Buffer size (KB)"
+msgstr "බෆර ප්‍රමාණය (KB)"
+
+msgid "Cancel"
+msgstr "අවලංගු කරන්න"
+
+msgid "Category-based Webcams"
+msgstr "ප්‍රවර්ග පදනම් වූ වෙබ් කැමරා"
+
+msgid "Connection timeout (sec)"
+msgstr "සම්බන්ධතා කල් ඉකුත්වීම (තත්පර)"
+
+msgid "Default view"
+msgstr "පෙරනිමි දසුන"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "පූර්ණ තිර පසුධාවනයේදී දෝෂයකි: %s"
+
+msgid "Error during playback: %s"
+msgstr "නැවත ධාවනය අතරතුර දෝෂයකි: %s"
+
+msgid "Error loading category: %s"
+msgstr "ප්‍රවර්ගය පූරණය කිරීමේ දෝෂයකි: %s"
+
+msgid "Error loading countries: %s"
+msgstr "රටවල් පූරණය කිරීමේ දෝෂයකි: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "වෙබ් කැමරා පූරණය කිරීමේ දෝෂයකි: %s"
+
+msgid "Error opening player: %s"
+msgstr "වාදකය විවෘත කිරීමේ දෝෂයකි: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s තුළ රටවල් %dක් හමු විය"
+
+msgid "Found %d webcams"
+msgstr "වෙබ් කැමරා %dක් හමු විය"
+
+msgid "Initializing..."
+msgstr "ආරම්භ කරමින්..."
+
+msgid "Live Webcams"
+msgstr "සජීවී වෙබ් කැමරා"
+
+msgid "Loading webcams..."
+msgstr "වෙබ් කැමරා පූරණය කරමින්..."
+
+msgid "No webcams available in this category"
+msgstr "මෙම ප්‍රවර්ගය තුළ වෙබ් කැමරා නොමැත"
+
+msgid "Save"
+msgstr "සුරකින්න"
+
+msgid "Select a category ({} available)"
+msgstr "ප්‍රවර්ගයක් තෝරන්න ({} තිබේ)"
+
+msgid "Show information"
+msgstr "තොරතුරු පෙන්වන්න"
+
+msgid "SkyLine Webcams - %s"
+msgstr "ස්කයිලයින් වෙබ් කැමරා - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine වෙබ් කැමරා - සැකසුම්"
+
+msgid "Stream not available for this webcam"
+msgstr "මෙම වෙබ් කැමරාව සඳහා ප්‍රවාහය නොමැත"
+
+msgid "Unsupported category: %s"
+msgstr "සහාය නොදක්වන ප්‍රවර්ගය: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "skylinewebcams.com වෙතින් වෙබ් කැමරා නරඹන්න"
+

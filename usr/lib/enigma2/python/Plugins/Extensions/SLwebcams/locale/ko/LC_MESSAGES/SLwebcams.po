@@ -1,0 +1,93 @@
+# ko translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ko <ekekaz@gmail.com>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "기본 메뉴 로드"
+
+msgid "Buffer size (KB)"
+msgstr "버퍼 크기(KB)"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Category-based Webcams"
+msgstr "카테고리 기반 웹캠"
+
+msgid "Connection timeout (sec)"
+msgstr "연결 시간 초과(초)"
+
+msgid "Default view"
+msgstr "기본 보기"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "전체 화면 재생 중 오류: %s"
+
+msgid "Error during playback: %s"
+msgstr "재생 중 오류: %s"
+
+msgid "Error loading category: %s"
+msgstr "카테고리 로드 오류: %s"
+
+msgid "Error loading countries: %s"
+msgstr "국가 로드 중 오류 발생: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "웹캠 로드 중 오류 발생: %s"
+
+msgid "Error opening player: %s"
+msgstr "플레이어를 여는 중 오류 발생: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s에서 %d개 국가를 찾았습니다."
+
+msgid "Found %d webcams"
+msgstr "%d개의 웹캠을 찾았습니다."
+
+msgid "Initializing..."
+msgstr "초기화 중..."
+
+msgid "Live Webcams"
+msgstr "라이브 웹캠"
+
+msgid "Loading webcams..."
+msgstr "웹캠 로드 중..."
+
+msgid "No webcams available in this category"
+msgstr "이 카테고리에는 사용할 수 있는 웹캠이 없습니다."
+
+msgid "Save"
+msgstr "구하다"
+
+msgid "Select a category ({} available)"
+msgstr "카테고리 선택({} 사용 가능)"
+
+msgid "Show information"
+msgstr "정보 표시"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine 웹캠 - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine 웹캠 - 설정"
+
+msgid "Stream not available for this webcam"
+msgstr "이 웹캠에서는 스트림을 사용할 수 없습니다."
+
+msgid "Unsupported category: %s"
+msgstr "지원되지 않는 카테고리: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Skylinewebcams.com에서 웹캠을 시청하세요."
+
