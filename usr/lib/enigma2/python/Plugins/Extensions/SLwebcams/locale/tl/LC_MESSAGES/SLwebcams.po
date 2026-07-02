@@ -16,80 +16,133 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Annulla"
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "Na-load ang pangunahing menu"
+
+msgid "Buffer size (KB)"
+msgstr "Laki ng buffer (KB)"
+
+msgid "Cancel"
 msgstr "Kanselahin"
 
-msgid "Caricamento webcam..."
-msgstr "Nilo-load ang webcam..."
+msgid "Category-based Webcams"
+msgstr "Mga Webcam na nakabatay sa kategorya"
 
-msgid "Categoria non supportata: %s"
-msgstr "Hindi sinusuportahang kategorya: %s"
+msgid "Connection timeout (sec)"
+msgstr "Timeout ng koneksyon (seg)"
 
-msgid "Dimensione buffer (KB)"
-msgstr "Buffer ng dimensyon (KB)"
+msgid "Default view"
+msgstr "Default na view"
 
-msgid "Errore durante il caricamento delle webcam: %s"
-msgstr "Error sa paglo-load ng mga webcam: %s"
-
-msgid "Errore durante l'apertura del player: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: %s"
 msgstr "Error sa pagbubukas ng player: %s"
 
-msgid "Errore durante la riproduzione a schermo intero: %s"
-msgstr "Error sa paglalaro ng full screen: %s"
+msgid "Error during playback: %s"
+msgstr "Error habang nagpe-playback: %s"
 
-msgid "Errore durante la riproduzione: %s"
-msgstr "Error sa paglalaro: %s"
-
-msgid "Errore nel caricamento della categoria: %s"
+#, fuzzy
+msgid "Error loading category: %s"
 msgstr "Error sa paglo-load ng kategorya: %s"
 
-msgid "Errore nel caricamento delle nazioni: %s"
+msgid "Error loading countries: %s"
 msgstr "Error sa paglo-load ng mga bansa: %s"
 
-msgid "Guarda le webcam da skylinewebcams.com"
-msgstr "Tingnan ang mga webcam mula sa skylinewebcams.com"
+msgid "Error loading webcams: %s"
+msgstr "Error sa paglo-load ng mga webcam: %s"
 
-msgid "Inizializzazione..."
+msgid "Error opening player: %s"
+msgstr "Error sa pagbubukas ng player: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Nakahanap ng %d bansa sa %s"
+
+#, fuzzy
+msgid "Found %d webcams"
+msgstr "Maghanap ng %d webcam"
+
+#, fuzzy
+msgid "Initializing..."
 msgstr "Pagsisimula..."
 
 msgid "Live Webcams"
 msgstr "Mga Live na Webcam"
 
-msgid "Menu di base caricato"
-msgstr "Na-load ang pangunahing menu"
+#, fuzzy
+msgid "Loading webcams..."
+msgstr "Nilo-load ang webcam..."
 
-msgid "Mostra informazioni"
-msgstr "Ipakita ang impormasyon"
-
-msgid "Nessuna webcam disponibile in questa categoria"
+#, fuzzy
+msgid "No webcams available in this category"
 msgstr "Walang available na webcam sa kategoryang ito"
 
-msgid "Salva"
-msgstr ""
+msgid "Save"
+msgstr "I-save"
 
-msgid "Seleziona una categoria ({} disponibili)"
+#, fuzzy
+msgid "Select a category ({} available)"
 msgstr "Pumili ng kategorya ({} available)"
+
+#, fuzzy
+msgid "Show information"
+msgstr "Ipakita ang impormasyon"
 
 msgid "SkyLine Webcams - %s"
 msgstr "Mga SkyLine Webcam - %s"
 
-msgid "SkyLine Webcams - Impostazioni"
-msgstr "Mga SkyLine Webcam - Mga Setting"
+#, fuzzy
+msgid "SkyLine Webcams - Settings"
+msgstr "Mga SkyLine Webcam - %s"
 
-msgid "Stream non disponibile per questa webcam"
+#, fuzzy
+msgid "Stream not available for this webcam"
 msgstr "Hindi available ang stream para sa webcam na ito"
 
-msgid "Timeout connessione (sec)"
-msgstr "Timeout ng koneksyon (seg)"
+msgid "Unsupported category: %s"
+msgstr "Hindi sinusuportahang kategorya: %s"
 
-msgid "Trovate %d nazioni in %s"
-msgstr "Maghanap ng %d bansa sa %s"
+#, fuzzy
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Tingnan ang mga webcam mula sa skylinewebcams.com"
 
-msgid "Trovate %d webcam"
-msgstr "Maghanap ng %d webcam"
+#~ msgid "Annulla"
+#~ msgstr "Kanselahin"
 
-msgid "Vista predefinita"
-msgstr "Default na view"
+#~ msgid "Categoria non supportata: %s"
+#~ msgstr "Hindi sinusuportahang kategorya: %s"
 
-msgid "Web per categoria"
-msgstr "Web ayon sa kategorya"
+#~ msgid "Dimensione buffer (KB)"
+#~ msgstr "Buffer ng dimensyon (KB)"
+
+#~ msgid "Errore durante il caricamento delle webcam: %s"
+#~ msgstr "Error sa paglo-load ng mga webcam: %s"
+
+#~ msgid "Errore durante la riproduzione a schermo intero: %s"
+#~ msgstr "Error sa paglalaro ng full screen: %s"
+
+#~ msgid "Errore durante la riproduzione: %s"
+#~ msgstr "Error sa paglalaro: %s"
+
+#~ msgid "Errore nel caricamento delle nazioni: %s"
+#~ msgstr "Error sa paglo-load ng mga bansa: %s"
+
+#~ msgid "Menu di base caricato"
+#~ msgstr "Na-load ang pangunahing menu"
+
+#~ msgid "SkyLine Webcams - Impostazioni"
+#~ msgstr "Mga SkyLine Webcam - Mga Setting"
+
+#~ msgid "Timeout connessione (sec)"
+#~ msgstr "Timeout ng koneksyon (seg)"
+
+#~ msgid "Trovate %d nazioni in %s"
+#~ msgstr "Maghanap ng %d bansa sa %s"
+
+#~ msgid "Vista predefinita"
+#~ msgstr "Default na view"
+
+#~ msgid "Web per categoria"
+#~ msgstr "Web ayon sa kategorya"

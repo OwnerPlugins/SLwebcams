@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-07-02 19:37+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Uzbek\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "Asosiy menyu yuklandi"
+
+msgid "Buffer size (KB)"
+msgstr "Bufer hajmi (KB)"
+
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+msgid "Category-based Webcams"
+msgstr "Kategoriyaga asoslangan veb-kameralar"
+
+msgid "Connection timeout (sec)"
+msgstr "Ulanish vaqti tugashi (sek.)"
+
+msgid "Default view"
+msgstr "Standart koʻrinish"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Toʻliq ekranli ijro paytida xatolik yuz berdi: %s"
+
+msgid "Error during playback: %s"
+msgstr "Ijro etish paytida xatolik yuz berdi: %s"
+
+msgid "Error loading category: %s"
+msgstr "Turkumni yuklashda xatolik yuz berdi: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Mamlakatlarni yuklashda xatolik yuz berdi: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Veb-kameralarni yuklashda xatolik: %s"
+
+msgid "Error opening player: %s"
+msgstr "Pleyerni ochishda xatolik yuz berdi: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s ichida %d ta mamlakat topildi"
+
+msgid "Found %d webcams"
+msgstr "%d ta veb-kamera topildi"
+
+msgid "Initializing..."
+msgstr "Boshlanmoqda..."
+
+msgid "Live Webcams"
+msgstr "Jonli veb-kameralar"
+
+msgid "Loading webcams..."
+msgstr "Veb-kameralar yuklanmoqda..."
+
+msgid "No webcams available in this category"
+msgstr "Ushbu turkumda veb-kameralar mavjud emas"
+
+msgid "Save"
+msgstr "Saqlash"
+
+msgid "Select a category ({} available)"
+msgstr "Turkum tanlang ({} mavjud)"
+
+msgid "Show information"
+msgstr "Ma'lumotni ko'rsatish"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine veb-kameralari - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine veb-kameralari - Sozlamalar"
+
+msgid "Stream not available for this webcam"
+msgstr ""
+
+msgid "Unsupported category: %s"
+msgstr "Qoʻllab-quvvatlanmaydigan turkum: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Skylinewebcams.com saytidan veb-kameralarni tomosha qiling"

@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-07-02 19:38+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language zh-CN\n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "基本菜单已加载"
+
+msgid "Buffer size (KB)"
+msgstr "缓冲区大小 (KB)"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Category-based Webcams"
+msgstr "基于类别的网络摄像头"
+
+msgid "Connection timeout (sec)"
+msgstr "连接超时（秒）"
+
+msgid "Default view"
+msgstr "默认视图"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "全屏播放时出错：%s"
+
+msgid "Error during playback: %s"
+msgstr "播放期间出错：%s"
+
+msgid "Error loading category: %s"
+msgstr "加载类别时出错：%s"
+
+msgid "Error loading countries: %s"
+msgstr "加载国家/地区时出错：%s"
+
+msgid "Error loading webcams: %s"
+msgstr "加载网络摄像头时出错：%s"
+
+msgid "Error opening player: %s"
+msgstr "打开播放器时出错：%s"
+
+msgid "Found %d countries in %s"
+msgstr "在 %s 中找到 %d 个国家/地区"
+
+msgid "Found %d webcams"
+msgstr "找到 %d 个网络摄像头"
+
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+msgid "Live Webcams"
+msgstr "实时网络摄像头"
+
+msgid "Loading webcams..."
+msgstr "正在加载网络摄像头..."
+
+msgid "No webcams available in this category"
+msgstr "此类别中没有可用的网络摄像头"
+
+msgid "Save"
+msgstr "节省"
+
+msgid "Select a category ({} available)"
+msgstr "选择类别（可用 {}）"
+
+msgid "Show information"
+msgstr "显示信息"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine 网络摄像头 - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine 网络摄像头 - 设置"
+
+msgid "Stream not available for this webcam"
+msgstr "此网络摄像头无法使用流媒体"
+
+msgid "Unsupported category: %s"
+msgstr "不支持的类别：%s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "观看 skylinewebcams.com 的网络摄像头"

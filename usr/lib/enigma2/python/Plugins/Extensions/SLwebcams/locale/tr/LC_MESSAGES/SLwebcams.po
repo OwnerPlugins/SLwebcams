@@ -17,80 +17,136 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Annulla"
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "Temel menü yüklendi"
+
+msgid "Buffer size (KB)"
+msgstr "Arabellek boyutu (KB)"
+
+msgid "Cancel"
 msgstr "İptal etmek"
 
-msgid "Caricamento webcam..."
-msgstr "Web kamerası yükleniyor..."
+msgid "Category-based Webcams"
+msgstr "Kategori bazlı Web Kameraları"
 
-msgid "Categoria non supportata: %s"
-msgstr "Desteklenmeyen kategori: %s"
+msgid "Connection timeout (sec)"
+msgstr "Bağlantı zaman aşımı (sn)"
 
-msgid "Dimensione buffer (KB)"
-msgstr "Boyut arabelleği (KB)"
+msgid "Default view"
+msgstr "Varsayılan görünüm"
 
-msgid "Errore durante il caricamento delle webcam: %s"
-msgstr "Web kameraları yüklenirken hata oluştu: %s"
-
-msgid "Errore durante l'apertura del player: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: %s"
 msgstr "Oyuncu açılırken hata oluştu: %s"
 
-msgid "Errore durante la riproduzione a schermo intero: %s"
-msgstr "Tam ekran oynatılırken hata oluştu: %s"
+msgid "Error during playback: %s"
+msgstr "Oynatma sırasında hata: %s"
 
-msgid "Errore durante la riproduzione: %s"
-msgstr "Oynatma hatası: %s"
-
-msgid "Errore nel caricamento della categoria: %s"
+#, fuzzy
+msgid "Error loading category: %s"
 msgstr "Kategori yüklenirken hata oluştu: %s"
 
-msgid "Errore nel caricamento delle nazioni: %s"
+msgid "Error loading countries: %s"
 msgstr "Ülkeler yüklenirken hata oluştu: %s"
 
-msgid "Guarda le webcam da skylinewebcams.com"
-msgstr "Skylinewebcams.com'daki web kameralarını görüntüleyin"
+msgid "Error loading webcams: %s"
+msgstr "Web kameraları yüklenirken hata oluştu: %s"
 
-msgid "Inizializzazione..."
+msgid "Error opening player: %s"
+msgstr "Oyuncu açılırken hata oluştu: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s bölgesinde %d ülke bulundu"
+
+#, fuzzy
+msgid "Found %d webcams"
+msgstr "%d web kamerasını bul"
+
+#, fuzzy
+msgid "Initializing..."
 msgstr "Başlatma..."
 
 msgid "Live Webcams"
 msgstr "Canlı Web Kameraları"
 
-msgid "Menu di base caricato"
-msgstr "Temel menü yüklendi"
+#, fuzzy
+msgid "Loading webcams..."
+msgstr "Web kamerası yükleniyor..."
 
-msgid "Mostra informazioni"
-msgstr "Bilgileri göster"
-
-msgid "Nessuna webcam disponibile in questa categoria"
+#, fuzzy
+msgid "No webcams available in this category"
 msgstr "Bu kategoride web kamerası yok"
 
-msgid "Salva"
-msgstr "salva"
+msgid "Save"
+msgstr "Kaydetmek"
 
-msgid "Seleziona una categoria ({} disponibili)"
+#, fuzzy
+msgid "Select a category ({} available)"
 msgstr "Bir kategori seçin ({} mevcut)"
+
+#, fuzzy
+msgid "Show information"
+msgstr "Bilgileri göster"
 
 msgid "SkyLine Webcams - %s"
 msgstr "SkyLine Web Kameraları - %s"
 
-msgid "SkyLine Webcams - Impostazioni"
-msgstr "SkyLine Web Kameraları - Ayarlar"
+#, fuzzy
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine Web Kameraları - %s"
 
-msgid "Stream non disponibile per questa webcam"
+#, fuzzy
+msgid "Stream not available for this webcam"
 msgstr "Bu web kamerası için akış kullanılamıyor"
 
-msgid "Timeout connessione (sec)"
-msgstr "Bağlantı zaman aşımı (sn)"
+msgid "Unsupported category: %s"
+msgstr "Desteklenmeyen kategori: %s"
 
-msgid "Trovate %d nazioni in %s"
-msgstr "%s bölgesinde %d ülkeyi bulun"
+#, fuzzy
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Skylinewebcams.com'daki web kameralarını görüntüleyin"
 
-msgid "Trovate %d webcam"
-msgstr "%d web kamerasını bul"
+#~ msgid "Annulla"
+#~ msgstr "İptal etmek"
 
-msgid "Vista predefinita"
-msgstr "Varsayılan görünüm"
+#~ msgid "Categoria non supportata: %s"
+#~ msgstr "Desteklenmeyen kategori: %s"
 
-msgid "Web per categoria"
-msgstr "Kategoriye göre web"
+#~ msgid "Dimensione buffer (KB)"
+#~ msgstr "Boyut arabelleği (KB)"
+
+#~ msgid "Errore durante il caricamento delle webcam: %s"
+#~ msgstr "Web kameraları yüklenirken hata oluştu: %s"
+
+#~ msgid "Errore durante la riproduzione a schermo intero: %s"
+#~ msgstr "Tam ekran oynatılırken hata oluştu: %s"
+
+#~ msgid "Errore durante la riproduzione: %s"
+#~ msgstr "Oynatma hatası: %s"
+
+#~ msgid "Errore nel caricamento delle nazioni: %s"
+#~ msgstr "Ülkeler yüklenirken hata oluştu: %s"
+
+#~ msgid "Menu di base caricato"
+#~ msgstr "Temel menü yüklendi"
+
+#~ msgid "Salva"
+#~ msgstr "salva"
+
+#~ msgid "SkyLine Webcams - Impostazioni"
+#~ msgstr "SkyLine Web Kameraları - Ayarlar"
+
+#~ msgid "Timeout connessione (sec)"
+#~ msgstr "Bağlantı zaman aşımı (sn)"
+
+#~ msgid "Trovate %d nazioni in %s"
+#~ msgstr "%s bölgesinde %d ülkeyi bulun"
+
+#~ msgid "Vista predefinita"
+#~ msgstr "Varsayılan görünüm"
+
+#~ msgid "Web per categoria"
+#~ msgstr "Kategoriye göre web"

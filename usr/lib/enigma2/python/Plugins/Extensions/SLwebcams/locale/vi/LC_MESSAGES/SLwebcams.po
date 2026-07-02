@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-07-02 19:37+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "Đã tải menu cơ bản"
+
+msgid "Buffer size (KB)"
+msgstr "Kích thước bộ đệm (KB)"
+
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+msgid "Category-based Webcams"
+msgstr "Webcam dựa trên danh mục"
+
+msgid "Connection timeout (sec)"
+msgstr "Hết thời gian kết nối (giây)"
+
+msgid "Default view"
+msgstr "Chế độ xem mặc định"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Lỗi khi phát lại toàn màn hình: %s"
+
+msgid "Error during playback: %s"
+msgstr "Lỗi khi phát lại: %s"
+
+msgid "Error loading category: %s"
+msgstr "Lỗi tải danh mục: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Lỗi tải quốc gia: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Lỗi tải webcam: %s"
+
+msgid "Error opening player: %s"
+msgstr "Lỗi khi mở trình phát: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Đã tìm thấy %d quốc gia trong %s"
+
+msgid "Found %d webcams"
+msgstr "Đã tìm thấy %d webcam"
+
+msgid "Initializing..."
+msgstr "Đang khởi tạo..."
+
+msgid "Live Webcams"
+msgstr "Webcam trực tiếp"
+
+msgid "Loading webcams..."
+msgstr "Đang tải webcam..."
+
+msgid "No webcams available in this category"
+msgstr "Không có webcam nào trong danh mục này"
+
+msgid "Save"
+msgstr "Cứu"
+
+msgid "Select a category ({} available)"
+msgstr "Chọn một danh mục (có sẵn {})"
+
+msgid "Show information"
+msgstr "Hiển thị thông tin"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Webcam SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "Webcam SkyLine - Cài đặt"
+
+msgid "Stream not available for this webcam"
+msgstr "Luồng không khả dụng cho webcam này"
+
+msgid "Unsupported category: %s"
+msgstr "Danh mục không được hỗ trợ: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Xem webcam từ Skylinewebcams.com"

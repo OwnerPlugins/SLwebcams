@@ -17,80 +17,133 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Annulla"
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "Grundmenyn laddad"
+
+msgid "Buffer size (KB)"
+msgstr "Buffertstorlek (KB)"
+
+msgid "Cancel"
 msgstr "Avboka"
 
-msgid "Caricamento webcam..."
-msgstr "Laddar webbkamera..."
+msgid "Category-based Webcams"
+msgstr "Kategoribaserade webbkameror"
 
-msgid "Categoria non supportata: %s"
-msgstr "Kategori som inte stöds: %s"
+msgid "Connection timeout (sec)"
+msgstr "Timeout för anslutning (sek)"
 
-msgid "Dimensione buffer (KB)"
-msgstr "Dimensionell buffert (KB)"
+msgid "Default view"
+msgstr "Standardvy"
 
-msgid "Errore durante il caricamento delle webcam: %s"
-msgstr "Fel vid laddning av webbkameror: %s"
-
-msgid "Errore durante l'apertura del player: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: %s"
 msgstr "Det gick inte att öppna spelaren: %s"
 
-msgid "Errore durante la riproduzione a schermo intero: %s"
-msgstr "Fel vid uppspelning av helskärm: %s"
+msgid "Error during playback: %s"
+msgstr "Fel under uppspelning: %s"
 
-msgid "Errore durante la riproduzione: %s"
-msgstr "Fel vid uppspelning: %s"
-
-msgid "Errore nel caricamento della categoria: %s"
+#, fuzzy
+msgid "Error loading category: %s"
 msgstr "Fel vid laddning av kategori: %s"
 
-msgid "Errore nel caricamento delle nazioni: %s"
+msgid "Error loading countries: %s"
 msgstr "Fel vid laddning av länder: %s"
 
-msgid "Guarda le webcam da skylinewebcams.com"
-msgstr "Visa webbkameror från skylinewebcams.com"
+msgid "Error loading webcams: %s"
+msgstr "Fel vid laddning av webbkameror: %s"
 
-msgid "Inizializzazione..."
+msgid "Error opening player: %s"
+msgstr "Det gick inte att öppna spelaren: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Hittade %d länder i %s"
+
+#, fuzzy
+msgid "Found %d webcams"
+msgstr "Hitta %d webbkamera"
+
+#, fuzzy
+msgid "Initializing..."
 msgstr "Initiering..."
 
 msgid "Live Webcams"
 msgstr "Live webbkameror"
 
-msgid "Menu di base caricato"
-msgstr "Grundmenyn laddad"
+#, fuzzy
+msgid "Loading webcams..."
+msgstr "Laddar webbkamera..."
 
-msgid "Mostra informazioni"
-msgstr "Visa information"
-
-msgid "Nessuna webcam disponibile in questa categoria"
+#, fuzzy
+msgid "No webcams available in this category"
 msgstr "Inga webbkameror tillgängliga i denna kategori"
 
-msgid "Salva"
-msgstr ""
+msgid "Save"
+msgstr "Spara"
 
-msgid "Seleziona una categoria ({} disponibili)"
+#, fuzzy
+msgid "Select a category ({} available)"
 msgstr "Välj en kategori ({} tillgänglig)"
+
+#, fuzzy
+msgid "Show information"
+msgstr "Visa information"
 
 msgid "SkyLine Webcams - %s"
 msgstr "SkyLine webbkameror - %s"
 
-msgid "SkyLine Webcams - Impostazioni"
-msgstr "SkyLine webbkameror - Inställningar"
+#, fuzzy
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine webbkameror - %s"
 
-msgid "Stream non disponibile per questa webcam"
+#, fuzzy
+msgid "Stream not available for this webcam"
 msgstr "Streaming är inte tillgänglig för den här webbkameran"
 
-msgid "Timeout connessione (sec)"
-msgstr "Timeout för anslutning (sek)"
+msgid "Unsupported category: %s"
+msgstr "Kategori som inte stöds: %s"
 
-msgid "Trovate %d nazioni in %s"
-msgstr "Hitta %d nationer i %s"
+#, fuzzy
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Visa webbkameror från skylinewebcams.com"
 
-msgid "Trovate %d webcam"
-msgstr "Hitta %d webbkamera"
+#~ msgid "Annulla"
+#~ msgstr "Avboka"
 
-msgid "Vista predefinita"
-msgstr "Standardvy"
+#~ msgid "Categoria non supportata: %s"
+#~ msgstr "Kategori som inte stöds: %s"
 
-msgid "Web per categoria"
-msgstr "Webb efter kategori"
+#~ msgid "Dimensione buffer (KB)"
+#~ msgstr "Dimensionell buffert (KB)"
+
+#~ msgid "Errore durante il caricamento delle webcam: %s"
+#~ msgstr "Fel vid laddning av webbkameror: %s"
+
+#~ msgid "Errore durante la riproduzione a schermo intero: %s"
+#~ msgstr "Fel vid uppspelning av helskärm: %s"
+
+#~ msgid "Errore durante la riproduzione: %s"
+#~ msgstr "Fel vid uppspelning: %s"
+
+#~ msgid "Errore nel caricamento delle nazioni: %s"
+#~ msgstr "Fel vid laddning av länder: %s"
+
+#~ msgid "Menu di base caricato"
+#~ msgstr "Grundmenyn laddad"
+
+#~ msgid "SkyLine Webcams - Impostazioni"
+#~ msgstr "SkyLine webbkameror - Inställningar"
+
+#~ msgid "Timeout connessione (sec)"
+#~ msgstr "Timeout för anslutning (sek)"
+
+#~ msgid "Trovate %d nazioni in %s"
+#~ msgstr "Hitta %d nationer i %s"
+
+#~ msgid "Vista predefinita"
+#~ msgstr "Standardvy"
+
+#~ msgid "Web per categoria"
+#~ msgstr "Webb efter kategori"

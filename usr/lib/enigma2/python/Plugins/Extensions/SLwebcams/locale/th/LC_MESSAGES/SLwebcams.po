@@ -16,80 +16,136 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Annulla"
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid "Basic menu loaded"
+msgstr "โหลดเมนูพื้นฐานแล้ว"
+
+msgid "Buffer size (KB)"
+msgstr "ขนาดบัฟเฟอร์ (KB)"
+
+msgid "Cancel"
 msgstr "ยกเลิก"
 
-msgid "Caricamento webcam..."
-msgstr "กำลังโหลดเว็บแคม..."
+msgid "Category-based Webcams"
+msgstr "เว็บแคมตามหมวดหมู่"
 
-msgid "Categoria non supportata: %s"
-msgstr "หมวดหมู่ที่ไม่สนับสนุน: %s"
+msgid "Connection timeout (sec)"
+msgstr "หมดเวลาการเชื่อมต่อ (วินาที)"
 
-msgid "Dimensione buffer (KB)"
-msgstr "บัฟเฟอร์ขนาด (KB)"
+msgid "Default view"
+msgstr "มุมมองเริ่มต้น"
 
-msgid "Errore durante il caricamento delle webcam: %s"
-msgstr "เกิดข้อผิดพลาดในการโหลดเว็บแคม: %s"
-
-msgid "Errore durante l'apertura del player: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: %s"
 msgstr "เกิดข้อผิดพลาดในการเปิดผู้เล่น: %s"
 
-msgid "Errore durante la riproduzione a schermo intero: %s"
-msgstr "เกิดข้อผิดพลาดในการเล่นแบบเต็มหน้าจอ: %s"
+msgid "Error during playback: %s"
+msgstr "เกิดข้อผิดพลาดระหว่างการเล่น: %s"
 
-msgid "Errore durante la riproduzione: %s"
-msgstr "เกิดข้อผิดพลาดในการเล่น: %s"
-
-msgid "Errore nel caricamento della categoria: %s"
+#, fuzzy
+msgid "Error loading category: %s"
 msgstr "เกิดข้อผิดพลาดในการโหลดหมวดหมู่: %s"
 
-msgid "Errore nel caricamento delle nazioni: %s"
+msgid "Error loading countries: %s"
 msgstr "เกิดข้อผิดพลาดในการโหลดประเทศ: %s"
 
-msgid "Guarda le webcam da skylinewebcams.com"
-msgstr "ดูเว็บแคมจาก skylinewebcams.com"
+msgid "Error loading webcams: %s"
+msgstr "เกิดข้อผิดพลาดในการโหลดเว็บแคม: %s"
 
-msgid "Inizializzazione..."
+msgid "Error opening player: %s"
+msgstr "เกิดข้อผิดพลาดในการเปิดผู้เล่น: %s"
+
+msgid "Found %d countries in %s"
+msgstr "พบ %d ประเทศใน %s"
+
+#, fuzzy
+msgid "Found %d webcams"
+msgstr "ค้นหา %d เว็บแคม"
+
+#, fuzzy
+msgid "Initializing..."
 msgstr "กำลังเริ่มต้น..."
 
 msgid "Live Webcams"
 msgstr "เว็บแคมถ่ายทอดสด"
 
-msgid "Menu di base caricato"
-msgstr "โหลดเมนูพื้นฐานแล้ว"
+#, fuzzy
+msgid "Loading webcams..."
+msgstr "กำลังโหลดเว็บแคม..."
 
-msgid "Mostra informazioni"
-msgstr "แสดงข้อมูล"
-
-msgid "Nessuna webcam disponibile in questa categoria"
+#, fuzzy
+msgid "No webcams available in this category"
 msgstr "ไม่มีเว็บแคมในหมวดหมู่นี้"
 
-msgid "Salva"
-msgstr "ซาลวา"
+msgid "Save"
+msgstr "บันทึก"
 
-msgid "Seleziona una categoria ({} disponibili)"
+#, fuzzy
+msgid "Select a category ({} available)"
 msgstr "เลือกหมวดหมู่ ({} ใช้ได้)"
+
+#, fuzzy
+msgid "Show information"
+msgstr "แสดงข้อมูล"
 
 msgid "SkyLine Webcams - %s"
 msgstr "เว็บแคม SkyLine - %s"
 
-msgid "SkyLine Webcams - Impostazioni"
-msgstr "เว็บแคม SkyLine - การตั้งค่า"
+#, fuzzy
+msgid "SkyLine Webcams - Settings"
+msgstr "เว็บแคม SkyLine - %s"
 
-msgid "Stream non disponibile per questa webcam"
+#, fuzzy
+msgid "Stream not available for this webcam"
 msgstr "ไม่สามารถสตรีมได้สำหรับเว็บแคมนี้"
 
-msgid "Timeout connessione (sec)"
-msgstr "หมดเวลาการเชื่อมต่อ (วินาที)"
+msgid "Unsupported category: %s"
+msgstr "หมวดหมู่ที่ไม่สนับสนุน: %s"
 
-msgid "Trovate %d nazioni in %s"
-msgstr "ค้นหา %d ประเทศใน %s"
+#, fuzzy
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "ดูเว็บแคมจาก skylinewebcams.com"
 
-msgid "Trovate %d webcam"
-msgstr "ค้นหา %d เว็บแคม"
+#~ msgid "Annulla"
+#~ msgstr "ยกเลิก"
 
-msgid "Vista predefinita"
-msgstr "มุมมองเริ่มต้น"
+#~ msgid "Categoria non supportata: %s"
+#~ msgstr "หมวดหมู่ที่ไม่สนับสนุน: %s"
 
-msgid "Web per categoria"
-msgstr "เว็บตามหมวดหมู่"
+#~ msgid "Dimensione buffer (KB)"
+#~ msgstr "บัฟเฟอร์ขนาด (KB)"
+
+#~ msgid "Errore durante il caricamento delle webcam: %s"
+#~ msgstr "เกิดข้อผิดพลาดในการโหลดเว็บแคม: %s"
+
+#~ msgid "Errore durante la riproduzione a schermo intero: %s"
+#~ msgstr "เกิดข้อผิดพลาดในการเล่นแบบเต็มหน้าจอ: %s"
+
+#~ msgid "Errore durante la riproduzione: %s"
+#~ msgstr "เกิดข้อผิดพลาดในการเล่น: %s"
+
+#~ msgid "Errore nel caricamento delle nazioni: %s"
+#~ msgstr "เกิดข้อผิดพลาดในการโหลดประเทศ: %s"
+
+#~ msgid "Menu di base caricato"
+#~ msgstr "โหลดเมนูพื้นฐานแล้ว"
+
+#~ msgid "Salva"
+#~ msgstr "ซาลวา"
+
+#~ msgid "SkyLine Webcams - Impostazioni"
+#~ msgstr "เว็บแคม SkyLine - การตั้งค่า"
+
+#~ msgid "Timeout connessione (sec)"
+#~ msgstr "หมดเวลาการเชื่อมต่อ (วินาที)"
+
+#~ msgid "Trovate %d nazioni in %s"
+#~ msgstr "ค้นหา %d ประเทศใน %s"
+
+#~ msgid "Vista predefinita"
+#~ msgstr "มุมมองเริ่มต้น"
+
+#~ msgid "Web per categoria"
+#~ msgstr "เว็บตามหมวดหมู่"
