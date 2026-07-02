@@ -1,0 +1,95 @@
+# SLwebcams translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SLwebcams\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-06-06 18:15+0200\n"
+"Last-Translator: root <EMAIL@ADDRESS>\n"
+"Language-Team: Uighur\n"
+"Language: ug\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Annulla"
+msgstr "بىكار قىلىش"
+
+msgid "Caricamento webcam..."
+msgstr "تور كامېراسى يۈكلىنىۋاتىدۇ ..."
+
+msgid "Categoria non supportata: %s"
+msgstr "قوللىمايدىغان تۈر:% s"
+
+msgid "Dimensione buffer (KB)"
+msgstr ""
+
+msgid "Errore durante il caricamento delle webcam: %s"
+msgstr "تور كامېراسىنى يۈكلەشتە خاتالىق:% s"
+
+msgid "Errore durante l'apertura del player: %s"
+msgstr "قويغۇچنى ئېچىشتا خاتالىق:% s"
+
+msgid "Errore durante la riproduzione a schermo intero: %s"
+msgstr "پۈتۈن ئېكراننى قويۇشتا خاتالىق:% s"
+
+msgid "Errore durante la riproduzione: %s"
+msgstr "ئويناشتا خاتالىق:% s"
+
+msgid "Errore nel caricamento della categoria: %s"
+msgstr "خاتالىق يۈكلەش تۈرى:% s"
+
+msgid "Errore nel caricamento delle nazioni: %s"
+msgstr "دۆلەتلەرنى يۈكلەشتە خاتالىق:% s"
+
+msgid "Guarda le webcam da skylinewebcams.com"
+msgstr "Skylinewebcams.com دىن تور كامېراسىنى كۆرۈڭ"
+
+msgid "Inizializzazione..."
+msgstr "Initialization ..."
+
+msgid "Live Webcams"
+msgstr ""
+
+msgid "Menu di base caricato"
+msgstr "ئاساسىي تىزىملىك ​​يۈكلەندى"
+
+msgid "Mostra informazioni"
+msgstr "ئۇچۇر كۆرسەت"
+
+msgid "Nessuna webcam disponibile in questa categoria"
+msgstr "بۇ تۈردىكى تور كامېراسى يوق"
+
+msgid "Salva"
+msgstr ""
+
+msgid "Seleziona una categoria ({} disponibili)"
+msgstr "بىر تۈرنى تاللاڭ ({} بار)"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine تور كامېراسى -% s"
+
+msgid "SkyLine Webcams - Impostazioni"
+msgstr "SkyLine تور كامېراسى - تەڭشەكلەر"
+
+msgid "Stream non disponibile per questa webcam"
+msgstr "بۇ كامېرا ئۈچۈن ئېقىم يوق"
+
+msgid "Timeout connessione (sec)"
+msgstr "ئۇلىنىش ۋاقتى (سېكۇنت)"
+
+msgid "Trovate %d nazioni in %s"
+msgstr "% S دىن% d دۆلەتلەرنى تېپىڭ"
+
+msgid "Trovate %d webcam"
+msgstr "% D تور كامېراسىنى تېپىڭ"
+
+msgid "Vista predefinita"
+msgstr "كۆڭۈلدىكى كۆرۈنۈش"
+
+msgid "Web per categoria"
+msgstr "تۈرلەر بويىچە تور"

@@ -1,0 +1,96 @@
+# SLwebcams translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SLwebcams\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-06-06 18:14+0200\n"
+"Last-Translator: root <EMAIL@ADDRESS>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Annulla"
+msgstr "İptal etmek"
+
+msgid "Caricamento webcam..."
+msgstr "Web kamerası yükleniyor..."
+
+msgid "Categoria non supportata: %s"
+msgstr "Desteklenmeyen kategori: %s"
+
+msgid "Dimensione buffer (KB)"
+msgstr "Boyut arabelleği (KB)"
+
+msgid "Errore durante il caricamento delle webcam: %s"
+msgstr "Web kameraları yüklenirken hata oluştu: %s"
+
+msgid "Errore durante l'apertura del player: %s"
+msgstr "Oyuncu açılırken hata oluştu: %s"
+
+msgid "Errore durante la riproduzione a schermo intero: %s"
+msgstr "Tam ekran oynatılırken hata oluştu: %s"
+
+msgid "Errore durante la riproduzione: %s"
+msgstr "Oynatma hatası: %s"
+
+msgid "Errore nel caricamento della categoria: %s"
+msgstr "Kategori yüklenirken hata oluştu: %s"
+
+msgid "Errore nel caricamento delle nazioni: %s"
+msgstr "Ülkeler yüklenirken hata oluştu: %s"
+
+msgid "Guarda le webcam da skylinewebcams.com"
+msgstr "Skylinewebcams.com'daki web kameralarını görüntüleyin"
+
+msgid "Inizializzazione..."
+msgstr "Başlatma..."
+
+msgid "Live Webcams"
+msgstr "Canlı Web Kameraları"
+
+msgid "Menu di base caricato"
+msgstr "Temel menü yüklendi"
+
+msgid "Mostra informazioni"
+msgstr "Bilgileri göster"
+
+msgid "Nessuna webcam disponibile in questa categoria"
+msgstr "Bu kategoride web kamerası yok"
+
+msgid "Salva"
+msgstr "salva"
+
+msgid "Seleziona una categoria ({} disponibili)"
+msgstr "Bir kategori seçin ({} mevcut)"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine Web Kameraları - %s"
+
+msgid "SkyLine Webcams - Impostazioni"
+msgstr "SkyLine Web Kameraları - Ayarlar"
+
+msgid "Stream non disponibile per questa webcam"
+msgstr "Bu web kamerası için akış kullanılamıyor"
+
+msgid "Timeout connessione (sec)"
+msgstr "Bağlantı zaman aşımı (sn)"
+
+msgid "Trovate %d nazioni in %s"
+msgstr "%s bölgesinde %d ülkeyi bulun"
+
+msgid "Trovate %d webcam"
+msgstr "%d web kamerasını bul"
+
+msgid "Vista predefinita"
+msgstr "Varsayılan görünüm"
+
+msgid "Web per categoria"
+msgstr "Kategoriye göre web"

@@ -1,0 +1,95 @@
+# SLwebcams translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SLwebcams\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-06-06 18:14+0200\n"
+"Last-Translator: root <EMAIL@ADDRESS>\n"
+"Language-Team: Tatar\n"
+"Language: tt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Annulla"
+msgstr "Баш тарту"
+
+msgid "Caricamento webcam..."
+msgstr "Веб-камераны йөкләү ..."
+
+msgid "Categoria non supportata: %s"
+msgstr "Ярдәм ителмәгән категория:% s"
+
+msgid "Dimensione buffer (KB)"
+msgstr "Диаметрлы буфер (КБ)"
+
+msgid "Errore durante il caricamento delle webcam: %s"
+msgstr "Веб-камераларны йөкләүдә хата:% s"
+
+msgid "Errore durante l'apertura del player: %s"
+msgstr "Плеерны ачуда хата:% s"
+
+msgid "Errore durante la riproduzione a schermo intero: %s"
+msgstr "Тулы экран уйнауда хата:% s"
+
+msgid "Errore durante la riproduzione: %s"
+msgstr "Уйнауда хата:% s"
+
+msgid "Errore nel caricamento della categoria: %s"
+msgstr "Йөкләү категориясе:% s"
+
+msgid "Errore nel caricamento delle nazioni: %s"
+msgstr "Илләрне йөкләүдә хата:% s"
+
+msgid "Guarda le webcam da skylinewebcams.com"
+msgstr "Skylinewebcams.com сайтыннан веб-камераларны карау"
+
+msgid "Inizializzazione..."
+msgstr "Башлау ..."
+
+msgid "Live Webcams"
+msgstr "Тере веб-камералар"
+
+msgid "Menu di base caricato"
+msgstr "Төп меню йөкләнгән"
+
+msgid "Mostra informazioni"
+msgstr "Мәгълүматны күрсәт"
+
+msgid "Nessuna webcam disponibile in questa categoria"
+msgstr "Бу категориядә веб-камералар юк"
+
+msgid "Salva"
+msgstr "Сальва"
+
+msgid "Seleziona una categoria ({} disponibili)"
+msgstr "Төркемне сайлагыз ({} бар)"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine веб-камералары -% s"
+
+msgid "SkyLine Webcams - Impostazioni"
+msgstr "SkyLine веб-камералары - көйләүләр"
+
+msgid "Stream non disponibile per questa webcam"
+msgstr "Бу веб-камера өчен агым мөмкин түгел"
+
+msgid "Timeout connessione (sec)"
+msgstr "Бәйләнү вакыты (сек)"
+
+msgid "Trovate %d nazioni in %s"
+msgstr "% D илләрен% s табыгыз"
+
+msgid "Trovate %d webcam"
+msgstr "% D веб-камераны табыгыз"
+
+msgid "Vista predefinita"
+msgstr "Килешү күренеше"
+
+msgid "Web per categoria"
+msgstr "Веб категория буенча"

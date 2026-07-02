@@ -1,0 +1,95 @@
+# SLwebcams translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SLwebcams\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-06-06 18:12+0200\n"
+"Last-Translator: root <EMAIL@ADDRESS>\n"
+"Language-Team: Thai <(nothing)>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Annulla"
+msgstr "ยกเลิก"
+
+msgid "Caricamento webcam..."
+msgstr "กำลังโหลดเว็บแคม..."
+
+msgid "Categoria non supportata: %s"
+msgstr "หมวดหมู่ที่ไม่สนับสนุน: %s"
+
+msgid "Dimensione buffer (KB)"
+msgstr "บัฟเฟอร์ขนาด (KB)"
+
+msgid "Errore durante il caricamento delle webcam: %s"
+msgstr "เกิดข้อผิดพลาดในการโหลดเว็บแคม: %s"
+
+msgid "Errore durante l'apertura del player: %s"
+msgstr "เกิดข้อผิดพลาดในการเปิดผู้เล่น: %s"
+
+msgid "Errore durante la riproduzione a schermo intero: %s"
+msgstr "เกิดข้อผิดพลาดในการเล่นแบบเต็มหน้าจอ: %s"
+
+msgid "Errore durante la riproduzione: %s"
+msgstr "เกิดข้อผิดพลาดในการเล่น: %s"
+
+msgid "Errore nel caricamento della categoria: %s"
+msgstr "เกิดข้อผิดพลาดในการโหลดหมวดหมู่: %s"
+
+msgid "Errore nel caricamento delle nazioni: %s"
+msgstr "เกิดข้อผิดพลาดในการโหลดประเทศ: %s"
+
+msgid "Guarda le webcam da skylinewebcams.com"
+msgstr "ดูเว็บแคมจาก skylinewebcams.com"
+
+msgid "Inizializzazione..."
+msgstr "กำลังเริ่มต้น..."
+
+msgid "Live Webcams"
+msgstr "เว็บแคมถ่ายทอดสด"
+
+msgid "Menu di base caricato"
+msgstr "โหลดเมนูพื้นฐานแล้ว"
+
+msgid "Mostra informazioni"
+msgstr "แสดงข้อมูล"
+
+msgid "Nessuna webcam disponibile in questa categoria"
+msgstr "ไม่มีเว็บแคมในหมวดหมู่นี้"
+
+msgid "Salva"
+msgstr "ซาลวา"
+
+msgid "Seleziona una categoria ({} disponibili)"
+msgstr "เลือกหมวดหมู่ ({} ใช้ได้)"
+
+msgid "SkyLine Webcams - %s"
+msgstr "เว็บแคม SkyLine - %s"
+
+msgid "SkyLine Webcams - Impostazioni"
+msgstr "เว็บแคม SkyLine - การตั้งค่า"
+
+msgid "Stream non disponibile per questa webcam"
+msgstr "ไม่สามารถสตรีมได้สำหรับเว็บแคมนี้"
+
+msgid "Timeout connessione (sec)"
+msgstr "หมดเวลาการเชื่อมต่อ (วินาที)"
+
+msgid "Trovate %d nazioni in %s"
+msgstr "ค้นหา %d ประเทศใน %s"
+
+msgid "Trovate %d webcam"
+msgstr "ค้นหา %d เว็บแคม"
+
+msgid "Vista predefinita"
+msgstr "มุมมองเริ่มต้น"
+
+msgid "Web per categoria"
+msgstr "เว็บตามหมวดหมู่"

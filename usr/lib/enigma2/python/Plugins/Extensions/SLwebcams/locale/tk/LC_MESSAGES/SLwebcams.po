@@ -1,0 +1,95 @@
+# SLwebcams translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SLwebcams\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-06-06 18:13+0200\n"
+"Last-Translator: root <EMAIL@ADDRESS>\n"
+"Language-Team: Turkmen\n"
+"Language: tk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Annulla"
+msgstr "Elatyr"
+
+msgid "Caricamento webcam..."
+msgstr "Web kamera ýüklenýär ..."
+
+msgid "Categoria non supportata: %s"
+msgstr "Goldaw berilmeýän kategoriýa:% s"
+
+msgid "Dimensione buffer (KB)"
+msgstr "Ölçegli bufer (KB)"
+
+msgid "Errore durante il caricamento delle webcam: %s"
+msgstr "Web kameralary ýüklemekde säwlik:% s"
+
+msgid "Errore durante l'apertura del player: %s"
+msgstr "Pleýeri açmakda säwlik:% s"
+
+msgid "Errore durante la riproduzione a schermo intero: %s"
+msgstr "Doly ekrany oýnamakda säwlik:% s"
+
+msgid "Errore durante la riproduzione: %s"
+msgstr "Oýnamada säwlik:% s"
+
+msgid "Errore nel caricamento della categoria: %s"
+msgstr "Adingükleme säwligi kategoriýasy:% s"
+
+msgid "Errore nel caricamento delle nazioni: %s"
+msgstr "Countriesurtlary ýüklemekde säwlik:% s"
+
+msgid "Guarda le webcam da skylinewebcams.com"
+msgstr "Skylinewebcams.com-dan web kameralaryny görüň"
+
+msgid "Inizializzazione..."
+msgstr "Başlangyç ..."
+
+msgid "Live Webcams"
+msgstr "Göni web kameralary"
+
+msgid "Menu di base caricato"
+msgstr "Esasy menýu ýüklendi"
+
+msgid "Mostra informazioni"
+msgstr "Maglumat görkeziň"
+
+msgid "Nessuna webcam disponibile in questa categoria"
+msgstr "Bu kategoriýada hiç hili web kamerasy ýok"
+
+msgid "Salva"
+msgstr "Salwa"
+
+msgid "Seleziona una categoria ({} disponibili)"
+msgstr "Kategoriýa saýlaň ({} elýeterli)"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine web kameralary -% s"
+
+msgid "SkyLine Webcams - Impostazioni"
+msgstr "SkyLine web kameralary - Sazlamalar"
+
+msgid "Stream non disponibile per questa webcam"
+msgstr "Bu web kamera üçin akym elýeterli däl"
+
+msgid "Timeout connessione (sec)"
+msgstr "Baglanyş wagty (sek)"
+
+msgid "Trovate %d nazioni in %s"
+msgstr "% S-de% d ýurtlary tapyň"
+
+msgid "Trovate %d webcam"
+msgstr "% D web kamerasyny tapyň"
+
+msgid "Vista predefinita"
+msgstr "Bellenen görnüş"
+
+msgid "Web per categoria"
+msgstr "Kategoriýa boýunça web"

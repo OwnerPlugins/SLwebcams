@@ -1,0 +1,93 @@
+# zh_TW translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: zh_TW <ekekaz@gmail.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "基本選單已載入"
+
+msgid "Buffer size (KB)"
+msgstr "緩衝區大小 (KB)"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Category-based Webcams"
+msgstr "基於類別的網路攝影機"
+
+msgid "Connection timeout (sec)"
+msgstr "連接逾時（秒）"
+
+msgid "Default view"
+msgstr "預設視圖"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "全螢幕播放時出錯：%s"
+
+msgid "Error during playback: %s"
+msgstr "播放期間出錯：%s"
+
+msgid "Error loading category: %s"
+msgstr "載入類別時發生錯誤：%s"
+
+msgid "Error loading countries: %s"
+msgstr "加載國家/地區時出錯：%s"
+
+msgid "Error loading webcams: %s"
+msgstr "載入網路攝影機時出錯：%s"
+
+msgid "Error opening player: %s"
+msgstr "開啟播放器時出錯：%s"
+
+msgid "Found %d countries in %s"
+msgstr "在 %s 中找到 %d 個國家/地區"
+
+msgid "Found %d webcams"
+msgstr "找到 %d 網路攝影機"
+
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+msgid "Live Webcams"
+msgstr "即時網路攝影機"
+
+msgid "Loading webcams..."
+msgstr "正在加載網路攝影機..."
+
+msgid "No webcams available in this category"
+msgstr "此類別中沒有可用的網路攝影機"
+
+msgid "Save"
+msgstr "節省"
+
+msgid "Select a category ({} available)"
+msgstr "選擇類別（可用 {}）"
+
+msgid "Show information"
+msgstr "顯示訊息"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine 網路攝影機 - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine 網路攝影機 - 設定"
+
+msgid "Stream not available for this webcam"
+msgstr "此網路攝影機無法使用串流媒體"
+
+msgid "Unsupported category: %s"
+msgstr "不支援的類別：%s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "觀看 skylinewebcams.com 的網路攝影機"
+
