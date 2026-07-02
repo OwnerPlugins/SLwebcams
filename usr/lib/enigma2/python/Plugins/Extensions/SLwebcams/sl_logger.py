@@ -38,15 +38,12 @@ class SLLogger:
             # Delete previous file and create a new one
             with open(LOG_FILE, 'w', encoding='utf-8') as f:
                 timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                f.write(f"=== SLwebcams Log initialized on {timestamp} ===\n")
-                f.write(
-                    f"=== Maximum size: {
-                        MAX_LOG_SIZE /
-                        1024:.0f}KB ===\n\n")
+                f.write("=== SLwebcams Log initialized on {} ===\n".format(timestamp))
+                f.write("=== Maximum size: {}KB ===\n\n".format(int(MAX_LOG_SIZE / 1024)))
 
             return True
         except Exception as e:
-            print(f"Error initializing log: {e}")
+            print("Error initializing log: {}".format(e))
             return False
 
     @staticmethod
@@ -75,8 +72,11 @@ class SLLogger:
             timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
             # Format log message with process information
-            process_info = f":{processo}" if processo else ""
-            log_entry = f"[{timestamp}] [{level}] [{caller_file}:{caller_function}{process_info}:{line_number}] {message}\n"
+            process_info = ":{}".format(processo) if processo else ""
+            log_entry = "[{}] [{}] [{}:{}{}:{}] {}\n".format(
+                timestamp, level, caller_file, caller_function,
+                process_info, line_number, message
+            )
 
             # Check if log file exists, otherwise create it
             if not os.path.exists(LOG_FILE):
@@ -93,7 +93,7 @@ class SLLogger:
 
             return True
         except Exception as e:
-            print(f"Error writing to log: {e}")
+            print("Error writing to log: {}".format(e))
             return False
 
     @staticmethod
@@ -114,13 +114,12 @@ class SLLogger:
             # Write the second half to the file with a rotation message
             with open(LOG_FILE, 'w', encoding='utf-8') as f:
                 timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                f.write(
-                    f"=== Log rotated on {timestamp} - Previous content truncated ===\n\n")
+                f.write("=== Log rotated on {} - Previous content truncated ===\n\n".format(timestamp))
                 f.write(new_content)
 
             return True
         except Exception as e:
-            print(f"Error rotating log: {e}")
+            print("Error rotating log: {}".format(e))
             return False
 
     @staticmethod
@@ -137,17 +136,17 @@ class SLLogger:
             tb = traceback.format_exc()
 
             # Format error message
-            error_message = f"EXCEPTION: {str(e)}\n"
+            error_message = "EXCEPTION: {}\n".format(str(e))
             if additional_info:
-                error_message += f"INFO: {additional_info}\n"
-            error_message += f"TRACEBACK:\n{tb}"
+                error_message += "INFO: {}\n".format(additional_info)
+            error_message += "TRACEBACK:\n{}".format(tb)
 
             # Log the error
             SLLogger.enhanced_log(error_message, "ERROR")
 
             return True
         except Exception as e:
-            print(f"Error logging exception: {e}")
+            print("Error logging exception: {}".format(e))
             return False
 
 
