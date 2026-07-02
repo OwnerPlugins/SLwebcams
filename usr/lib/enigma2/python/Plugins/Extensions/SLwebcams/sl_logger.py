@@ -39,7 +39,10 @@ class SLLogger:
             with open(LOG_FILE, 'w', encoding='utf-8') as f:
                 timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                 f.write(f"=== SLwebcams Log initialized on {timestamp} ===\n")
-                f.write(f"=== Maximum size: {MAX_LOG_SIZE / 1024:.0f}KB ===\n\n")
+                f.write(
+                    f"=== Maximum size: {
+                        MAX_LOG_SIZE /
+                        1024:.0f}KB ===\n\n")
 
             return True
         except Exception as e:

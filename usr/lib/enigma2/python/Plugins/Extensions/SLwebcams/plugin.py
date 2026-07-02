@@ -635,7 +635,9 @@ class SLwebcamsMain(Screen):
                 self["webcams_list"].setList([])
 
             elif self.subcategory_code in ["top", "nuove", "spiagge", "paesaggi", "marine", "unesco", "sci", "animali", "vulcani", "laghi", "web"]:
-                enhanced_log(f"Loading webcams for category: {self.subcategory_code}")
+                enhanced_log(
+                    f"Loading webcams for category: {
+                        self.subcategory_code}")
 
                 if hasattr(self, 'category_url') and self.category_url:
                     category_webcams = self.parser.get_webcams_by_url(
