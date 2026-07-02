@@ -31,28 +31,36 @@ msgstr "Ùine ceangail (diog)"
 msgid "Default view"
 msgstr "Sealladh bunaiteach"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Mearachd rè ath-chluich làn-sgrìn: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Mearachd rè ath-chluich: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Thachair mearachd le luchdachadh na roinne: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Mearachd a' luchdadh dhùthchannan: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Mearachd a' luchdadh a' chamara-lìn: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Mearachd a' fosgladh cluicheadair: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Fhuaras %d dùthaich ann an %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Fhuaras %d camara-lìn"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Tagh roinn ({} ri fhaighinn)"
 msgid "Show information"
 msgstr "Seall fiosrachadh"
 
-msgid "SkyLine Webcams - %s"
-msgstr "Camara-lìn SkyLine - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "Camara-lìn SkyLine - roghainnean"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "Camara-lìn SkyLine - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Chan eil sruth ri fhaighinn airson a' chamara-lìn seo"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Roinn-seòrsa gun taic: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Coimhead air camarathan-lìn bho skylinewebcams.com"
-

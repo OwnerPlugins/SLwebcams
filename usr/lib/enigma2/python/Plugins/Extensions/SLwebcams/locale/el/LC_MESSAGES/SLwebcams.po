@@ -31,28 +31,36 @@ msgstr "Λήξη χρονικού ορίου σύνδεσης (δευτ.)"
 msgid "Default view"
 msgstr "Προεπιλεγμένη προβολή"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Σφάλμα κατά την αναπαραγωγή σε πλήρη οθόνη: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Σφάλμα κατά την αναπαραγωγή: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Σφάλμα φόρτωσης κατηγορίας: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Σφάλμα φόρτωσης χωρών: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Σφάλμα φόρτωσης webcam: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Σφάλμα κατά το άνοιγμα του προγράμματος αναπαραγωγής: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Βρέθηκαν %d χώρες σε %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Βρέθηκαν %d κάμερες web"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Επιλέξτε μια κατηγορία ({} διαθέσιμη)"
 msgid "Show information"
 msgstr "Εμφάνιση πληροφοριών"
 
-msgid "SkyLine Webcams - %s"
-msgstr "Κάμερες SkyLine - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "Κάμερες SkyLine - Ρυθμίσεις"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "Κάμερες SkyLine - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Η ροή δεν είναι διαθέσιμη για αυτήν την κάμερα web"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Μη υποστηριζόμενη κατηγορία: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Παρακολουθήστε κάμερες από το skylinewebcams.com"
-

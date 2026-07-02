@@ -31,28 +31,36 @@ msgstr "د پیوستون مهال ویش (ثانوي)"
 msgid "Default view"
 msgstr "ډیفالټ لید"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "د فل سکرین پلې بیک پر مهال تېروتنه: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "د پلې بیک پر مهال تېروتنه: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "د کټګورۍ بارولو کې تېروتنه: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "د هېوادونو په بارولو کې تېروتنه: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "د ویب کیمونو په پورته کولو کې تېروتنه: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "د پلیر په پرانیستلو کې تېروتنه: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "په %s کې %d هیوادونه وموندل"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "%d ویب کیمونه وموندل"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "یوه کټګورۍ غوره کړئ ({} موجود دی)"
 msgid "Show information"
 msgstr "معلومات ښکاره کړئ"
 
-msgid "SkyLine Webcams - %s"
-msgstr "د اسکای لاین ویب کیمونه - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine Webcams - ترتیبات"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "د اسکای لاین ویب کیمونه - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "د دې ویب کیم لپاره جریان شتون نلري"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "بې ملاتړه کټګورۍ: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "د skylinewebcams.com څخه ویب کیمونه وګورئ"
-

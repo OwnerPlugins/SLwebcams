@@ -31,28 +31,36 @@ msgstr "Connection timeout (sec)"
 msgid "Default view"
 msgstr "Default view"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Error during fullscreen playback: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Error during playback: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Error loading category: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Error loading countries: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Error loading webcams: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Error opening player: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Found %d countries in %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Found %d webcams"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Select a category ({} available)"
 msgid "Show information"
 msgstr "Show information"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine Webcams - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine Webcams - Settings"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine Webcams - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Stream not available for this webcam"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Unsupported category: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Watch webcams from skylinewebcams.com"
-

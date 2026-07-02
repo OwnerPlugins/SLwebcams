@@ -31,28 +31,36 @@ msgstr "കണക്ഷൻ കാലഹരണപ്പെടൽ (സെക്ക
 msgid "Default view"
 msgstr "സ്ഥിര കാഴ്ച"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "പൂർണ്ണസ്‌ക്രീൻ പ്ലേബാക്ക് സമയത്ത് പിശക്: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "പ്ലേബാക്ക് സമയത്ത് പിശക്: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "വിഭാഗം ലോഡ് ചെയ്യുന്നതിൽ പിശക്: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "രാജ്യങ്ങൾ ലോഡുചെയ്യുന്നതിൽ പിശക്: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "വെബ്‌ക്യാമുകൾ ലോഡുചെയ്യുന്നതിൽ പിശക്: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "പ്ലേയർ തുറക്കുന്നതിൽ പിശക്: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%s-ൽ %d രാജ്യങ്ങൾ കണ്ടെത്തി"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "%d വെബ്‌ക്യാമുകൾ കണ്ടെത്തി"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "ഒരു വിഭാഗം തിരഞ്ഞെടുക്കുക 
 msgid "Show information"
 msgstr "വിവരങ്ങൾ കാണിക്കുക"
 
-msgid "SkyLine Webcams - %s"
-msgstr "സ്കൈലൈൻ വെബ്‌ക്യാമുകൾ - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "സ്കൈലൈൻ വെബ്‌ക്യാമുകൾ - ക്രമീകരണങ്ങൾ"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "സ്കൈലൈൻ വെബ്‌ക്യാമുകൾ - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "ഈ വെബ്‌ക്യാമിന് സ്ട്രീം ലഭ്യമല്ല"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "പിന്തുണയ്‌ക്കാത്ത വിഭാഗം: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "skylinewebcams.com-ൽ നിന്ന് വെബ്‌ക്യാമുകൾ കാണുക"
-

@@ -31,28 +31,36 @@ msgstr "ସଂଯୋଗ ସମୟ ସମାପ୍ତ (ସେକେଣ୍ଡ)"
 msgid "Default view"
 msgstr "ଡିଫଲ୍ଟ ଦୃଶ୍ୟ"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "ଫୁଲ୍ ସ୍କ୍ରିନ୍ ପ୍ଲେକ୍ ସମୟରେ ତ୍ରୁଟି:% s |"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "ଖେଳିବା ସମୟରେ ତ୍ରୁଟି:% s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "ତ୍ରୁଟି ଧାରଣ ବର୍ଗ:% s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "ଦେଶଗୁଡ଼ିକୁ ଧାରଣ କରିବାରେ ତ୍ରୁଟି:% s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "ୱେବକ୍ୟାମଗୁଡ଼ିକୁ ଧାରଣ କରିବାରେ ତ୍ରୁଟି:% s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "ପ୍ଲେୟାର ଖୋଲିବାରେ ତ୍ରୁଟି:% s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "% S ରେ% d ଦେଶ ମିଳିଲା |"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "% D ୱେବକ୍ୟାମ୍ ମିଳିଲା |"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "ଏକ ବର୍ଗ ଚୟନ କରନ୍ତୁ ({} ଉପଲବ୍ଧ)
 msgid "Show information"
 msgstr "ସୂଚନା ଦେଖାନ୍ତୁ |"
 
-msgid "SkyLine Webcams - %s"
-msgstr "ସ୍କାଏଲାଇନ୍ ୱେବକ୍ୟାମ୍ -% s |"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "ସ୍କାଏ ଲାଇନ୍ ୱେବକ୍ୟାମ୍ - ସେଟିଂସମୂହ |"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "ସ୍କାଏଲାଇନ୍ ୱେବକ୍ୟାମ୍ -% s |"
 
 msgid "Stream not available for this webcam"
 msgstr "ଏହି ୱେବକ୍ୟାମ ପାଇଁ ଷ୍ଟ୍ରିମ୍ ଉପଲବ୍ଧ ନାହିଁ |"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "ଅସମର୍ଥିତ ବର୍ଗ:% s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Skylinewebcams.com ରୁ ୱେବକ୍ୟାମ ଦେଖନ୍ତୁ |"
-

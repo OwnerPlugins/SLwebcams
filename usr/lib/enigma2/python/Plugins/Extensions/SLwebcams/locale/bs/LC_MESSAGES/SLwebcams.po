@@ -31,28 +31,36 @@ msgstr "Vremensko ograničenje veze (sek)"
 msgid "Default view"
 msgstr "Zadani prikaz"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Greška tokom reprodukcije preko celog ekrana: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Greška tokom reprodukcije: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Greška pri učitavanju kategorije: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Greška pri učitavanju zemalja: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Greška pri učitavanju web kamera: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Greška pri otvaranju plejera: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Pronađeno %d zemalja u %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Pronađeno %d web kamere"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Odaberite kategoriju ({} dostupno)"
 msgid "Show information"
 msgstr "Prikaži informacije"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine web kamere - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine web kamere - Postavke"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine web kamere - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Prijenos nije dostupan za ovu web kameru"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Nepodržana kategorija: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Gledajte web kamere sa skylinewebcams.com"
-

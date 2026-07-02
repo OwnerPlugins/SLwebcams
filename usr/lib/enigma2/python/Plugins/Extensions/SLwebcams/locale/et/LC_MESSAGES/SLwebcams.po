@@ -31,28 +31,36 @@ msgstr "Ühenduse ajalõpp (s)"
 msgid "Default view"
 msgstr "Vaikevaade"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Viga täisekraanil taasesituse ajal: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Viga taasesituse ajal: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Viga kategooria laadimisel: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Viga riikide laadimisel: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Viga veebikaamerate laadimisel: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Viga pleieri avamisel: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Leiti %d riiki asukohast %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Leiti %d veebikaamerat"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Valige kategooria (saadaval on {})"
 msgid "Show information"
 msgstr "Näita teavet"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine'i veebikaamerad – %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine'i veebikaamerad – seaded"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine'i veebikaamerad – %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Voog pole selle veebikaamera jaoks saadaval"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Toetamata kategooria: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Vaadake veebikaameraid saidilt skylinewebcams.com"
-

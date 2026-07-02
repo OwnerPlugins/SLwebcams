@@ -31,28 +31,36 @@ msgstr "Konektotempo (sek)"
 msgid "Default view"
 msgstr "Defaŭlta vido"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Eraro dum plenekrana reproduktado: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Eraro dum reproduktado: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Eraro dum ŝarĝo de kategorio: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Eraro dum ŝarĝo de landoj: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Eraro dum ŝarĝo de retkameraoj: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Eraro dum la malfermo de la ludilo: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Trovis %d landojn en %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Trovis %d retkameraojn"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Elektu kategorion ({} disponebla)"
 msgid "Show information"
 msgstr "Montru informojn"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine Webcams - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine Webcams - Agordoj"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine Webcams - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Fluo ne havebla por ĉi tiu retkamerao"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Nesubtenata kategorio: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Spektu retkameraojn de skylinewebcams.com"
-

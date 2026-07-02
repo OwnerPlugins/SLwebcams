@@ -31,28 +31,36 @@ msgstr "Yhteyden aikakatkaisu (s)"
 msgid "Default view"
 msgstr "Oletusnäkymä"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Virhe koko näytön toiston aikana: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Virhe toiston aikana: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Virhe ladattaessa luokkaa: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Virhe ladattaessa maita: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Virhe verkkokameroiden lataamisessa: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Virhe avattaessa soitinta: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Löytyi %d maata sijainnista %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Löytyi %d verkkokameraa"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Valitse luokka ({} käytettävissä)"
 msgid "Show information"
 msgstr "Näytä tiedot"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLinen verkkokamerat - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine Webcams - Asetukset"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLinen verkkokamerat - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Streami ei ole käytettävissä tälle verkkokameralle"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Ei-tuettu luokka: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Katso web-kameroita osoitteesta skylinewebcams.com"
-

@@ -31,28 +31,36 @@ msgstr "Timeout conexiune (sec)"
 msgid "Default view"
 msgstr "Vizualizare implicită"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Eroare în timpul redării pe tot ecranul: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Eroare în timpul redării: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Eroare la încărcarea categoriei: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Eroare la încărcarea țărilor: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Eroare la încărcarea camerelor web: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Eroare la deschiderea playerului: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "S-au găsit %d țări în %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "S-au găsit %d camere web"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Selectați o categorie ({} disponibile)"
 msgid "Show information"
 msgstr "Afișați informații"
 
-msgid "SkyLine Webcams - %s"
-msgstr "Camere web SkyLine - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "Camere web SkyLine - Setări"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "Camere web SkyLine - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Fluxul nu este disponibil pentru această cameră web"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Categorie neacceptată: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Vizionați camere web de pe skylinewebcams.com"
-

@@ -31,28 +31,36 @@ msgstr "Tamat masa sambungan (saat)"
 msgid "Default view"
 msgstr "Paparan lalai"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Ralat semasa main balik skrin penuh: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Ralat semasa main balik: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Ralat memuatkan kategori: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Ralat memuatkan negara: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Ralat memuatkan kamera web: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Ralat membuka pemain: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Menemui %d negara di %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Menemui %d kamera web"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Pilih kategori ({} tersedia)"
 msgid "Show information"
 msgstr "Tunjukkan maklumat"
 
-msgid "SkyLine Webcams - %s"
-msgstr "Webcam SkyLine - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "Webcam SkyLine - Tetapan"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "Webcam SkyLine - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Strim tidak tersedia untuk kamera web ini"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Kategori tidak disokong: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Tonton kamera web dari skylinewebcams.com"
-

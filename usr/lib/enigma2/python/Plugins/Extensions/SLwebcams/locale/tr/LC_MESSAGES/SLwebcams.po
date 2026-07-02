@@ -39,30 +39,35 @@ msgid "Default view"
 msgstr "Varsayılan görünüm"
 
 #, fuzzy
-msgid "Error during fullscreen playback: %s"
+msgid "Error during fullscreen playback: {}"
 msgstr "Oyuncu açılırken hata oluştu: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Oynatma sırasında hata: %s"
 
 #, fuzzy
-msgid "Error loading category: %s"
+msgid "Error loading category: {}"
 msgstr "Kategori yüklenirken hata oluştu: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Ülkeler yüklenirken hata oluştu: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Web kameraları yüklenirken hata oluştu: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Oyuncu açılırken hata oluştu: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%s bölgesinde %d ülke bulundu"
 
 #, fuzzy
-msgid "Found %d webcams"
+msgid "Found {} webcams"
 msgstr "%d web kamerasını bul"
 
 #, fuzzy
@@ -91,18 +96,20 @@ msgstr "Bir kategori seçin ({} mevcut)"
 msgid "Show information"
 msgstr "Bilgileri göster"
 
-msgid "SkyLine Webcams - %s"
+#, fuzzy
+msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine Web Kameraları - %s"
 
 #, fuzzy
-msgid "SkyLine Webcams - Settings"
+msgid "SkyLine Webcams - {}"
 msgstr "SkyLine Web Kameraları - %s"
 
 #, fuzzy
 msgid "Stream not available for this webcam"
 msgstr "Bu web kamerası için akış kullanılamıyor"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Desteklenmeyen kategori: %s"
 
 #, fuzzy

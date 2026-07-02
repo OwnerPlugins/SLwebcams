@@ -38,30 +38,35 @@ msgid "Default view"
 msgstr "இயல்புநிலை பார்வை"
 
 #, fuzzy
-msgid "Error during fullscreen playback: %s"
+msgid "Error during fullscreen playback: {}"
 msgstr "பிளேயரைத் திறப்பதில் பிழை: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "பிளேபேக்கின் போது பிழை: %s"
 
 #, fuzzy
-msgid "Error loading category: %s"
+msgid "Error loading category: {}"
 msgstr "வகையை ஏற்றுவதில் பிழை: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "நாடுகளை ஏற்றுவதில் பிழை: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "வெப்கேம்களை ஏற்றுவதில் பிழை: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "பிளேயரைத் திறப்பதில் பிழை: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%s இல் %d நாடுகள் கண்டறியப்பட்டன"
 
 #, fuzzy
-msgid "Found %d webcams"
+msgid "Found {} webcams"
 msgstr "%d வெப்கேமைக் கண்டறியவும்"
 
 #, fuzzy
@@ -90,18 +95,20 @@ msgstr "வகையைத் தேர்ந்தெடுக்கவும�
 msgid "Show information"
 msgstr "தகவலைக் காட்டு"
 
-msgid "SkyLine Webcams - %s"
+#, fuzzy
+msgid "SkyLine Webcams - Settings"
 msgstr "ஸ்கைலைன் வெப்கேம்கள் - %s"
 
 #, fuzzy
-msgid "SkyLine Webcams - Settings"
+msgid "SkyLine Webcams - {}"
 msgstr "ஸ்கைலைன் வெப்கேம்கள் - %s"
 
 #, fuzzy
 msgid "Stream not available for this webcam"
 msgstr "இந்த வெப்கேமிற்கு ஸ்ட்ரீம் கிடைக்கவில்லை"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "ஆதரிக்கப்படாத வகை: %s"
 
 #, fuzzy

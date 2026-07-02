@@ -31,28 +31,36 @@ msgstr "კავშირის დრო ამოიწურა (წმ)"
 msgid "Default view"
 msgstr "ნაგულისხმევი ხედი"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "შეცდომა სრულეკრანიანი დაკვრის დროს: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "შეცდომა დაკვრის დროს: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "შეცდომა კატეგორიის ჩატვირთვისას: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "შეცდომა ქვეყნების ჩატვირთვისას: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "შეცდომა ვებკამერების ჩატვირთვისას: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "შეცდომა მოთამაშის გახსნისას: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "ნაპოვნია %d ქვეყანა %s-ში"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "ნაპოვნია %d ვებკამერა"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "აირჩიეთ კატეგორია ({} ხელმის
 msgid "Show information"
 msgstr "ინფორმაციის ჩვენება"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine ვებკამერები - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine ვებკამერები - პარამეტრები"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine ვებკამერები - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "სტრიმი მიუწვდომელია ამ ვებკამერისთვის"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "მხარდაუჭერელი კატეგორია: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "უყურეთ ვებკამერებს skylinewebcams.com-დან"
-

@@ -8,6 +8,7 @@
 
 
 
+
 msgid "Basic menu loaded"
 msgstr ""
 
@@ -26,28 +27,28 @@ msgstr ""
 msgid "Default view"
 msgstr ""
 
-msgid "Error during fullscreen playback: %s"
+msgid "Error during fullscreen playback: {}"
 msgstr ""
 
-msgid "Error during playback: %s"
+msgid "Error during playback: {}"
 msgstr ""
 
-msgid "Error loading category: %s"
+msgid "Error loading category: {}"
 msgstr ""
 
-msgid "Error loading countries: %s"
+msgid "Error loading countries: {}"
 msgstr ""
 
-msgid "Error loading webcams: %s"
+msgid "Error loading webcams: {}"
 msgstr ""
 
-msgid "Error opening player: %s"
+msgid "Error opening player: {}"
 msgstr ""
 
-msgid "Found %d countries in %s"
+msgid "Found {} countries in {}"
 msgstr ""
 
-msgid "Found %d webcams"
+msgid "Found {} webcams"
 msgstr ""
 
 msgid "Initializing..."
@@ -71,16 +72,16 @@ msgstr ""
 msgid "Show information"
 msgstr ""
 
-msgid "SkyLine Webcams - %s"
+msgid "SkyLine Webcams - Settings"
 msgstr ""
 
-msgid "SkyLine Webcams - Settings"
+msgid "SkyLine Webcams - {}"
 msgstr ""
 
 msgid "Stream not available for this webcam"
 msgstr ""
 
-msgid "Unsupported category: %s"
+msgid "Unsupported category: {}"
 msgstr ""
 
 msgid "Watch webcams from skylinewebcams.com"

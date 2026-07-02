@@ -31,28 +31,36 @@ msgstr "Time-out van verbinding (sec)"
 msgid "Default view"
 msgstr "Standaardweergave"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Fout tijdens afspelen op volledig scherm: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Fout tijdens afspelen: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Fout bij laden van categorie: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Fout bij laden van landen: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Fout bij het laden van webcams: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Fout bij het openen van speler: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%d landen gevonden in %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "%d webcams gevonden"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Selecteer een categorie ({} beschikbaar)"
 msgid "Show information"
 msgstr "Toon informatie"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine-webcams - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine-webcams - Instellingen"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine-webcams - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Stream niet beschikbaar voor deze webcam"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Niet-ondersteunde categorie: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Bekijk webcams van skylinewebcams.com"
-

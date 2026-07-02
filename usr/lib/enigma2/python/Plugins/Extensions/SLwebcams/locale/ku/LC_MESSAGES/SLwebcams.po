@@ -31,28 +31,36 @@ msgstr "Dema girêdanê (saniye)"
 msgid "Default view"
 msgstr "Dîtina standard"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Çewtiya di dema leyiztina tevahî ekranê de: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Di dema lêdanê de çewtî: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Di barkirina kategoriyê de çewtî: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Di barkirina welatan de çewtî: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Di barkirina webkameran de çewtî: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Çewtiya vekirina lîstikvanê: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Di %s de %d welat hatin dîtin"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "%d webkamera hatin dîtin"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Kategoriyek hilbijêre ({} berdest e)"
 msgid "Show information"
 msgstr "Agahdariyê nîşan bide"
 
-msgid "SkyLine Webcams - %s"
-msgstr "Webkamerên SkyLine - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "Webkamera SkyLine - Mîhengan"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "Webkamerên SkyLine - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Stream ji bo vê webkamera peyda nabe"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Kategoriya ne piştgirî: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Li webkameran ji skylinewebcams.com temaşe bikin"
-

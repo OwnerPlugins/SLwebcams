@@ -38,30 +38,35 @@ msgid "Default view"
 msgstr "డిఫాల్ట్ వీక్షణ"
 
 #, fuzzy
-msgid "Error during fullscreen playback: %s"
+msgid "Error during fullscreen playback: {}"
 msgstr "ప్లేయర్‌ని తెరవడంలో లోపం: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "ప్లేబ్యాక్ సమయంలో లోపం: %s"
 
 #, fuzzy
-msgid "Error loading category: %s"
+msgid "Error loading category: {}"
 msgstr "వర్గం లోడ్ చేయడంలో లోపం: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "దేశాలను లోడ్ చేయడంలో లోపం: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "వెబ్‌క్యామ్‌లను లోడ్ చేయడంలో లోపం: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "ప్లేయర్‌ని తెరవడంలో లోపం: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%sలో %d దేశాలు కనుగొనబడ్డాయి"
 
 #, fuzzy
-msgid "Found %d webcams"
+msgid "Found {} webcams"
 msgstr "%d వెబ్‌క్యామ్‌ను కనుగొనండి"
 
 #, fuzzy
@@ -90,18 +95,20 @@ msgstr "వర్గాన్ని ఎంచుకోండి ({} అందు
 msgid "Show information"
 msgstr "సమాచారాన్ని చూపించు"
 
-msgid "SkyLine Webcams - %s"
+#, fuzzy
+msgid "SkyLine Webcams - Settings"
 msgstr "స్కైలైన్ వెబ్‌క్యామ్‌లు - %s"
 
 #, fuzzy
-msgid "SkyLine Webcams - Settings"
+msgid "SkyLine Webcams - {}"
 msgstr "స్కైలైన్ వెబ్‌క్యామ్‌లు - %s"
 
 #, fuzzy
 msgid "Stream not available for this webcam"
 msgstr "ఈ వెబ్‌క్యామ్ కోసం స్ట్రీమ్ అందుబాటులో లేదు"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "మద్దతు లేని వర్గం: %s"
 
 #, fuzzy

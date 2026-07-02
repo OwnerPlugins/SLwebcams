@@ -31,28 +31,36 @@ msgstr "Muda wa muunganisho umekwisha (sekunde)"
 msgid "Default view"
 msgstr "Default view"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Hitilafu wakati wa uchezaji wa skrini nzima: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Hitilafu wakati wa uchezaji: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Hitilafu katika upakiaji kategoria: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Hitilafu katika kupakia nchi: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Hitilafu katika kupakia kamera za wavuti: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Hitilafu katika kufungua kichezaji: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Imepata nchi %d katika %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Imepata kamera za wavuti %d"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Chagua kategoria ({} inapatikana)"
 msgid "Show information"
 msgstr "Onyesha habari"
 
-msgid "SkyLine Webcams - %s"
-msgstr "Kamera za wavuti za SkyLine - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "Kamera za wavuti za SkyLine - Mipangilio"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "Kamera za wavuti za SkyLine - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Mtiririko haupatikani kwa kamera hii ya wavuti"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Aina isiyotumika: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Tazama kamera za wavuti kutoka skylinewebcams.com"
-

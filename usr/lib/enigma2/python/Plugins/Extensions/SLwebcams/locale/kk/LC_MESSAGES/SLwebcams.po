@@ -31,28 +31,36 @@ msgstr "Қосылу күту уақыты (сек)"
 msgid "Default view"
 msgstr "Әдепкі көрініс"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Толық экранда ойнату кезінде қате: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Ойнату кезінде қате: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Санатты жүктеу қатесі: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Елдерді жүктеу қатесі: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Веб-камераларды жүктеу қатесі: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Ойнатқышты ашу қатесі: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%s ішінде %d ел табылды"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "%d веб-камера табылды"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Санат таңдаңыз ({} қолжетімді)"
 msgid "Show information"
 msgstr "Ақпаратты көрсету"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine веб-камералары - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine веб-камералары - Параметрлер"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine веб-камералары - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Бұл веб-камера үшін трансляция қолжетімді емес"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Қолдау көрсетілмейтін санат: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Веб-камераларды skylinewebcams.com сайтынан қараңыз"
-

@@ -31,28 +31,36 @@ msgstr "Ryšio skirtasis laikas (sek.)"
 msgid "Default view"
 msgstr "Numatytasis vaizdas"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Klaida atkuriant per visą ekraną: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Klaida atkūrimo metu: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Klaida įkeliant kategoriją: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Klaida įkeliant šalis: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Klaida įkeliant žiniatinklio kameras: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Klaida atidarant grotuvą: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Rasta %d šalių %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Rasta %d internetinių kamerų"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Pasirinkite kategoriją (galima {})"
 msgid "Show information"
 msgstr "Rodyti informaciją"
 
-msgid "SkyLine Webcams - %s"
-msgstr "„SkyLine“ internetinės kameros – %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "„SkyLine“ internetinės kameros – nustatymai"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "„SkyLine“ internetinės kameros – %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Srautas nepasiekiamas šiai žiniatinklio kamerai"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Nepalaikoma kategorija: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Žiūrėkite internetines kameras iš skylinewebcams.com"
-

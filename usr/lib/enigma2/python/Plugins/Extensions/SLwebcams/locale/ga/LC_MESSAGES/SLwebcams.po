@@ -31,28 +31,36 @@ msgstr "Teorainn ama ceangail (soic)"
 msgid "Default view"
 msgstr "Amharc réamhshocraithe"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Earráid le linn athsheinm lánscáileáin: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Earráid le linn athsheinm: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Earráid agus an chatagóir á lódáil: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Earráid agus tíortha á lódáil: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Earráid agus ceamara gréasáin á lódáil: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Earráid agus seinnteoir á oscailt: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Aimsíodh %d tíortha i %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Aimsíodh %d ceamara gréasáin"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Roghnaigh catagóir ({} ar fáil)"
 msgid "Show information"
 msgstr "Taispeáin eolas"
 
-msgid "SkyLine Webcams - %s"
-msgstr "Ceamaraí Gréasáin SkyLine - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "Ceamaraí Gréasáin SkyLine - Socruithe"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "Ceamaraí Gréasáin SkyLine - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Níl an sruth ar fáil don cheamara gréasáin seo"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Catagóir nach dtacaítear léi: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Féach ar cheamaraí gréasáin ó skylinewebcams.com"
-

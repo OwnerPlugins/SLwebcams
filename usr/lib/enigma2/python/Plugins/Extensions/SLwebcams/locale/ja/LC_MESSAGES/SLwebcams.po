@@ -31,28 +31,36 @@ msgstr "接続タイムアウト (秒)"
 msgid "Default view"
 msgstr "デフォルトのビュー"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "全画面再生中のエラー: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "再生中のエラー: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "カテゴリの読み込みエラー: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "国の読み込みエラー: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Web カメラの読み込みエラー: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "プレーヤーを開くときにエラーが発生しました: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%s で %d か国が見つかりました"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "%d 個の Web カメラが見つかりました"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "カテゴリを選択します ({} が利用可能)"
 msgid "Show information"
 msgstr "番組情報"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine Web カメラ - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine ウェブカメラ - 設定"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine Web カメラ - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "このウェブカメラではストリームを利用できません"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "サポートされていないカテゴリ: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "skylinewebcams.com のウェブカメラを視聴する"
-

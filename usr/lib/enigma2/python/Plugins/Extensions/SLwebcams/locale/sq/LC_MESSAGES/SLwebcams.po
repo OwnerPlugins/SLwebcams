@@ -31,28 +31,36 @@ msgstr "Kohëzgjatja e lidhjes (sek.)"
 msgid "Default view"
 msgstr "Pamja e parazgjedhur"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Gabim gjatë riprodhimit në ekran të plotë: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Gabim gjatë riprodhimit: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Gabim gjatë ngarkimit të kategorisë: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Gabim gjatë ngarkimit të vendeve: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Gabim gjatë ngarkimit të kamerave në internet: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Gabim në hapjen e luajtësit: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "U gjetën %d shtete në %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "U gjetën %d kamera"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Zgjidh një kategori ({} në dispozicion)"
 msgid "Show information"
 msgstr "Shfaq informacion"
 
-msgid "SkyLine Webcams - %s"
-msgstr "Webkamerat SkyLine - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine Webcams - Cilësimet"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "Webkamerat SkyLine - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Transmetimi nuk ofrohet për këtë kamerë uebi"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Kategoria e pambështetur: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Shikoni kamerat e internetit nga skylinewebcams.com"
-

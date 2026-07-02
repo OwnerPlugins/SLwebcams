@@ -31,28 +31,36 @@ msgstr "Časovna omejitev povezave (s)"
 msgid "Default view"
 msgstr "Privzeti pogled"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Napaka med celozaslonskim predvajanjem: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Napaka med predvajanjem: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Napaka pri nalaganju kategorije: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Napaka pri nalaganju držav: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Napaka pri nalaganju spletnih kamer: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Napaka pri odpiranju predvajalnika: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Najdenih %d držav v %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Najdenih %d spletnih kamer"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Izberite kategorijo ({} na voljo)"
 msgid "Show information"
 msgstr "Pokaži informacije"
 
-msgid "SkyLine Webcams - %s"
-msgstr "Spletne kamere SkyLine – %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "Spletne kamere SkyLine – nastavitve"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "Spletne kamere SkyLine – %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Tok ni na voljo za to spletno kamero"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Nepodprta kategorija: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Oglejte si spletne kamere s spletnega mesta skylinewebcams.com"
-

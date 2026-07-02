@@ -31,28 +31,36 @@ msgstr "সংযোগের সময়সীমা (সেকেন্ড)"
 msgid "Default view"
 msgstr "ডিফল্ট ভিউ"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "পূর্ণস্ক্রীন প্লেব্যাকের সময় ত্রুটি: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "প্লেব্যাকের সময় ত্রুটি: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "বিভাগ লোড করার সময় ত্রুটি: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "দেশগুলি লোড করতে ত্রুটি: %s৷"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "ওয়েবক্যাম লোড করার সময় ত্রুটি: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "প্লেয়ার খুলতে ত্রুটি: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%s এ %dটি দেশ পাওয়া গেছে"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "%d ওয়েবক্যাম পাওয়া গেছে"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "একটি বিভাগ নির্বাচন করুন ({} �
 msgid "Show information"
 msgstr "তথ্য দেখান"
 
-msgid "SkyLine Webcams - %s"
-msgstr "স্কাইলাইন ওয়েবক্যাম - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "স্কাইলাইন ওয়েবক্যাম - সেটিংস৷"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "স্কাইলাইন ওয়েবক্যাম - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "এই ওয়েবক্যামের জন্য স্ট্রিম উপলব্ধ নয়৷"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "অসমর্থিত বিভাগ: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "skylinewebcams.com থেকে ওয়েবক্যাম দেখুন"
-

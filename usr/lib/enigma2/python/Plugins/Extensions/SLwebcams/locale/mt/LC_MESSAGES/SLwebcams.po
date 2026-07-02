@@ -31,28 +31,36 @@ msgstr "Timeout tal-konnessjoni (sek)"
 msgid "Default view"
 msgstr "Veduta default"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Żball waqt daqq fuq skrin sħiħ: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Żball waqt id-daqq: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Żball fit-tagħbija tal-kategorija: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Żball fit-tagħbija tal-pajjiżi: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Żball fit-tagħbija tal-webcams: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Żball fil-ftuħ tal-plejer: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Sabu %d pajjiżi f'%s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Sabu %d webcams"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Agħżel kategorija ({} disponibbli)"
 msgid "Show information"
 msgstr "Uri l-informazzjoni"
 
-msgid "SkyLine Webcams - %s"
-msgstr "Webcams SkyLine - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "Webcams SkyLine - Settings"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "Webcams SkyLine - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Stream not available for this webcam"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Unsupported category: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Ara webcams minn skylinewebcams.com"
-

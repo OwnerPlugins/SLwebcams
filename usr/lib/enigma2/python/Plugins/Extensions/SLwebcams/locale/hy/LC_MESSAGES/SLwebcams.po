@@ -31,28 +31,36 @@ msgstr "Միացման ժամկետը (վրկ)"
 msgid "Default view"
 msgstr "Կանխադրված դիտում"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Սխալ լիաէկրան նվագարկման ժամանակ՝ %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Սխալ նվագարկման ժամանակ՝ %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Կատեգորիայի բեռնման սխալ՝ %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Չհաջողվեց բեռնել երկրները՝ %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Վեբ-տեսախցիկները բեռնելիս սխալ՝ %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Չհաջողվեց բացել նվագարկիչը՝ %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%s-ում գտնվել է %d երկիր"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Գտնվել է %d տեսախցիկ"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Ընտրեք կատեգորիա ({} հասանելի է)"
 msgid "Show information"
 msgstr "Ցույց տալ տեղեկատվություն"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine վեբ-տեսախցիկներ - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine վեբ-տեսախցիկներ - Կարգավորումներ"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine վեբ-տեսախցիկներ - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Հեռարձակումը հասանելի չէ այս վեբ-տեսախցիկի համար"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Չաջակցվող կատեգորիա՝ %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Դիտեք տեսախցիկներ skylinewebcams.com-ից"
-

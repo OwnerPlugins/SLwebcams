@@ -31,28 +31,36 @@ msgstr "የግንኙነት ጊዜ አልቋል (ሰከንድ)"
 msgid "Default view"
 msgstr "ነባሪ እይታ"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "በሙሉ ስክሪን መልሶ ማጫወት ጊዜ ስህተት፡ %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "በመልሶ ማጫወት ጊዜ ስህተት፡ %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "ምድብ መጫን ላይ ስህተት: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "አገሮችን መጫን ላይ ስህተት፡ %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "የድር ካሜራዎችን መጫን ላይ ስህተት: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "ተጫዋች መክፈት ላይ ስህተት፡%s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%d አገሮች በ%s ውስጥ ተገኝተዋል"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "%d የድር ካሜራዎች ተገኝተዋል"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "ምድብ ይምረጡ ({} ይገኛል)"
 msgid "Show information"
 msgstr "መረጃ አሳይ"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine የድር ካሜራዎች - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine የድር ካሜራዎች - ቅንብሮች"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine የድር ካሜራዎች - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "ዥረት ለዚህ የድር ካሜራ አይገኝም"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "የማይደገፍ ምድብ፡ %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "ዌብካሞችን ከskylinewebcams.com ይመልከቱ"
-

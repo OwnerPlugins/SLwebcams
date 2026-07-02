@@ -31,28 +31,36 @@ msgstr "Tímamörk tengingar (sek)"
 msgid "Default view"
 msgstr "Sjálfgefið útsýni"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Villa við spilun á öllum skjánum: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Villa við spilun: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Villa við að hlaða flokki: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Villa við að hlaða löndum: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Villa við að hlaða vefmyndavélum: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Villa við að opna spilara: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Fann %d lönd í %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Fann %d vefmyndavélar"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Veldu flokk ({} í boði)"
 msgid "Show information"
 msgstr "Sýna upplýsingar"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine vefmyndavélar - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine vefmyndavélar - Stillingar"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine vefmyndavélar - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Straumur er ekki í boði fyrir þessa vefmyndavél"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Óstuddur flokkur: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Horfðu á vefmyndavélar frá skylinewebcams.com"
-

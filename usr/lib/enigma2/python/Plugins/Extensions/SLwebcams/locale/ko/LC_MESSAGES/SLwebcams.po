@@ -31,28 +31,36 @@ msgstr "연결 시간 초과(초)"
 msgid "Default view"
 msgstr "기본 보기"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "전체 화면 재생 중 오류: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "재생 중 오류: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "카테고리 로드 오류: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "국가 로드 중 오류 발생: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "웹캠 로드 중 오류 발생: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "플레이어를 여는 중 오류 발생: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%s에서 %d개 국가를 찾았습니다."
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "%d개의 웹캠을 찾았습니다."
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "카테고리 선택({} 사용 가능)"
 msgid "Show information"
 msgstr "정보 표시"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine 웹캠 - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine 웹캠 - 설정"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine 웹캠 - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "이 웹캠에서는 스트림을 사용할 수 없습니다."
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "지원되지 않는 카테고리: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Skylinewebcams.com에서 웹캠을 시청하세요."
-

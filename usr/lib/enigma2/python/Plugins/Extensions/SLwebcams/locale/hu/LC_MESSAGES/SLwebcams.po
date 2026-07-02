@@ -31,28 +31,36 @@ msgstr "Kapcsolódási időtúllépés (mp)"
 msgid "Default view"
 msgstr "Alapértelmezett nézet"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Hiba teljes képernyős lejátszás közben: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Hiba lejátszás közben: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Hiba a kategória betöltésekor: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Hiba az országok betöltésekor: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Hiba a webkamerák betöltésekor: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Hiba a lejátszó megnyitásakor: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%d ország található itt: %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "%d webkamerát találtunk"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Válasszon egy kategóriát ({} elérhető)"
 msgid "Show information"
 msgstr "Információk megjelenítése"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine webkamerák - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine webkamerák – Beállítások"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine webkamerák - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Az adatfolyam nem érhető el ehhez a webkamerához"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Nem támogatott kategória: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Nézze meg a skylinewebcams.com webkameráit"
-

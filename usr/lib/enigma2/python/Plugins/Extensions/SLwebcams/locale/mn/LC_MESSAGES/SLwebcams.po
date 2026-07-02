@@ -31,28 +31,36 @@ msgstr "Холболтын завсарлага (сек)"
 msgid "Default view"
 msgstr "Өгөгдмөл харагдац"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Бүтэн дэлгэцээр тоглуулах явцад гарсан алдаа: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Тоглуулах явцад гарсан алдаа: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Ангилал ачаалахад алдаа гарсан: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Улсуудыг ачаалахад алдаа гарсан: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Вэбкамерыг ачаалахад алдаа гарлаа: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Тоглогчийг нээх алдаа: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%s дотор %d улс олдлоо"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "%d вэб камер олсон"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Ангилал сонгоно уу ({} боломжтой)"
 msgid "Show information"
 msgstr "Мэдээллийг харуулах"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine вэбкамерууд - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine вэбкамерууд - Тохиргоо"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine вэбкамерууд - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Энэ вэб камерт дамжуулалт хийх боломжгүй"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Дэмжигдээгүй ангилал: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Skylinewebcams.com сайтаас вэбкамеруудыг үзээрэй"
-

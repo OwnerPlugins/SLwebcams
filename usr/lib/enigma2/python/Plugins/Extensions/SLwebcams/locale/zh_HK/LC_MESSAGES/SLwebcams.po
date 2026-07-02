@@ -31,28 +31,36 @@ msgstr "連接逾時（秒）"
 msgid "Default view"
 msgstr "預設視圖"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "全螢幕播放時出錯：%s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "播放期間出錯：%s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "載入類別時發生錯誤：%s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "加載國家/地區時出錯：%s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "載入網路攝影機時出錯：%s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "開啟播放器時出錯：%s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "在 %s 中找到 %d 個國家/地區"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "找到 %d 網路攝影機"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "選擇類別（可用 {}）"
 msgid "Show information"
 msgstr "顯示訊息"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine 網路攝影機 - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine 網路攝影機 - 設定"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine 網路攝影機 - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "此網路攝影機無法使用串流媒體"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "不支援的類別：%s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "觀看 skylinewebcams.com 的網路攝影機"
-

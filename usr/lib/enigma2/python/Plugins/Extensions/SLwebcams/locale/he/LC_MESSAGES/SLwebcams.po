@@ -31,28 +31,36 @@ msgstr "פסק זמן לחיבור (שניות)"
 msgid "Default view"
 msgstr "תצוגת ברירת מחדל"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "שגיאה במהלך הפעלה במסך מלא: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "שגיאה במהלך השמעה: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "שגיאה בטעינת הקטגוריה: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "שגיאה בטעינת מדינות: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "שגיאה בטעינת מצלמות אינטרנט: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "שגיאה בפתיחת נגן: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "נמצאו %d מדינות ב-%s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "נמצאו %d מצלמות אינטרנט"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "בחר קטגוריה ({} זמינה)"
 msgid "Show information"
 msgstr "הצג מידע"
 
-msgid "SkyLine Webcams - %s"
-msgstr "מצלמות רשת SkyLine - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "מצלמות רשת SkyLine - הגדרות"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "מצלמות רשת SkyLine - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "סטרימינג אינו זמין עבור מצלמת אינטרנט זו"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "קטגוריה לא נתמכת: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "צפה במצלמות רשת מ-skylinewebcams.com"
-

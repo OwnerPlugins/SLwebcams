@@ -31,28 +31,36 @@ msgstr "Savienojuma taimauts (s)"
 msgid "Default view"
 msgstr "Noklusējuma skats"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Kļūda pilnekrāna atskaņošanas laikā: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Kļūda atskaņošanas laikā: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Kļūda, ielādējot kategoriju: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Ielādējot valstis, radās kļūda: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Ielādējot tīmekļa kameras, radās kļūda: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Atverot atskaņotāju, radās kļūda: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Atrastas %d valstis šeit: %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Atrastas %d tīmekļa kameras"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Atlasiet kategoriju (pieejami {})"
 msgid "Show information"
 msgstr "Rādīt informāciju"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine tīmekļa kameras — %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine tīmekļa kameras — iestatījumi"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine tīmekļa kameras — %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Straume šai tīmekļa kamerai nav pieejama"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Neatbalstīta kategorija: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Skatieties tīmekļa kameras no skylinewebcams.com"
-

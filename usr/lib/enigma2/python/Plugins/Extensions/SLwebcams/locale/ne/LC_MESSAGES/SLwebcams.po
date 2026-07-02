@@ -31,28 +31,36 @@ msgstr "जडान टाइमआउट (सेकेन्ड)"
 msgid "Default view"
 msgstr "पूर्वनिर्धारित दृश्य"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "फुलस्क्रिन प्लेब्याकको समयमा त्रुटि: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "प्लेब्याकको क्रममा त्रुटि: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "श्रेणी लोड गर्दा त्रुटि: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "देशहरू लोड गर्दा त्रुटि: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "वेबक्यामहरू लोड गर्दा त्रुटि: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "प्लेयर खोल्दा त्रुटि: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "%s मा %d देश भेटियो"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "%d वेबक्यामहरू भेटिए"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "श्रेणी चयन गर्नुहोस् ({} उपल�
 msgid "Show information"
 msgstr "जानकारी देखाउनुहोस्"
 
-msgid "SkyLine Webcams - %s"
-msgstr "स्काईलाइन वेबक्यामहरू - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "स्काईलाइन वेबक्यामहरू - सेटिङहरू"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "स्काईलाइन वेबक्यामहरू - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "यो वेबक्यामको लागि स्ट्रिम उपलब्ध छैन"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "असमर्थित कोटी: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "skylinewebcams.com बाट वेबक्यामहरू हेर्नुहोस्"
-

@@ -31,28 +31,36 @@ msgstr "អស់ពេលនៃការតភ្ជាប់ (វិនាទ�
 msgid "Default view"
 msgstr "ទិដ្ឋភាពលំនាំដើម"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "កំហុសអំឡុងពេលចាក់សារឡើងវិញពេញអេក្រង់៖ %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "កំហុសអំឡុងពេលចាក់សារថ្មី៖ %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "កំហុសក្នុងការផ្ទុកប្រភេទ៖ %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "កំហុសក្នុងការផ្ទុកប្រទេស៖ %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "មាន​បញ្ហា​ក្នុង​ការ​ផ្ទុក​កាមេរ៉ា​បណ្ដាញ៖ %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "កំហុសក្នុងការបើកអ្នកលេង៖ %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "បានរកឃើញប្រទេស %d ក្នុង %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "បានរកឃើញ %d webcams"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "ជ្រើសរើសប្រភេទមួយ ({} មាន)"
 msgid "Show information"
 msgstr "បង្ហាញព័ត៌មាន"
 
-msgid "SkyLine Webcams - %s"
-msgstr "SkyLine Webcams - %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "SkyLine Webcams - ការកំណត់"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "SkyLine Webcams - %s"
 
 msgid "Stream not available for this webcam"
 msgstr "មិន​មាន​ការ​ផ្សាយ​សម្រាប់​កាមេរ៉ា​បណ្ដាញ​នេះ​ទេ។"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "ប្រភេទមិនគាំទ្រ៖ %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "មើលកាមេរ៉ាបណ្ដាញពី skylinewebcams.com"
-

@@ -31,28 +31,36 @@ msgstr "Časový limit připojení (s)"
 msgid "Default view"
 msgstr "Výchozí zobrazení"
 
-msgid "Error during fullscreen playback: %s"
+#, fuzzy
+msgid "Error during fullscreen playback: {}"
 msgstr "Chyba při přehrávání na celou obrazovku: %s"
 
-msgid "Error during playback: %s"
+#, fuzzy
+msgid "Error during playback: {}"
 msgstr "Chyba při přehrávání: %s"
 
-msgid "Error loading category: %s"
+#, fuzzy
+msgid "Error loading category: {}"
 msgstr "Chyba při načítání kategorie: %s"
 
-msgid "Error loading countries: %s"
+#, fuzzy
+msgid "Error loading countries: {}"
 msgstr "Chyba při načítání zemí: %s"
 
-msgid "Error loading webcams: %s"
+#, fuzzy
+msgid "Error loading webcams: {}"
 msgstr "Chyba při načítání webových kamer: %s"
 
-msgid "Error opening player: %s"
+#, fuzzy
+msgid "Error opening player: {}"
 msgstr "Chyba při otevírání přehrávače: %s"
 
-msgid "Found %d countries in %s"
+#, fuzzy
+msgid "Found {} countries in {}"
 msgstr "Nalezeno %d zemí v %s"
 
-msgid "Found %d webcams"
+#, fuzzy
+msgid "Found {} webcams"
 msgstr "Nalezeno %d webových kamer"
 
 msgid "Initializing..."
@@ -76,18 +84,19 @@ msgstr "Vyberte kategorii (k dispozici: {})"
 msgid "Show information"
 msgstr "Zobrazit informace"
 
-msgid "SkyLine Webcams - %s"
-msgstr "Webové kamery SkyLine – %s"
-
 msgid "SkyLine Webcams - Settings"
 msgstr "Webové kamery SkyLine – Nastavení"
+
+#, fuzzy
+msgid "SkyLine Webcams - {}"
+msgstr "Webové kamery SkyLine – %s"
 
 msgid "Stream not available for this webcam"
 msgstr "Pro tuto webovou kameru není stream dostupný"
 
-msgid "Unsupported category: %s"
+#, fuzzy
+msgid "Unsupported category: {}"
 msgstr "Nepodporovaná kategorie: %s"
 
 msgid "Watch webcams from skylinewebcams.com"
 msgstr "Sledujte webové kamery z webu skylinewebcams.com"
-
