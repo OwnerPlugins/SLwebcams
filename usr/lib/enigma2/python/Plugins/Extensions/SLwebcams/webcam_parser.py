@@ -36,7 +36,8 @@ class WebcamParser:
 
             for continent_class, name in matches:
                 # Build the continent URL based on the class
-                continent_url = f"{self.BASE_URL}/it/webcam/{continent_class}.html"
+                continent_url = f"{
+                    self.BASE_URL}/it/webcam/{continent_class}.html"
                 continents.append({
                     'name': name.strip(),
                     'url': continent_url,
@@ -60,7 +61,8 @@ class WebcamParser:
 
             # Find the continent and then look for countries in subsequent rows
             continent_pattern = f'<div class="continent {continent_code}"><strong>([^<]+)</strong></div>'
-            continent_match = re.search(continent_pattern, html, re.IGNORECASE | re.DOTALL)
+            continent_match = re.search(
+                continent_pattern, html, re.IGNORECASE | re.DOTALL)
 
             if continent_match:
                 # Find the position of the continent
@@ -77,7 +79,8 @@ class WebcamParser:
 
                 # Extract country links from all columns
                 country_pattern = r'<a href="(/it/webcam/[^"]+\.html)">([^<]+)</a>'
-                country_matches = re.findall(country_pattern, content_to_parse, re.IGNORECASE)
+                country_matches = re.findall(
+                    country_pattern, content_to_parse, re.IGNORECASE)
 
                 for href, name in country_matches:
                     full_url = self.BASE_URL + href
@@ -86,7 +89,9 @@ class WebcamParser:
                         'url': full_url
                     })
 
-            self.logger.enhanced_log(f"Found {len(countries)} countries in continent {continent_code}")
+            self.logger.enhanced_log(
+                f"Found {
+                    len(countries)} countries in continent {continent_code}")
             return countries
 
         except Exception as e:
@@ -105,7 +110,8 @@ class WebcamParser:
             matches = re.findall(pattern, html, re.IGNORECASE | re.DOTALL)
 
             for href, img_src, alt_text, tcam_title, subt_desc in matches:
-                full_url = self.BASE_URL + href if href.startswith('/') else self.BASE_URL + '/' + href
+                full_url = self.BASE_URL + \
+                    href if href.startswith('/') else self.BASE_URL + '/' + href
 
                 webcam = {
                     'title': tcam_title.strip(),
@@ -119,7 +125,8 @@ class WebcamParser:
             # Alternative simpler pattern for special cases
             if not webcams:
                 alt_pattern = r'<div[^>]*cam-light[^>]*>\s*<img src="([^"]+)"[^>]*>\s*<p[^>]*class="tcam"[^>]*>([^<]+)</p>\s*<p[^>]*class="subt"[^>]*>([^<]+)</p>'
-                alt_matches = re.findall(alt_pattern, html, re.IGNORECASE | re.DOTALL)
+                alt_matches = re.findall(
+                    alt_pattern, html, re.IGNORECASE | re.DOTALL)
 
                 for img_src, tcam_title, subt_desc in alt_matches:
                     webcam = {
@@ -141,7 +148,8 @@ class WebcamParser:
     def get_categories(self):
         """Return the main categories from the menu"""
         try:
-            # Use hardcoded categories since dynamic parsing doesn't work correctly
+            # Use hardcoded categories since dynamic parsing doesn't work
+            # correctly
             categories = [
                 {'name': 'Live Webcams', 'url': f'{self.BASE_URL}/it/', 'image': ''},
                 {'name': 'Webcams by category', 'url': f'{self.BASE_URL}/it/webcam/', 'image': ''}
@@ -167,17 +175,20 @@ class WebcamParser:
             matches = re.findall(pattern, html, re.IGNORECASE | re.DOTALL)
 
             for href, name in matches:
-                full_url = self.BASE_URL + href if href.startswith('/') else href
+                full_url = self.BASE_URL + \
+                    href if href.startswith('/') else href
                 categories.append({
                     'name': name.strip(),
                     'url': full_url
                 })
 
-            self.logger.enhanced_log(f"Found {len(categories)} dropdown categories")
+            self.logger.enhanced_log(
+                f"Found {len(categories)} dropdown categories")
             return categories
 
         except Exception as e:
-            self.logger.enhanced_log(f"Error retrieving dropdown categories: {e}")
+            self.logger.enhanced_log(
+                f"Error retrieving dropdown categories: {e}")
             return []
 
     def get_webcams_by_url(self, url):
@@ -206,12 +217,16 @@ class WebcamParser:
             self.logger.enhanced_log(f"Fetching URL: {url}")
 
             request = urllib.request.Request(url)
-            request.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
+            request.add_header(
+                'User-Agent',
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
 
             with urllib.request.urlopen(request, context=self.ssl_context, timeout=10) as response:
                 content = response.read().decode('utf-8')
 
-            self.logger.enhanced_log(f"Content fetched: {len(content)} characters")
+            self.logger.enhanced_log(
+                f"Content fetched: {
+                    len(content)} characters")
             return content
 
         except Exception as e:
@@ -222,7 +237,8 @@ class WebcamParser:
         """Specific parser for webcams from category pages"""
         webcams = []
 
-        # Pattern for category format: <a href="url" class="col-xs-12 col-sm-6 col-md-4"><div class="cam-light">...
+        # Pattern for category format: <a href="url" class="col-xs-12 col-sm-6
+        # col-md-4"><div class="cam-light">...
         pattern = r'<a href="([^"]+)" class="[^"]*col-xs-12[^"]*">\s*<div class="cam-light">.*?<img src="([^"]+)"[^>]*alt="([^"]*)"[^>]*>\s*<p class="tcam">([^<]+)</p>\s*<p class="subt">([^<]+)</p>'
 
         matches = re.findall(pattern, html, re.IGNORECASE | re.DOTALL)
@@ -249,11 +265,13 @@ class WebcamParser:
         if not webcams:
             # Simplified pattern
             alt_pattern = r'<a href="([^"]+)"[^>]*>.*?<p class="tcam">([^<]+)</p>'
-            alt_matches = re.findall(alt_pattern, html, re.IGNORECASE | re.DOTALL)
+            alt_matches = re.findall(
+                alt_pattern, html, re.IGNORECASE | re.DOTALL)
 
             for href, title in alt_matches:
                 if 'webcam' in href or 'live' in href:
-                    full_url = self.BASE_URL + href if href.startswith('/') else href
+                    full_url = self.BASE_URL + \
+                        href if href.startswith('/') else href
                     webcam = {
                         'title': title.strip(),
                         'subtitle': '',
@@ -263,7 +281,9 @@ class WebcamParser:
                     }
                     webcams.append(webcam)
 
-        self.logger.enhanced_log(f"Category parser found {len(webcams)} webcams")
+        self.logger.enhanced_log(
+            f"Category parser found {
+                len(webcams)} webcams")
         return webcams
 
     def get_webcam_stream_param(self, webcam_url):
@@ -280,7 +300,8 @@ class WebcamParser:
                 self.logger.enhanced_log(f"Found parameter 'a': {param_a}")
                 return param_a
 
-            self.logger.enhanced_log("Parameter 'a' not found in source pattern")
+            self.logger.enhanced_log(
+                "Parameter 'a' not found in source pattern")
             return None
 
         except Exception as e:
@@ -309,8 +330,7 @@ class WebcamParser:
                 webcam = {
                     'title': title.strip(),
                     'url': self.BASE_URL + href if href.startswith('/') else href,
-                    'image': img_src.strip()
-                }
+                    'image': img_src.strip()}
                 webcams.append(webcam)
 
         return webcams

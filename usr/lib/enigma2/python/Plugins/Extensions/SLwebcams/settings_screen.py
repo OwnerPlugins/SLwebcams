@@ -46,10 +46,22 @@ class SLwebcamsSettings(Screen, ConfigListScreen):
     def createSetup(self):
         """Create the settings list with all configuration entries"""
         self.list = []
-        self.list.append(getConfigListEntry(_("Buffer size (KB)"), config.plugins.slwebcams.buffer_size))
-        self.list.append(getConfigListEntry(_("Show information"), config.plugins.slwebcams.show_info))
-        self.list.append(getConfigListEntry(_("Default view"), config.plugins.slwebcams.default_view))
-        self.list.append(getConfigListEntry(_("Connection timeout (sec)"), config.plugins.slwebcams.timeout))
+        self.list.append(
+            getConfigListEntry(
+                _("Buffer size (KB)"),
+                config.plugins.slwebcams.buffer_size))
+        self.list.append(
+            getConfigListEntry(
+                _("Show information"),
+                config.plugins.slwebcams.show_info))
+        self.list.append(
+            getConfigListEntry(
+                _("Default view"),
+                config.plugins.slwebcams.default_view))
+        self.list.append(
+            getConfigListEntry(
+                _("Connection timeout (sec)"),
+                config.plugins.slwebcams.timeout))
 
         self["config"].list = self.list
         self["config"].l.setList(self.list)

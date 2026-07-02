@@ -39,7 +39,10 @@ class SLLogger:
             with open(LOG_FILE, 'w', encoding='utf-8') as f:
                 timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                 f.write(f"=== SLwebcams Log initialized on {timestamp} ===\n")
-                f.write(f"=== Maximum size: {MAX_LOG_SIZE / 1024:.0f}KB ===\n\n")
+                f.write(
+                    f"=== Maximum size: {
+                        MAX_LOG_SIZE /
+                        1024:.0f}KB ===\n\n")
 
             return True
         except Exception as e:
@@ -111,7 +114,8 @@ class SLLogger:
             # Write the second half to the file with a rotation message
             with open(LOG_FILE, 'w', encoding='utf-8') as f:
                 timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                f.write(f"=== Log rotated on {timestamp} - Previous content truncated ===\n\n")
+                f.write(
+                    f"=== Log rotated on {timestamp} - Previous content truncated ===\n\n")
                 f.write(new_content)
 
             return True

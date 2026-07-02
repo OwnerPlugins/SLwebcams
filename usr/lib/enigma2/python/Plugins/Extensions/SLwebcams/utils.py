@@ -34,7 +34,9 @@ def download_image(url, target_path, timeout=10):
     try:
         context = ssl._create_unverified_context()
         request = urllib.request.Request(url)
-        request.add_header('User-Agent', config.plugins.slwebcams.user_agent.value)
+        request.add_header(
+            'User-Agent',
+            config.plugins.slwebcams.user_agent.value)
 
         with urllib.request.urlopen(request, timeout=int(timeout), context=context) as response:
             img_data = response.read()

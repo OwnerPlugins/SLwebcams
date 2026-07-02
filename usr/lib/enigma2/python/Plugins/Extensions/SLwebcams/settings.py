@@ -17,7 +17,11 @@ print('SLWebcams version %s' % __version__)
 def localeInit():
     """Initialize gettext with the plugin's locale path"""
     if PluginLanguageDomain and PluginLanguagePath:
-        gettext.bindtextdomain(PluginLanguageDomain, resolveFilename(SCOPE_PLUGINS, PluginLanguagePath))
+        gettext.bindtextdomain(
+            PluginLanguageDomain,
+            resolveFilename(
+                SCOPE_PLUGINS,
+                PluginLanguagePath))
 
 
 def _(txt):
@@ -26,7 +30,9 @@ def _(txt):
     if translated:
         return translated
     else:
-        print("[%s] fallback to default translation for %s" % (PluginLanguageDomain, txt))
+        print(
+            "[%s] fallback to default translation for %s" %
+            (PluginLanguageDomain, txt))
         return gettext.gettext(txt)
 
 
