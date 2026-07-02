@@ -1,0 +1,93 @@
+# fy translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: fy <ekekaz@gmail.com>\n"
+"Language: fy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Basismenu laden"
+
+msgid "Buffer size (KB)"
+msgstr "Buffergrutte (KB)"
+
+msgid "Cancel"
+msgstr "Ofbrekke"
+
+msgid "Category-based Webcams"
+msgstr "Kategory-basearre webcams"
+
+msgid "Connection timeout (sec)"
+msgstr "Ferbining timeout (sek)"
+
+msgid "Default view"
+msgstr "Standert werjefte"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Flater by ôfspieljen op folslein skerm: %s"
+
+msgid "Error during playback: %s"
+msgstr "Flater by it ôfspielen: %s"
+
+msgid "Error loading category: %s"
+msgstr "Flater by it laden fan kategory: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Flater by it laden fan lannen: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Flater by it laden fan webcams: %s"
+
+msgid "Error opening player: %s"
+msgstr "Flater by it iepenjen fan spiler: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%d lannen fûn yn %s"
+
+msgid "Found %d webcams"
+msgstr "%d webcams fûn"
+
+msgid "Initializing..."
+msgstr "Inisjalisearjen..."
+
+msgid "Live Webcams"
+msgstr "Live webcams"
+
+msgid "Loading webcams..."
+msgstr "Webcams laden..."
+
+msgid "No webcams available in this category"
+msgstr "Gjin webcams beskikber yn dizze kategory"
+
+msgid "Save"
+msgstr "Rêde"
+
+msgid "Select a category ({} available)"
+msgstr "Selektearje in kategory ({} beskikber)"
+
+msgid "Show information"
+msgstr "Lit ynformaasje sjen"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine Webcams - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine Webcams - Ynstellings"
+
+msgid "Stream not available for this webcam"
+msgstr "Stream net beskikber foar dizze webcam"
+
+msgid "Unsupported category: %s"
+msgstr "Net-stipe kategory: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Sjoch webcams fan skylinewebcams.com"
+

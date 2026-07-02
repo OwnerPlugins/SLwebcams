@@ -1,0 +1,93 @@
+# ga translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ga <ekekaz@gmail.com>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Roghchlár bunúsach luchtaithe"
+
+msgid "Buffer size (KB)"
+msgstr "Méid maoláin (KB)"
+
+msgid "Cancel"
+msgstr "Cealaigh"
+
+msgid "Category-based Webcams"
+msgstr "Webcams catagóir-bhunaithe"
+
+msgid "Connection timeout (sec)"
+msgstr "Teorainn ama ceangail (soic)"
+
+msgid "Default view"
+msgstr "Amharc réamhshocraithe"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Earráid le linn athsheinm lánscáileáin: %s"
+
+msgid "Error during playback: %s"
+msgstr "Earráid le linn athsheinm: %s"
+
+msgid "Error loading category: %s"
+msgstr "Earráid agus an chatagóir á lódáil: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Earráid agus tíortha á lódáil: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Earráid agus ceamara gréasáin á lódáil: %s"
+
+msgid "Error opening player: %s"
+msgstr "Earráid agus seinnteoir á oscailt: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Aimsíodh %d tíortha i %s"
+
+msgid "Found %d webcams"
+msgstr "Aimsíodh %d ceamara gréasáin"
+
+msgid "Initializing..."
+msgstr "Ag tosú..."
+
+msgid "Live Webcams"
+msgstr "Ceamaraí gréasáin beo"
+
+msgid "Loading webcams..."
+msgstr "Ceamara gréasáin á lódáil..."
+
+msgid "No webcams available in this category"
+msgstr "Níl ceamaraí gréasáin ar fáil sa chatagóir seo"
+
+msgid "Save"
+msgstr "Sábháil"
+
+msgid "Select a category ({} available)"
+msgstr "Roghnaigh catagóir ({} ar fáil)"
+
+msgid "Show information"
+msgstr "Taispeáin eolas"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Ceamaraí Gréasáin SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "Ceamaraí Gréasáin SkyLine - Socruithe"
+
+msgid "Stream not available for this webcam"
+msgstr "Níl an sruth ar fáil don cheamara gréasáin seo"
+
+msgid "Unsupported category: %s"
+msgstr "Catagóir nach dtacaítear léi: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Féach ar cheamaraí gréasáin ó skylinewebcams.com"
+

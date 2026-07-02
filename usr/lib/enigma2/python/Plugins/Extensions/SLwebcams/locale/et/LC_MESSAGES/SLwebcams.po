@@ -1,0 +1,93 @@
+# et translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: et <ekekaz@gmail.com>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Põhimenüü on laaditud"
+
+msgid "Buffer size (KB)"
+msgstr "Puhvri suurus (KB)"
+
+msgid "Cancel"
+msgstr "Tühista"
+
+msgid "Category-based Webcams"
+msgstr "Kategooriapõhised veebikaamerad"
+
+msgid "Connection timeout (sec)"
+msgstr "Ühenduse ajalõpp (s)"
+
+msgid "Default view"
+msgstr "Vaikevaade"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Viga täisekraanil taasesituse ajal: %s"
+
+msgid "Error during playback: %s"
+msgstr "Viga taasesituse ajal: %s"
+
+msgid "Error loading category: %s"
+msgstr "Viga kategooria laadimisel: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Viga riikide laadimisel: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Viga veebikaamerate laadimisel: %s"
+
+msgid "Error opening player: %s"
+msgstr "Viga pleieri avamisel: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Leiti %d riiki asukohast %s"
+
+msgid "Found %d webcams"
+msgstr "Leiti %d veebikaamerat"
+
+msgid "Initializing..."
+msgstr "Initsialiseerimine..."
+
+msgid "Live Webcams"
+msgstr "Reaalajas veebikaamerad"
+
+msgid "Loading webcams..."
+msgstr "Veebikaamerate laadimine..."
+
+msgid "No webcams available in this category"
+msgstr "Selles kategoorias pole ühtegi veebikaamerat saadaval"
+
+msgid "Save"
+msgstr "Salvesta"
+
+msgid "Select a category ({} available)"
+msgstr "Valige kategooria (saadaval on {})"
+
+msgid "Show information"
+msgstr "Näita teavet"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine'i veebikaamerad – %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine'i veebikaamerad – seaded"
+
+msgid "Stream not available for this webcam"
+msgstr "Voog pole selle veebikaamera jaoks saadaval"
+
+msgid "Unsupported category: %s"
+msgstr "Toetamata kategooria: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Vaadake veebikaameraid saidilt skylinewebcams.com"
+

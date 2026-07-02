@@ -1,0 +1,93 @@
+# ar translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ar <ekekaz@gmail.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "تم تحميل القائمة الأساسية"
+
+msgid "Buffer size (KB)"
+msgstr "حجم المخزن المؤقت (كيلو بايت)"
+
+msgid "Cancel"
+msgstr "يلغي"
+
+msgid "Category-based Webcams"
+msgstr "كاميرات الويب على أساس الفئة"
+
+msgid "Connection timeout (sec)"
+msgstr "مهلة الاتصال (ثانية)"
+
+msgid "Default view"
+msgstr "العرض الافتراضي"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "خطأ أثناء التشغيل بملء الشاشة: %s"
+
+msgid "Error during playback: %s"
+msgstr "خطأ أثناء التشغيل: %s"
+
+msgid "Error loading category: %s"
+msgstr "حدث خطأ أثناء تحميل الفئة: %s"
+
+msgid "Error loading countries: %s"
+msgstr "حدث خطأ أثناء تحميل البلدان: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "خطأ في تحميل كاميرات الويب: %s"
+
+msgid "Error opening player: %s"
+msgstr "خطأ في فتح المشغل: %s"
+
+msgid "Found %d countries in %s"
+msgstr "تم العثور على %d دولة في %s"
+
+msgid "Found %d webcams"
+msgstr "تم العثور على %d من كاميرات الويب"
+
+msgid "Initializing..."
+msgstr "جارٍ التهيئة..."
+
+msgid "Live Webcams"
+msgstr "كاميرات الويب الحية"
+
+msgid "Loading webcams..."
+msgstr "جارٍ تحميل كاميرات الويب..."
+
+msgid "No webcams available in this category"
+msgstr "لا توجد كاميرات ويب متوفرة في هذه الفئة"
+
+msgid "Save"
+msgstr "يحفظ"
+
+msgid "Select a category ({} available)"
+msgstr "حدد فئة ({} متاح)"
+
+msgid "Show information"
+msgstr "عرض المعلومات"
+
+msgid "SkyLine Webcams - %s"
+msgstr "كاميرات الويب SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "كاميرات الويب SkyLine - الإعدادات"
+
+msgid "Stream not available for this webcam"
+msgstr "البث غير متاح لكاميرا الويب هذه"
+
+msgid "Unsupported category: %s"
+msgstr "فئة غير معتمدة: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "شاهد كاميرات الويب من skylinewebcams.com"
+

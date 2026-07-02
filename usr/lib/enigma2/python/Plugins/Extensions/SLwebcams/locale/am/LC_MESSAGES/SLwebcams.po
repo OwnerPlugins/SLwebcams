@@ -1,0 +1,93 @@
+# am translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: am <ekekaz@gmail.com>\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "መሰረታዊ ምናሌ ተጭኗል"
+
+msgid "Buffer size (KB)"
+msgstr "የቋት መጠን (KB)"
+
+msgid "Cancel"
+msgstr "ሰርዝ"
+
+msgid "Category-based Webcams"
+msgstr "ምድብ ላይ የተመሰረቱ የድር ካሜራዎች"
+
+msgid "Connection timeout (sec)"
+msgstr "የግንኙነት ጊዜ አልቋል (ሰከንድ)"
+
+msgid "Default view"
+msgstr "ነባሪ እይታ"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "በሙሉ ስክሪን መልሶ ማጫወት ጊዜ ስህተት፡ %s"
+
+msgid "Error during playback: %s"
+msgstr "በመልሶ ማጫወት ጊዜ ስህተት፡ %s"
+
+msgid "Error loading category: %s"
+msgstr "ምድብ መጫን ላይ ስህተት: %s"
+
+msgid "Error loading countries: %s"
+msgstr "አገሮችን መጫን ላይ ስህተት፡ %s"
+
+msgid "Error loading webcams: %s"
+msgstr "የድር ካሜራዎችን መጫን ላይ ስህተት: %s"
+
+msgid "Error opening player: %s"
+msgstr "ተጫዋች መክፈት ላይ ስህተት፡%s"
+
+msgid "Found %d countries in %s"
+msgstr "%d አገሮች በ%s ውስጥ ተገኝተዋል"
+
+msgid "Found %d webcams"
+msgstr "%d የድር ካሜራዎች ተገኝተዋል"
+
+msgid "Initializing..."
+msgstr "በማስጀመር ላይ..."
+
+msgid "Live Webcams"
+msgstr "የቀጥታ የድር ካሜራዎች"
+
+msgid "Loading webcams..."
+msgstr "የድር ካሜራዎችን በመጫን ላይ..."
+
+msgid "No webcams available in this category"
+msgstr "በዚህ ምድብ ውስጥ ምንም የድር ካሜራዎች አይገኙም።"
+
+msgid "Save"
+msgstr "አስቀምጥ"
+
+msgid "Select a category ({} available)"
+msgstr "ምድብ ይምረጡ ({} ይገኛል)"
+
+msgid "Show information"
+msgstr "መረጃ አሳይ"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine የድር ካሜራዎች - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine የድር ካሜራዎች - ቅንብሮች"
+
+msgid "Stream not available for this webcam"
+msgstr "ዥረት ለዚህ የድር ካሜራ አይገኝም"
+
+msgid "Unsupported category: %s"
+msgstr "የማይደገፍ ምድብ፡ %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "ዌብካሞችን ከskylinewebcams.com ይመልከቱ"
+

@@ -1,0 +1,93 @@
+# be translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: be <ekekaz@gmail.com>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Базавае меню загружана"
+
+msgid "Buffer size (KB)"
+msgstr "Памер буфера (КБ)"
+
+msgid "Cancel"
+msgstr "Адмяніць"
+
+msgid "Category-based Webcams"
+msgstr "Вэб-камеры на аснове катэгорый"
+
+msgid "Connection timeout (sec)"
+msgstr "Тайм-аўт злучэння (с)"
+
+msgid "Default view"
+msgstr "Выгляд па змаўчанні"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Памылка падчас поўнаэкраннага прайгравання: %s"
+
+msgid "Error during playback: %s"
+msgstr "Памылка падчас прайгравання: %s"
+
+msgid "Error loading category: %s"
+msgstr "Памылка загрузкі катэгорыі: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Памылка загрузкі краін: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Памылка загрузкі вэб-камер: %s"
+
+msgid "Error opening player: %s"
+msgstr "Памылка адкрыцця прайгравальніка: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Знойдзена %d краіны ў %s"
+
+msgid "Found %d webcams"
+msgstr "Знойдзена %d вэб-камер"
+
+msgid "Initializing..."
+msgstr "Ініцыялізацыя..."
+
+msgid "Live Webcams"
+msgstr "Жывыя вэб-камеры"
+
+msgid "Loading webcams..."
+msgstr "Загрузка вэб-камер..."
+
+msgid "No webcams available in this category"
+msgstr "У гэтай катэгорыі вэб-камер няма"
+
+msgid "Save"
+msgstr "Захаваць"
+
+msgid "Select a category ({} available)"
+msgstr "Выберыце катэгорыю (даступна {})"
+
+msgid "Show information"
+msgstr "Паказаць інфармацыю"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Вэб-камеры SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "Вэб-камеры SkyLine - Налады"
+
+msgid "Stream not available for this webcam"
+msgstr "Паток недаступны для гэтай вэб-камеры"
+
+msgid "Unsupported category: %s"
+msgstr "Катэгорыя не падтрымліваецца: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Глядзіце вэб-камеры з skylinewebcams.com"
+

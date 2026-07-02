@@ -1,0 +1,93 @@
+# he translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: he <ekekaz@gmail.com>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "התפריט הבסיסי נטען"
+
+msgid "Buffer size (KB)"
+msgstr "גודל מאגר (KB)"
+
+msgid "Cancel"
+msgstr "לְבַטֵל"
+
+msgid "Category-based Webcams"
+msgstr "מצלמות אינטרנט מבוססות קטגוריה"
+
+msgid "Connection timeout (sec)"
+msgstr "פסק זמן לחיבור (שניות)"
+
+msgid "Default view"
+msgstr "תצוגת ברירת מחדל"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "שגיאה במהלך הפעלה במסך מלא: %s"
+
+msgid "Error during playback: %s"
+msgstr "שגיאה במהלך השמעה: %s"
+
+msgid "Error loading category: %s"
+msgstr "שגיאה בטעינת הקטגוריה: %s"
+
+msgid "Error loading countries: %s"
+msgstr "שגיאה בטעינת מדינות: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "שגיאה בטעינת מצלמות אינטרנט: %s"
+
+msgid "Error opening player: %s"
+msgstr "שגיאה בפתיחת נגן: %s"
+
+msgid "Found %d countries in %s"
+msgstr "נמצאו %d מדינות ב-%s"
+
+msgid "Found %d webcams"
+msgstr "נמצאו %d מצלמות אינטרנט"
+
+msgid "Initializing..."
+msgstr "מאתחל..."
+
+msgid "Live Webcams"
+msgstr "מצלמות אינטרנט בשידור חי"
+
+msgid "Loading webcams..."
+msgstr "טוען מצלמות אינטרנט..."
+
+msgid "No webcams available in this category"
+msgstr "אין מצלמות אינטרנט זמינות בקטגוריה זו"
+
+msgid "Save"
+msgstr "לְהַצִיל"
+
+msgid "Select a category ({} available)"
+msgstr "בחר קטגוריה ({} זמינה)"
+
+msgid "Show information"
+msgstr "הצג מידע"
+
+msgid "SkyLine Webcams - %s"
+msgstr "מצלמות רשת SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "מצלמות רשת SkyLine - הגדרות"
+
+msgid "Stream not available for this webcam"
+msgstr "סטרימינג אינו זמין עבור מצלמת אינטרנט זו"
+
+msgid "Unsupported category: %s"
+msgstr "קטגוריה לא נתמכת: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "צפה במצלמות רשת מ-skylinewebcams.com"
+

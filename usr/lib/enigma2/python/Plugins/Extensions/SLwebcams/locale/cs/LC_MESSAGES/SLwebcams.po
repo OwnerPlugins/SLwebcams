@@ -1,0 +1,93 @@
+# cs translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: cs <ekekaz@gmail.com>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Načteno základní menu"
+
+msgid "Buffer size (KB)"
+msgstr "Velikost vyrovnávací paměti (kB)"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Category-based Webcams"
+msgstr "Webové kamery založené na kategoriích"
+
+msgid "Connection timeout (sec)"
+msgstr "Časový limit připojení (s)"
+
+msgid "Default view"
+msgstr "Výchozí zobrazení"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Chyba při přehrávání na celou obrazovku: %s"
+
+msgid "Error during playback: %s"
+msgstr "Chyba při přehrávání: %s"
+
+msgid "Error loading category: %s"
+msgstr "Chyba při načítání kategorie: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Chyba při načítání zemí: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Chyba při načítání webových kamer: %s"
+
+msgid "Error opening player: %s"
+msgstr "Chyba při otevírání přehrávače: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Nalezeno %d zemí v %s"
+
+msgid "Found %d webcams"
+msgstr "Nalezeno %d webových kamer"
+
+msgid "Initializing..."
+msgstr "Inicializace..."
+
+msgid "Live Webcams"
+msgstr "Živé webové kamery"
+
+msgid "Loading webcams..."
+msgstr "Načítání webových kamer..."
+
+msgid "No webcams available in this category"
+msgstr "V této kategorii nejsou dostupné žádné webové kamery"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Select a category ({} available)"
+msgstr "Vyberte kategorii (k dispozici: {})"
+
+msgid "Show information"
+msgstr "Zobrazit informace"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Webové kamery SkyLine – %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "Webové kamery SkyLine – Nastavení"
+
+msgid "Stream not available for this webcam"
+msgstr "Pro tuto webovou kameru není stream dostupný"
+
+msgid "Unsupported category: %s"
+msgstr "Nepodporovaná kategorie: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Sledujte webové kamery z webu skylinewebcams.com"
+

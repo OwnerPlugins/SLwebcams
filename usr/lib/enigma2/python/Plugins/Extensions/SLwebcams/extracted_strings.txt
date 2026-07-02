@@ -1,0 +1,26 @@
+Basic menu loaded
+Buffer size (KB)
+Cancel
+Category-based Webcams
+Connection timeout (sec)
+Default view
+Error during fullscreen playback: %s
+Error during playback: %s
+Error loading category: %s
+Error loading countries: %s
+Error loading webcams: %s
+Error opening player: %s
+Found %d countries in %s
+Found %d webcams
+Initializing...
+Live Webcams
+Loading webcams...
+No webcams available in this category
+Save
+Select a category ({} available)
+Show information
+SkyLine Webcams - %s
+SkyLine Webcams - Settings
+Stream not available for this webcam
+Unsupported category: %s
+Watch webcams from skylinewebcams.com

@@ -1,0 +1,93 @@
+# eo translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: eo <ekekaz@gmail.com>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Baza menuo ŝarĝita"
+
+msgid "Buffer size (KB)"
+msgstr "Bufrgrandeco (KB)"
+
+msgid "Cancel"
+msgstr "Nuligi"
+
+msgid "Category-based Webcams"
+msgstr "Kategori-bazitaj Retkameraoj"
+
+msgid "Connection timeout (sec)"
+msgstr "Konektotempo (sek)"
+
+msgid "Default view"
+msgstr "Defaŭlta vido"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Eraro dum plenekrana reproduktado: %s"
+
+msgid "Error during playback: %s"
+msgstr "Eraro dum reproduktado: %s"
+
+msgid "Error loading category: %s"
+msgstr "Eraro dum ŝarĝo de kategorio: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Eraro dum ŝarĝo de landoj: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Eraro dum ŝarĝo de retkameraoj: %s"
+
+msgid "Error opening player: %s"
+msgstr "Eraro dum la malfermo de la ludilo: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Trovis %d landojn en %s"
+
+msgid "Found %d webcams"
+msgstr "Trovis %d retkameraojn"
+
+msgid "Initializing..."
+msgstr "Komencante..."
+
+msgid "Live Webcams"
+msgstr "Vivaj Retkameraoj"
+
+msgid "Loading webcams..."
+msgstr "Ŝarĝante retkameraojn..."
+
+msgid "No webcams available in this category"
+msgstr "Neniuj retkameraoj haveblaj en ĉi tiu kategorio"
+
+msgid "Save"
+msgstr "Konservu"
+
+msgid "Select a category ({} available)"
+msgstr "Elektu kategorion ({} disponebla)"
+
+msgid "Show information"
+msgstr "Montru informojn"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine Webcams - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine Webcams - Agordoj"
+
+msgid "Stream not available for this webcam"
+msgstr "Fluo ne havebla por ĉi tiu retkamerao"
+
+msgid "Unsupported category: %s"
+msgstr "Nesubtenata kategorio: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Spektu retkameraojn de skylinewebcams.com"
+

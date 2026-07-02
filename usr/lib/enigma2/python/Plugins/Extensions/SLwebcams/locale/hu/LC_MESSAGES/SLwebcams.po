@@ -1,0 +1,93 @@
+# hu translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: hu <ekekaz@gmail.com>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Alapmenü betöltve"
+
+msgid "Buffer size (KB)"
+msgstr "Puffer mérete (KB)"
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "Category-based Webcams"
+msgstr "Kategória alapú webkamerák"
+
+msgid "Connection timeout (sec)"
+msgstr "Kapcsolódási időtúllépés (mp)"
+
+msgid "Default view"
+msgstr "Alapértelmezett nézet"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Hiba teljes képernyős lejátszás közben: %s"
+
+msgid "Error during playback: %s"
+msgstr "Hiba lejátszás közben: %s"
+
+msgid "Error loading category: %s"
+msgstr "Hiba a kategória betöltésekor: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Hiba az országok betöltésekor: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Hiba a webkamerák betöltésekor: %s"
+
+msgid "Error opening player: %s"
+msgstr "Hiba a lejátszó megnyitásakor: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%d ország található itt: %s"
+
+msgid "Found %d webcams"
+msgstr "%d webkamerát találtunk"
+
+msgid "Initializing..."
+msgstr "Inicializálás..."
+
+msgid "Live Webcams"
+msgstr "Élő webkamerák"
+
+msgid "Loading webcams..."
+msgstr "Webkamerák betöltése..."
+
+msgid "No webcams available in this category"
+msgstr "Ebben a kategóriában nem érhető el webkamera"
+
+msgid "Save"
+msgstr "Megtakarítás"
+
+msgid "Select a category ({} available)"
+msgstr "Válasszon egy kategóriát ({} elérhető)"
+
+msgid "Show information"
+msgstr "Információk megjelenítése"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine webkamerák - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine webkamerák – Beállítások"
+
+msgid "Stream not available for this webcam"
+msgstr "Az adatfolyam nem érhető el ehhez a webkamerához"
+
+msgid "Unsupported category: %s"
+msgstr "Nem támogatott kategória: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Nézze meg a skylinewebcams.com webkameráit"
+

@@ -1,0 +1,93 @@
+# gd translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: gd <ekekaz@gmail.com>\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Clàr-taice bunaiteach air a luchdachadh"
+
+msgid "Buffer size (KB)"
+msgstr "Meud bufair (KB)"
+
+msgid "Cancel"
+msgstr "Sguir dheth"
+
+msgid "Category-based Webcams"
+msgstr "Camara-lìn stèidhichte air roinn"
+
+msgid "Connection timeout (sec)"
+msgstr "Ùine ceangail (diog)"
+
+msgid "Default view"
+msgstr "Sealladh bunaiteach"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Mearachd rè ath-chluich làn-sgrìn: %s"
+
+msgid "Error during playback: %s"
+msgstr "Mearachd rè ath-chluich: %s"
+
+msgid "Error loading category: %s"
+msgstr "Thachair mearachd le luchdachadh na roinne: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Mearachd a' luchdadh dhùthchannan: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Mearachd a' luchdadh a' chamara-lìn: %s"
+
+msgid "Error opening player: %s"
+msgstr "Mearachd a' fosgladh cluicheadair: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Fhuaras %d dùthaich ann an %s"
+
+msgid "Found %d webcams"
+msgstr "Fhuaras %d camara-lìn"
+
+msgid "Initializing..."
+msgstr "A' tòiseachadh..."
+
+msgid "Live Webcams"
+msgstr "Camara-lìn beò"
+
+msgid "Loading webcams..."
+msgstr "Luchdaich a-nuas lìn camara-lìn. . ."
+
+msgid "No webcams available in this category"
+msgstr "Chan eil camara-lìn sam bith ri fhaighinn san roinn seo"
+
+msgid "Save"
+msgstr "Sàbhail"
+
+msgid "Select a category ({} available)"
+msgstr "Tagh roinn ({} ri fhaighinn)"
+
+msgid "Show information"
+msgstr "Seall fiosrachadh"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Camara-lìn SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "Camara-lìn SkyLine - roghainnean"
+
+msgid "Stream not available for this webcam"
+msgstr "Chan eil sruth ri fhaighinn airson a' chamara-lìn seo"
+
+msgid "Unsupported category: %s"
+msgstr "Roinn-seòrsa gun taic: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Coimhead air camarathan-lìn bho skylinewebcams.com"
+

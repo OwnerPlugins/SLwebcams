@@ -1,0 +1,93 @@
+# is translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: is <ekekaz@gmail.com>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Grunnvalmynd hlaðin"
+
+msgid "Buffer size (KB)"
+msgstr "Stærð buffer (KB)"
+
+msgid "Cancel"
+msgstr "Hætta við"
+
+msgid "Category-based Webcams"
+msgstr "Vefmyndavélar byggðar á flokkum"
+
+msgid "Connection timeout (sec)"
+msgstr "Tímamörk tengingar (sek)"
+
+msgid "Default view"
+msgstr "Sjálfgefið útsýni"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Villa við spilun á öllum skjánum: %s"
+
+msgid "Error during playback: %s"
+msgstr "Villa við spilun: %s"
+
+msgid "Error loading category: %s"
+msgstr "Villa við að hlaða flokki: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Villa við að hlaða löndum: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Villa við að hlaða vefmyndavélum: %s"
+
+msgid "Error opening player: %s"
+msgstr "Villa við að opna spilara: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Fann %d lönd í %s"
+
+msgid "Found %d webcams"
+msgstr "Fann %d vefmyndavélar"
+
+msgid "Initializing..."
+msgstr "Frumstillir..."
+
+msgid "Live Webcams"
+msgstr "Vefmyndavélar í beinni"
+
+msgid "Loading webcams..."
+msgstr "Hleður vefmyndavélum..."
+
+msgid "No webcams available in this category"
+msgstr "Engar vefmyndavélar í boði í þessum flokki"
+
+msgid "Save"
+msgstr "Vista"
+
+msgid "Select a category ({} available)"
+msgstr "Veldu flokk ({} í boði)"
+
+msgid "Show information"
+msgstr "Sýna upplýsingar"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine vefmyndavélar - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine vefmyndavélar - Stillingar"
+
+msgid "Stream not available for this webcam"
+msgstr "Straumur er ekki í boði fyrir þessa vefmyndavél"
+
+msgid "Unsupported category: %s"
+msgstr "Óstuddur flokkur: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Horfðu á vefmyndavélar frá skylinewebcams.com"
+

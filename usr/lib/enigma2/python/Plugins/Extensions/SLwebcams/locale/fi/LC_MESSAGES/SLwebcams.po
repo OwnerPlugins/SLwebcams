@@ -1,0 +1,93 @@
+# fi translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: fi <ekekaz@gmail.com>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Perusvalikko ladattu"
+
+msgid "Buffer size (KB)"
+msgstr "Puskurin koko (kt)"
+
+msgid "Cancel"
+msgstr "Peruuttaa"
+
+msgid "Category-based Webcams"
+msgstr "Luokkapohjaiset web-kamerat"
+
+msgid "Connection timeout (sec)"
+msgstr "Yhteyden aikakatkaisu (s)"
+
+msgid "Default view"
+msgstr "Oletusnäkymä"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Virhe koko näytön toiston aikana: %s"
+
+msgid "Error during playback: %s"
+msgstr "Virhe toiston aikana: %s"
+
+msgid "Error loading category: %s"
+msgstr "Virhe ladattaessa luokkaa: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Virhe ladattaessa maita: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Virhe verkkokameroiden lataamisessa: %s"
+
+msgid "Error opening player: %s"
+msgstr "Virhe avattaessa soitinta: %s"
+
+msgid "Found %d countries in %s"
+msgstr "Löytyi %d maata sijainnista %s"
+
+msgid "Found %d webcams"
+msgstr "Löytyi %d verkkokameraa"
+
+msgid "Initializing..."
+msgstr "Alustetaan..."
+
+msgid "Live Webcams"
+msgstr "Live-verkkokamerat"
+
+msgid "Loading webcams..."
+msgstr "Ladataan verkkokameroita..."
+
+msgid "No webcams available in this category"
+msgstr "Tässä luokassa ei ole saatavilla web-kameroita"
+
+msgid "Save"
+msgstr "Tallentaa"
+
+msgid "Select a category ({} available)"
+msgstr "Valitse luokka ({} käytettävissä)"
+
+msgid "Show information"
+msgstr "Näytä tiedot"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLinen verkkokamerat - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine Webcams - Asetukset"
+
+msgid "Stream not available for this webcam"
+msgstr "Streami ei ole käytettävissä tälle verkkokameralle"
+
+msgid "Unsupported category: %s"
+msgstr "Ei-tuettu luokka: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Katso web-kameroita osoitteesta skylinewebcams.com"
+

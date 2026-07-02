@@ -1,0 +1,93 @@
+# bn translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: bn <ekekaz@gmail.com>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "বেসিক মেনু লোড হয়েছে"
+
+msgid "Buffer size (KB)"
+msgstr "বাফার সাইজ (KB)"
+
+msgid "Cancel"
+msgstr "বাতিল করুন"
+
+msgid "Category-based Webcams"
+msgstr "বিভাগ ভিত্তিক ওয়েবক্যাম"
+
+msgid "Connection timeout (sec)"
+msgstr "সংযোগের সময়সীমা (সেকেন্ড)"
+
+msgid "Default view"
+msgstr "ডিফল্ট ভিউ"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "পূর্ণস্ক্রীন প্লেব্যাকের সময় ত্রুটি: %s"
+
+msgid "Error during playback: %s"
+msgstr "প্লেব্যাকের সময় ত্রুটি: %s"
+
+msgid "Error loading category: %s"
+msgstr "বিভাগ লোড করার সময় ত্রুটি: %s"
+
+msgid "Error loading countries: %s"
+msgstr "দেশগুলি লোড করতে ত্রুটি: %s৷"
+
+msgid "Error loading webcams: %s"
+msgstr "ওয়েবক্যাম লোড করার সময় ত্রুটি: %s"
+
+msgid "Error opening player: %s"
+msgstr "প্লেয়ার খুলতে ত্রুটি: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s এ %dটি দেশ পাওয়া গেছে"
+
+msgid "Found %d webcams"
+msgstr "%d ওয়েবক্যাম পাওয়া গেছে"
+
+msgid "Initializing..."
+msgstr "শুরু করা হচ্ছে..."
+
+msgid "Live Webcams"
+msgstr "লাইভ ওয়েবক্যাম"
+
+msgid "Loading webcams..."
+msgstr "ওয়েবক্যাম লোড হচ্ছে..."
+
+msgid "No webcams available in this category"
+msgstr "এই বিভাগে কোন ওয়েবক্যাম উপলব্ধ নেই৷"
+
+msgid "Save"
+msgstr "সংরক্ষণ করুন"
+
+msgid "Select a category ({} available)"
+msgstr "একটি বিভাগ নির্বাচন করুন ({} উপলব্ধ)"
+
+msgid "Show information"
+msgstr "তথ্য দেখান"
+
+msgid "SkyLine Webcams - %s"
+msgstr "স্কাইলাইন ওয়েবক্যাম - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "স্কাইলাইন ওয়েবক্যাম - সেটিংস৷"
+
+msgid "Stream not available for this webcam"
+msgstr "এই ওয়েবক্যামের জন্য স্ট্রিম উপলব্ধ নয়৷"
+
+msgid "Unsupported category: %s"
+msgstr "অসমর্থিত বিভাগ: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "skylinewebcams.com থেকে ওয়েবক্যাম দেখুন"
+

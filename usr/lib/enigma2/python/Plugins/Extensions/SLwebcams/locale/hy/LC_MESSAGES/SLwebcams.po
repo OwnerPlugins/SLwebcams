@@ -1,0 +1,93 @@
+# hy translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: hy <ekekaz@gmail.com>\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Հիմնական ընտրացանկը բեռնված է"
+
+msgid "Buffer size (KB)"
+msgstr "Բուֆերի չափը (ԿԲ)"
+
+msgid "Cancel"
+msgstr "Չեղարկել"
+
+msgid "Category-based Webcams"
+msgstr "Կատեգորիայի վրա հիմնված վեբ-տեսախցիկներ"
+
+msgid "Connection timeout (sec)"
+msgstr "Միացման ժամկետը (վրկ)"
+
+msgid "Default view"
+msgstr "Կանխադրված դիտում"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Սխալ լիաէկրան նվագարկման ժամանակ՝ %s"
+
+msgid "Error during playback: %s"
+msgstr "Սխալ նվագարկման ժամանակ՝ %s"
+
+msgid "Error loading category: %s"
+msgstr "Կատեգորիայի բեռնման սխալ՝ %s"
+
+msgid "Error loading countries: %s"
+msgstr "Չհաջողվեց բեռնել երկրները՝ %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Վեբ-տեսախցիկները բեռնելիս սխալ՝ %s"
+
+msgid "Error opening player: %s"
+msgstr "Չհաջողվեց բացել նվագարկիչը՝ %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s-ում գտնվել է %d երկիր"
+
+msgid "Found %d webcams"
+msgstr "Գտնվել է %d տեսախցիկ"
+
+msgid "Initializing..."
+msgstr "Նախաձեռնվում է..."
+
+msgid "Live Webcams"
+msgstr "Ուղիղ վեբ տեսախցիկներ"
+
+msgid "Loading webcams..."
+msgstr "Տեսախցիկների բեռնում..."
+
+msgid "No webcams available in this category"
+msgstr "Այս կատեգորիայում վեբ-տեսախցիկներ չկան"
+
+msgid "Save"
+msgstr "Պահպանել"
+
+msgid "Select a category ({} available)"
+msgstr "Ընտրեք կատեգորիա ({} հասանելի է)"
+
+msgid "Show information"
+msgstr "Ցույց տալ տեղեկատվություն"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine վեբ-տեսախցիկներ - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine վեբ-տեսախցիկներ - Կարգավորումներ"
+
+msgid "Stream not available for this webcam"
+msgstr "Հեռարձակումը հասանելի չէ այս վեբ-տեսախցիկի համար"
+
+msgid "Unsupported category: %s"
+msgstr "Չաջակցվող կատեգորիա՝ %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Դիտեք տեսախցիկներ skylinewebcams.com-ից"
+

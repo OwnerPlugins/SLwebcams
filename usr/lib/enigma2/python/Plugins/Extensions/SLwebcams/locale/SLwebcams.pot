@@ -1,0 +1,93 @@
+# SLwebcams translations
+# Copyright (C) 2026 Lululla Team
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+msgid "Basic menu loaded"
+msgstr ""
+
+msgid "Buffer size (KB)"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Category-based Webcams"
+msgstr ""
+
+msgid "Connection timeout (sec)"
+msgstr ""
+
+msgid "Default view"
+msgstr ""
+
+msgid "Error during fullscreen playback: %s"
+msgstr ""
+
+msgid "Error during playback: %s"
+msgstr ""
+
+msgid "Error loading category: %s"
+msgstr ""
+
+msgid "Error loading countries: %s"
+msgstr ""
+
+msgid "Error loading webcams: %s"
+msgstr ""
+
+msgid "Error opening player: %s"
+msgstr ""
+
+msgid "Found %d countries in %s"
+msgstr ""
+
+msgid "Found %d webcams"
+msgstr ""
+
+msgid "Initializing..."
+msgstr ""
+
+msgid "Live Webcams"
+msgstr ""
+
+msgid "Loading webcams..."
+msgstr ""
+
+msgid "No webcams available in this category"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Select a category ({} available)"
+msgstr ""
+
+msgid "Show information"
+msgstr ""
+
+msgid "SkyLine Webcams - %s"
+msgstr ""
+
+msgid "SkyLine Webcams - Settings"
+msgstr ""
+
+msgid "Stream not available for this webcam"
+msgstr ""
+
+msgid "Unsupported category: %s"
+msgstr ""
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr ""

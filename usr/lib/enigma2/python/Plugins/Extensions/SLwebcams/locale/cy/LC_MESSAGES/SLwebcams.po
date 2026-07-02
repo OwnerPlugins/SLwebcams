@@ -1,0 +1,95 @@
+# SLwebcams translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SLwebcams\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-06-06 17:48+0200\n"
+"Last-Translator: root <EMAIL@ADDRESS>\n"
+"Language-Team: Welsh\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Annulla"
+msgstr "Canslo"
+
+msgid "Caricamento webcam..."
+msgstr "Wrthi'n llwytho gwe-gamera..."
+
+msgid "Categoria non supportata: %s"
+msgstr "Categori heb ei gefnogi: %s"
+
+msgid "Dimensione buffer (KB)"
+msgstr "Byffer dimensiwn (KB)"
+
+msgid "Errore durante il caricamento delle webcam: %s"
+msgstr "Gwall wrth lwytho gwegamerau: %s"
+
+msgid "Errore durante l'apertura del player: %s"
+msgstr "Gwall wrth agor y chwaraewr: %s"
+
+msgid "Errore durante la riproduzione a schermo intero: %s"
+msgstr "Gwall chwarae sgrin lawn: %s"
+
+msgid "Errore durante la riproduzione: %s"
+msgstr "Gwall wrth chwarae: %s"
+
+msgid "Errore nel caricamento della categoria: %s"
+msgstr "Gwall wrth lwytho categori: %s"
+
+msgid "Errore nel caricamento delle nazioni: %s"
+msgstr "Gwall wrth lwytho gwledydd: %s"
+
+msgid "Guarda le webcam da skylinewebcams.com"
+msgstr "Gweld gwe-gamerâu o skylinewebcams.com"
+
+msgid "Inizializzazione..."
+msgstr "Cychwynnol..."
+
+msgid "Live Webcams"
+msgstr "Gwegamerâu Byw"
+
+msgid "Menu di base caricato"
+msgstr "Bwydlen sylfaenol wedi'i llwytho"
+
+msgid "Mostra informazioni"
+msgstr "Dangos gwybodaeth"
+
+msgid "Nessuna webcam disponibile in questa categoria"
+msgstr "Dim gwe-gamerâu ar gael yn y categori hwn"
+
+msgid "Salva"
+msgstr ""
+
+msgid "Seleziona una categoria ({} disponibili)"
+msgstr "Dewiswch gategori ({} ar gael)"
+
+msgid "SkyLine Webcams - %s"
+msgstr "Gwegamerau SkyLine - %s"
+
+msgid "SkyLine Webcams - Impostazioni"
+msgstr "Gwegamerâu SkyLine - Gosodiadau"
+
+msgid "Stream non disponibile per questa webcam"
+msgstr "Nid yw'r ffrwd ar gael ar gyfer y gwe-gamera hwn"
+
+msgid "Timeout connessione (sec)"
+msgstr "Goramser cysylltiad (eiliad)"
+
+msgid "Trovate %d nazioni in %s"
+msgstr "Darganfod %d cenhedloedd yn %s"
+
+msgid "Trovate %d webcam"
+msgstr "Darganfod %d gwegamera"
+
+msgid "Vista predefinita"
+msgstr "Gwedd ddiofyn"
+
+msgid "Web per categoria"
+msgstr "Gwe yn ôl categori"

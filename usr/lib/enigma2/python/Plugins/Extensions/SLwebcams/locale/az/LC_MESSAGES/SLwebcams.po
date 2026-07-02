@@ -1,0 +1,93 @@
+# az translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: az <ekekaz@gmail.com>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Əsas menyu yükləndi"
+
+msgid "Buffer size (KB)"
+msgstr "Bufer ölçüsü (KB)"
+
+msgid "Cancel"
+msgstr "Ləğv et"
+
+msgid "Category-based Webcams"
+msgstr "Kateqoriyaya əsaslanan veb-kameralar"
+
+msgid "Connection timeout (sec)"
+msgstr "Bağlantı fasiləsi (san)"
+
+msgid "Default view"
+msgstr "Defolt görünüş"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Tam ekran oxutma zamanı xəta: %s"
+
+msgid "Error during playback: %s"
+msgstr "Oxutma zamanı xəta: %s"
+
+msgid "Error loading category: %s"
+msgstr "Kateqoriya yüklənərkən xəta: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Ölkələri yükləmə xətası: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Veb kameraları yükləmə xətası: %s"
+
+msgid "Error opening player: %s"
+msgstr "Oynatıcının açılması xətası: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%s içində %d ölkə tapıldı"
+
+msgid "Found %d webcams"
+msgstr "%d veb kamera tapıldı"
+
+msgid "Initializing..."
+msgstr "Başlanılır..."
+
+msgid "Live Webcams"
+msgstr "Canlı Veb kameralar"
+
+msgid "Loading webcams..."
+msgstr "Veb kameralar yüklənir..."
+
+msgid "No webcams available in this category"
+msgstr "Bu kateqoriyada veb-kamera yoxdur"
+
+msgid "Save"
+msgstr "Saxla"
+
+msgid "Select a category ({} available)"
+msgstr "Kateqoriya seçin ({} mövcuddur)"
+
+msgid "Show information"
+msgstr "Məlumat göstərin"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine Veb kameraları - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine Veb kameraları - Parametrlər"
+
+msgid "Stream not available for this webcam"
+msgstr "Bu veb kamera üçün yayım əlçatan deyil"
+
+msgid "Unsupported category: %s"
+msgstr "Dəstəklənməyən kateqoriya: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "skylinewebcams.com saytından veb kameralara baxın"
+

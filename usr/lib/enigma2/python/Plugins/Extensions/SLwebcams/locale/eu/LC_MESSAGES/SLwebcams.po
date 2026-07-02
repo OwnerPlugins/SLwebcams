@@ -1,0 +1,93 @@
+# eu translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: eu <ekekaz@gmail.com>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "Oinarrizko menua kargatu da"
+
+msgid "Buffer size (KB)"
+msgstr "Buffer tamaina (KB)"
+
+msgid "Cancel"
+msgstr "Utzi"
+
+msgid "Category-based Webcams"
+msgstr "Kategorietan oinarritutako Webkamerak"
+
+msgid "Connection timeout (sec)"
+msgstr "Konexioaren denbora-muga (s)"
+
+msgid "Default view"
+msgstr "Ikuspegi lehenetsia"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "Errore bat pantaila osoko erreprodukzioan: %s"
+
+msgid "Error during playback: %s"
+msgstr "Errore bat erreprodukzioan: %s"
+
+msgid "Error loading category: %s"
+msgstr "Errore bat gertatu da kategoria kargatzean: %s"
+
+msgid "Error loading countries: %s"
+msgstr "Errorea herrialdeak kargatzean: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "Errore bat gertatu da webcam-ak kargatzean: %s"
+
+msgid "Error opening player: %s"
+msgstr "Errorea erreproduzitzailea irekitzean: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%d herrialde aurkitu dira %s-n"
+
+msgid "Found %d webcams"
+msgstr "%d webcam aurkitu dira"
+
+msgid "Initializing..."
+msgstr "Hasieratzen..."
+
+msgid "Live Webcams"
+msgstr "Zuzeneko Webkamerak"
+
+msgid "Loading webcams..."
+msgstr "Webcamak kargatzen..."
+
+msgid "No webcams available in this category"
+msgstr "Kategoria honetan ez dago kamerarik erabilgarri"
+
+msgid "Save"
+msgstr "Gorde"
+
+msgid "Select a category ({} available)"
+msgstr "Hautatu kategoria bat ({} eskuragarri)"
+
+msgid "Show information"
+msgstr "Erakutsi informazioa"
+
+msgid "SkyLine Webcams - %s"
+msgstr "SkyLine Webcams - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "SkyLine Webcams - Ezarpenak"
+
+msgid "Stream not available for this webcam"
+msgstr "Erreprodukzioa ez dago erabilgarri webcam honetarako"
+
+msgid "Unsupported category: %s"
+msgstr "Onartu gabeko kategoria: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "Ikusi skylinewebcams.com webguneko web-kamerak"
+

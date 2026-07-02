@@ -1,0 +1,93 @@
+# fa translations
+# Copyright (C) 2026 Lululla Team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: fa <ekekaz@gmail.com>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Basic menu loaded"
+msgstr "منوی اصلی بارگیری شد"
+
+msgid "Buffer size (KB)"
+msgstr "اندازه بافر (KB)"
+
+msgid "Cancel"
+msgstr "لغو کنید"
+
+msgid "Category-based Webcams"
+msgstr "وب کم های مبتنی بر دسته"
+
+msgid "Connection timeout (sec)"
+msgstr "پایان زمان اتصال (ثانیه)"
+
+msgid "Default view"
+msgstr "نمای پیش فرض"
+
+msgid "Error during fullscreen playback: %s"
+msgstr "خطا در حین پخش تمام صفحه: %s"
+
+msgid "Error during playback: %s"
+msgstr "خطا در حین پخش: %s"
+
+msgid "Error loading category: %s"
+msgstr "خطا در بارگیری دسته: %s"
+
+msgid "Error loading countries: %s"
+msgstr "خطا در بارگیری کشورها: %s"
+
+msgid "Error loading webcams: %s"
+msgstr "خطا در بارگیری وب کم: %s"
+
+msgid "Error opening player: %s"
+msgstr "خطا در باز کردن پخش کننده: %s"
+
+msgid "Found %d countries in %s"
+msgstr "%d کشور در %s یافت شد"
+
+msgid "Found %d webcams"
+msgstr "%d وب کم پیدا شد"
+
+msgid "Initializing..."
+msgstr "در حال شروع..."
+
+msgid "Live Webcams"
+msgstr "وب کم های زنده"
+
+msgid "Loading webcams..."
+msgstr "در حال بارگیری وب کم..."
+
+msgid "No webcams available in this category"
+msgstr "هیچ وب کم در این دسته موجود نیست"
+
+msgid "Save"
+msgstr "ذخیره کنید"
+
+msgid "Select a category ({} available)"
+msgstr "یک دسته را انتخاب کنید ({} موجود است)"
+
+msgid "Show information"
+msgstr "نمایش اطلاعات"
+
+msgid "SkyLine Webcams - %s"
+msgstr "وب کم های SkyLine - %s"
+
+msgid "SkyLine Webcams - Settings"
+msgstr "وب کم های SkyLine - تنظیمات"
+
+msgid "Stream not available for this webcam"
+msgstr "جریان برای این وب کم در دسترس نیست"
+
+msgid "Unsupported category: %s"
+msgstr "دسته پشتیبانی نشده: %s"
+
+msgid "Watch webcams from skylinewebcams.com"
+msgstr "وب کم ها را از skylinewebcams.com تماشا کنید"
+
