@@ -307,7 +307,7 @@ This plugin is released under the GNU General Public License v2.0.
 
 - **GitHub Issues**: [https://github.com/OwnerPlugins/SLwebcams/issues](https://github.com/OwnerPlugins/SLwebcams/issues)
 - **Enigma2 Forums**: Check the plugin section on popular Enigma2 forums
-- **Email**: your-email@example.com
+- **Email**: 
 
 ---
 
