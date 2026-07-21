@@ -617,7 +617,9 @@ class SLwebcamsMain(Screen):
                         {'name': 'UNESCO', 'url': '{}/it/live-cams-category/unesco-cams.html'.format(self.parser.BASE_URL)},
                         {'name': 'Ski Slopes', 'url': '{}/it/live-cams-category/ski-cams.html'.format(self.parser.BASE_URL)},
                         {'name': 'Animals', 'url': '{}/it/live-cams-category/animals-cams.html'.format(self.parser.BASE_URL)},
-                        {'name': 'Volcanoes', 'url': '{}/it/live-cams-category/volcanoes-cams.html'.format(self.parser.BASE_URL)}
+                        {'name': 'Volcanoes', 'url': '{}/it/live-cams-category/volcanoes-cams.html'.format(self.parser.BASE_URL)},
+                        {'name': 'Lakes', 'url': '{}/it/live-cams-category/lake-cams.html'.format(self.parser.BASE_URL)},
+                        {'name': 'From Web', 'url': '{}/it/live-cams-category/live-web-cams.html'.format(self.parser.BASE_URL)},
                     ]
                 enhanced_log(
                     "Found {} subcategories".format(
